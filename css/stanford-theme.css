@@ -26,6 +26,29 @@ ul {
     list-style-type:circle;
 }
 
+.stanford {
+/*    text-decoration: underline;*/
+    -webkit-text-decoration-color: #8c1515;
+    text-decoration-color: #8c1515;
+}
+.uci {
+/*    text-decoration: underline;*/
+    -webkit-text-decoration-color: #0064a4;
+    text-decoration-color: #0064a4;
+}
+.stanford:before {
+/*    content:"•";*/
+    position: absolute;
+    left:-10px;
+    color:#8c1515;
+}
+.uci:before {
+/*    content:"•";*/
+    position: absolute;
+    left:-10px;
+    color:#0064a4;
+}
+
 .header {
     background-color: #8c1515;
     color: #f2f1eb;
@@ -34,7 +57,6 @@ ul {
 .header a {
     color: #ffd200;
 }
-
 .text-muted {
 /*    color: #333333;*/
 }
