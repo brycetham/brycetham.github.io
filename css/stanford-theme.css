@@ -1,5 +1,5 @@
 body {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: Georgia, Times, 'Times New Roman', serif;
     font-weight: 300;
     background-color: #f2f1eb;
     color: #333333;
@@ -57,6 +57,9 @@ ul {
 .header a {
     color: #ffd200;
 }
+.header .row {
+    margin: 0;
+}
 .text-muted {
 /*    color: #333333;*/
 }
@@ -76,7 +79,40 @@ ul {
 /*    box-shadow: 8px 8px 10px #5f574f;*/
 }
 
-.modal {
+.project-row {
+    padding: 0;
+}
+.project-label {
+    line-height: 23px;
+}
+.thumbnail {
+    position: relative;
+    padding: 0px;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 0px 0px 0 #666;
+    -moz-box-shadow: 0px 0px 0 #666;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+/*    -webkit-filter: opacity(.75);*/
+}
+/*.thumbnail:hover {
+    -webkit-box-shadow: 4px 4px 0 #666;
+    -moz-box-shadow: 4px 4px 0 #666;
+    -webkit-filter: opacity(1);
+    top: -4px;
+    left: -4px;
+}*/
+.thumbnail iframe {
+    width: 100%;
+    height: 150px;
+}
+.thumbnail img {
+    width: 100%;
+    height: 150px;
+    filter: opacity(0.8);
+}
+
+/*.modal {
     text-align: center;
 }
 @media screen and (min-width: 768px) {
@@ -91,4 +127,4 @@ ul {
     display: inline-block;
     text-align: left;
     vertical-align: middle;
-}
+}*/
