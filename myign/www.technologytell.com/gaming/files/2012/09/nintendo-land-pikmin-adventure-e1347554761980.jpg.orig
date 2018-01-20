@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	 
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://media.gadgetellsolutions.com/xmlrpc.php">
+	<title>GadgetellSolutions Media</title>
+<link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="GadgetellSolutions Media &raquo; Feed" href="https://media.gadgetellsolutions.com/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="GadgetellSolutions Media &raquo; Comments Feed" href="https://media.gadgetellsolutions.com/index.php/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/media.gadgetellsolutions.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='adsns_css-css'  href='https://media.gadgetellsolutions.com/wp-content/plugins/adsense-plugin/css/adsns.css?ver=1.47' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://media.gadgetellsolutions.com/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-transitions-css'  href='https://media.gadgetellsolutions.com/wp-content/plugins/templatesnext-toolkit/css/owl.transitions.css?ver=1.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css'  href='https://media.gadgetellsolutions.com/wp-content/plugins/templatesnext-toolkit/css/colorbox.css?ver=1.5.14' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://media.gadgetellsolutions.com/wp-content/plugins/templatesnext-toolkit/css/animate.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tx-style-css'  href='https://media.gadgetellsolutions.com/wp-content/plugins/templatesnext-toolkit/css/tx-style.css?ver=1.01' type='text/css' media='all' />
+<link rel='stylesheet' id='itransform-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CRoboto%3A300%2C400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://media.gadgetellsolutions.com/wp-content/themes/i-transform/fonts/genericons.css?ver=2.09' type='text/css' media='all' />
+<link rel='stylesheet' id='side-menu-css'  href='https://media.gadgetellsolutions.com/wp-content/themes/i-transform/css/jquery.sidr.dark.css?ver=2015-01-12' type='text/css' media='all' />
+<link rel='stylesheet' id='itrans-slider-css'  href='https://media.gadgetellsolutions.com/wp-content/themes/i-transform/css/itrans-slider.css?ver=2015-01-12' type='text/css' media='all' />
+<link rel='stylesheet' id='itransform-style-css'  href='https://media.gadgetellsolutions.com/wp-content/themes/i-transform/style.css?ver=2016-09-26' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='itransform-ie-css'  href='https://media.gadgetellsolutions.com/wp-content/themes/i-transform/css/ie.css?ver=2016-07-18' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='itrans-extra-stylesheet-css'  href='https://media.gadgetellsolutions.com/wp-content/themes/i-transform/css/extra-style.css?ver=2016-03-11' type='text/css' media='all' />
+<style id='itrans-extra-stylesheet-inline-css' type='text/css'>
+ .site { max-width: 1200px; } 
+</style>
+<link rel='stylesheet' id='kirki-styles-css'  href='https://media.gadgetellsolutions.com/wp-content/themes/i-transform/inc/kirki/assets/css/kirki-styles.css' type='text/css' media='all' />
+<style id='kirki-styles-inline-css' type='text/css'>
+body{background-color:rgba(224,224,224,1);background-image:url("");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:left top;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;}.ibanner{background-image:url("");background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:left top;-webkit-background-size:cover;-moz-background-size:cover;-ms-background-size:cover;-o-background-size:cover;}
+</style>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://media.gadgetellsolutions.com/index.php/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://media.gadgetellsolutions.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://media.gadgetellsolutions.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.1" />
+<style type="text/css" id="custom-style">
+a { color: #95aabf;}a:visited { color: #95aabf;}input:focus, textarea:focus {border: 1px solid #95aabf;}button,input[type="submit"],input[type="button"],input[type="reset"] {background: #95aabf; }.nav-container .current_page_item > a > span,.nav-container .current_page_ancestor > a > span,.nav-container .current-menu-item > a span,.nav-container .current-menu-ancestor > a > span,.nav-container li a:hover span {	background-color: #95aabf; /* variable color */}.nav-container li:hover > a,.nav-container li a:hover {	color: #95aabf;}.nav-container .sub-menu,.nav-container .children {	border: 1px solid #e7e7e7;	border-top: 2px solid #95aabf; /* variable color */}.ibanner {	background-color: #95aabf;}.ibanner,.tx-folio-img .folio-links .folio-linkico, .tx-folio-img .folio-links .folio-zoomico {	background-color: #95aabf;}.da-dots span.da-dots-current { background-color: #95aabf;}div#ft-post div.entry-thumbnail:hover > div.comments-link { background-color: #95aabf;}.entry-header h1.entry-title a:hover { color: #95aabf; }.entry-header > div.entry-meta a:hover { color: #95aabf; }.featured-area div.entry-summary > p > a.moretag:hover {	background-color: #95aabf;}.site-content .post div.meta-img div.entry-thumbnail img {	border-top: 2px solid #95aabf;}.site-content div.entry-thumbnail .stickyonimg,.site-content div.entry-thumbnail .dateonimg {	background-color: #95aabf;}.site-content div.entry-nothumb .stickyonimg,.site-content div.entry-nothumb .dateonimg {	background-color: #95aabf;}.entry-meta a {	color: #95aabf;}.entry-content a,.comment-content a {	color: #95aabf;}.format-status .entry-content .page-links a,.format-gallery .entry-content .page-links a,.format-chat .entry-content .page-links a,.format-quote .entry-content .page-links a,.page-links a {	background: #95aabf;	border: 1px solid #95aabf;	color: #ffffff;}.format-gallery .entry-content .page-links a:hover,.format-audio .entry-content .page-links a:hover,.format-status .entry-content .page-links a:hover,.format-video .entry-content .page-links a:hover,.format-chat .entry-content .page-links a:hover,.format-quote .entry-content .page-links a:hover,.page-links a:hover {	color: #95aabf;}.iheader {background-color: #95aabf;}.iheader.front { background-color: #95aabf;}.navigation a { color: #95aabf;}.paging-navigation div.navigation > ul > li a:hover,.paging-navigation div.navigation > ul > li.active > a {	color: #95aabf;	border-color: #95aabf;}.comment-author .fn,.comment-author .url,.comment-reply-link,.comment-reply-login {	color: #95aabf;}.comment-body a,.comment-meta,.comment-meta a {	color: #95aabf;}.widget a:hover {	color: #95aabf;}.widget_calendar a:hover {	background-color: #95aabf;	color: #ffffff;	}.widget_calendar td#next a:hover,.widget_calendar td#prev a:hover {	background-color: #95aabf;	color: #ffffff;	}.site-footer div.widget-area .widget a:hover {	color: #95aabf;}.site-main div.widget-area .widget_calendar a:hover,.site-footer div.widget-area .widget_calendar a:hover {	background-color: #95aabf;	color: #ffffff;	}.da-dots > span > span {background-color: #95aabf;}.widget a:visited,.entry-header h1.entry-title a:visited {	color: #474747;}.widget a:hover,.entry-header h1.entry-title a:hover {	color: #95aabf;}.error404 .page-title:before {	color: #95aabf;}.format-status {	background-color: #95aabf;}.content-area .tx-service .tx-service-icon span {	color: #95aabf;	border-color:  #95aabf;}.content-area .tx-service:hover .tx-service-icon span {	background-color: #95aabf;}.content-area .tx-service .tx-service-icon span i {	color: #95aabf;	}.content-area .tx-service:hover .tx-service-icon span i {	color: #FFFFFF;	}.post .post-mainpart .entry-summary a.moretag {color: #FFFFFF; background-color: #95aabf;}</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body class="home blog onecol-blog single-author">
+	<div id="page" class="hfeed site">
+    	
+            	<div id="utilitybar" class="utilitybar">
+        	<div class="ubarinnerwrap">
+                <div class="socialicons">
+                                    </div>
+                                
+                                <div class="topphone">
+                    <i class="topbarico genericon genericon-mail"></i>
+                                            Mail us :  info@gadgetellsolutions.com                                    </div>
+                                
+            </div> 
+        </div>
+                
+        <div class="headerwrap">
+            <header id="masthead" class="site-header" role="banner">
+         		<div class="headerinnerwrap">
+					                        <a class="home-link" href="https://media.gadgetellsolutions.com/" title="GadgetellSolutions Media" rel="home">
+                            <span><img src="http://media.gadgetellsolutions.com/wp-content/uploads/2017/12/logomain.png" alt="GadgetellSolutions Media" /></span>
+                        </a>
+                    	
+        
+                    <div id="navbar" class="navbar">
+                        <nav id="site-navigation" class="navigation main-navigation" role="navigation">
+                            <h3 class="menu-toggle">Menu</h3>
+                            <a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+                            <div class="nav-container"><ul id="menu-main-menu" class="nav-menu"><li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-27"><a href="http://media.gadgetellsolutions.com/">Home</a></li>
+<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="https://media.gadgetellsolutions.com/index.php/news-and-information-sign-up/">Sign-up</a></li>
+</ul></div>							
+                        </nav><!-- #site-navigation -->
+                        <div class="topsearch">
+                            <form role="search" method="get" class="search-form" action="https://media.gadgetellsolutions.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>                        </div>
+                    </div><!-- #navbar -->
+                    <div class="clear"></div>
+                </div>
+            </header><!-- #masthead -->
+        </div>
+                <!-- #Banner -->
+        <div class="ibanner" data-sliderspeed="6000">	<div class="slidexnav">		<a href="#" class="sldprev genericon genericon-leftarrow"></a>		<a href="#" class="sldnext genericon genericon-rightarrow"></a>	</div>	<div id="da-slider" class="da-slider" role="banner"><div class="da-slide"><h2>2017 Retail Tech Report</h2><p>Want to know the technology, spending on tech and how it will change over the next 12 months?    Download this compelling Research Study to find out what innovative tech is running Retail.</p><a href="http://www.mytotalretail.com/resource/2017-retail-technology-report-analysis-trends-buying-behaviors-future-opportunities/?src=GSPromo17" class="da-link">Read More</a><div class="da-img"><img width="440" height="256" src="https://media.gadgetellsolutions.com/wp-content/uploads/2017/12/retail.png" class="attachment-slider-thumb size-slider-thumb" alt="Retail" /></div></div><div class="da-slide"><h2>Top Women in Retail</h2><p>This year’s list features a who’s who in the industry. Honorees were chosen based on several factors, including position within a retail organization, scope of responsibility within that position, career achievements, and involvement within the retail environment. </p><a href="http://www.mytotalretail.com/resource/top-women-retail?src=GSPRM18" class="da-link">Read More</a><div class="da-img"><img width="253" height="280" src="https://media.gadgetellsolutions.com/wp-content/uploads/2018/01/wir18.png" class="attachment-slider-thumb size-slider-thumb" alt="Top Women in Retail" /></div></div><div class="da-slide"><h2>Mobile Drives Engagement</h2><p>Users spend a lot of time on their mobiles devices, with a recent Nielsen report sharing that Americans spend an average of 10 hours and 39 minutes a day on them. That’s over six hours more than the average American watches television.</p><a href="http://www.targetmarketingmag.com/article/mobile-messaging-drives-customer-engagement?src=GSPromo17" class="da-link">Learn More</a><div class="da-img"><img width="564" height="258" src="https://media.gadgetellsolutions.com/wp-content/uploads/2017/12/mobilemessaging.png" class="attachment-slider-thumb size-slider-thumb" alt="mobile messaging" /></div></div><div class="da-slide"><h2>Tech Adoption: Publishers</h2><p>In the Digital Era, implementing the right technology may be the single biggest challenge and opportunity for publishers today. It’s certainly one of the biggest concerns, occupying the focus of media executives in all functions and seniority levels.</p><a href="http://www.pubexec.com/resource/special-report-on-technology-adoption-strategies-in-publishing?src=GSPromo17" class="da-link">Learn More</a><div class="da-img"><img width="446" height="280" src="https://media.gadgetellsolutions.com/wp-content/uploads/2017/12/techstrategy.png" class="attachment-slider-thumb size-slider-thumb" alt="Tech Strategy" /></div></div>		<nav class="da-arrows">			<span class="da-arrows-prev"></span>			<span class="da-arrows-next"></span>		</nav>	</div></div>		<div id="main" class="site-main">
+
+		<div id="featured" class="featured-area clear">
+		<div id="ft-post" class="ft-post">
+								            	
+            								            	
+            								            	
+            								            	
+            								            	
+            								            	
+            								            	
+            								            	
+            								            	
+            								            	
+            										
+		</div><!-- #content -->
+	</div><!-- #primary -->
+    
+    
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+		        	<div class="blog-columns">
+						            	               	
+    <article id="post-152" class="post-152 post type-post status-publish format-standard has-post-thumbnail hentry category-email category-sales">
+    
+    	<div class="meta-img">
+		            <div class="entry-thumbnail">
+            	                    <div class="dateonimg">
+                        <span class="pdate">12</span><span class="pmonth">Jan/18</span>
+                    </div>
+                                <img width="263" height="270" src="https://media.gadgetellsolutions.com/wp-content/uploads/2018/01/salesemail.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Sales Email" />            </div>
+                </div>
+        
+        <div class="post-mainpart">    
+            <header class="entry-header">
+                                <h1 class="entry-title">
+                    <a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/effective-sales-emails-dont-use-these-techniques-in-2018/" rel="bookmark">Effective Sales Emails Don&#8217;t Use These Techniques in 2018</a>
+                </h1>
+                        
+                <div class="entry-meta">
+                    <span class="date"><a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/effective-sales-emails-dont-use-these-techniques-in-2018/" title="Permalink to Effective Sales Emails Don&#8217;t Use These Techniques in 2018" rel="bookmark"><time class="entry-date" datetime="2018-01-12T14:21:28+00:00">January 12, 2018</time></a></span><span class="categories-links"><a href="https://media.gadgetellsolutions.com/index.php/category/email/" rel="category tag">Email</a>, <a href="https://media.gadgetellsolutions.com/index.php/category/sales/" rel="category tag">Sales</a></span><span class="author vcard"><a class="url fn n" href="https://media.gadgetellsolutions.com/index.php/author/siteadmin/" title="View all posts by siteadmin" rel="author">siteadmin</a></span>                                    </div><!-- .entry-meta -->
+            </header><!-- .entry-header -->
+        
+                        <div class="entry-summary">
+            	                	<p>Trying to start conversations with potential clients using cold sales emails or LinkedIn Inmail? Most sellers are. But are you sabotaging yourself by sending prospects: a template you found while Googling? a subject line starting with<a class="moretag" href="https://media.gadgetellsolutions.com/index.php/2018/01/12/effective-sales-emails-dont-use-these-techniques-in-2018/">Read More&#8230;</a></p>
+                            </div><!-- .entry-summary -->
+                    
+            <footer class="entry-meta">
+                        
+                            </footer><!-- .entry-meta -->
+        </div>
+    </article><!-- #post -->    
+
+        
+
+			            	               	
+    <article id="post-149" class="post-149 post type-post status-publish format-standard has-post-thumbnail hentry category-marketing">
+    
+    	<div class="meta-img">
+		            <div class="entry-thumbnail">
+            	                    <div class="dateonimg">
+                        <span class="pdate">12</span><span class="pmonth">Jan/18</span>
+                    </div>
+                                <img width="433" height="270" src="https://media.gadgetellsolutions.com/wp-content/uploads/2018/01/crystalball.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Predictions" />            </div>
+                </div>
+        
+        <div class="post-mainpart">    
+            <header class="entry-header">
+                                <h1 class="entry-title">
+                    <a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/2018-mobile-marketing-predictions-from-18-industry-veterans/" rel="bookmark">2018 mobile marketing predictions from 18 industry veterans</a>
+                </h1>
+                        
+                <div class="entry-meta">
+                    <span class="date"><a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/2018-mobile-marketing-predictions-from-18-industry-veterans/" title="Permalink to 2018 mobile marketing predictions from 18 industry veterans" rel="bookmark"><time class="entry-date" datetime="2018-01-12T14:17:41+00:00">January 12, 2018</time></a></span><span class="categories-links"><a href="https://media.gadgetellsolutions.com/index.php/category/marketing/" rel="category tag">Marketing</a></span><span class="author vcard"><a class="url fn n" href="https://media.gadgetellsolutions.com/index.php/author/siteadmin/" title="View all posts by siteadmin" rel="author">siteadmin</a></span>                                    </div><!-- .entry-meta -->
+            </header><!-- .entry-header -->
+        
+                        <div class="entry-summary">
+            	                	<p>On a lot of different fronts, 2017 was quite a year. We witnessed a real estate mogul/reality TV host get elected president of the United States. A new form of currency — Bitcoin — rose in price<a class="moretag" href="https://media.gadgetellsolutions.com/index.php/2018/01/12/2018-mobile-marketing-predictions-from-18-industry-veterans/">Read More&#8230;</a></p>
+                            </div><!-- .entry-summary -->
+                    
+            <footer class="entry-meta">
+                        
+                            </footer><!-- .entry-meta -->
+        </div>
+    </article><!-- #post -->    
+
+        
+
+			            	               	
+    <article id="post-146" class="post-146 post type-post status-publish format-standard has-post-thumbnail hentry category-sales tag-webinar">
+    
+    	<div class="meta-img">
+		            <div class="entry-thumbnail">
+            	                    <div class="dateonimg">
+                        <span class="pdate">12</span><span class="pmonth">Jan/18</span>
+                    </div>
+                                <img width="604" height="161" src="https://media.gadgetellsolutions.com/wp-content/uploads/2018/01/webinarTR.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Total Retail Webinar" />            </div>
+                </div>
+        
+        <div class="post-mainpart">    
+            <header class="entry-header">
+                                <h1 class="entry-title">
+                    <a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/webinar-the-secret-to-increasing-sales-conversions-without-sacrificing-margin/" rel="bookmark">Webinar:  The Secret to Increasing Sales Conversions Without Sacrificing Margin</a>
+                </h1>
+                        
+                <div class="entry-meta">
+                    <span class="date"><a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/webinar-the-secret-to-increasing-sales-conversions-without-sacrificing-margin/" title="Permalink to Webinar:  The Secret to Increasing Sales Conversions Without Sacrificing Margin" rel="bookmark"><time class="entry-date" datetime="2018-01-12T14:01:42+00:00">January 12, 2018</time></a></span><span class="categories-links"><a href="https://media.gadgetellsolutions.com/index.php/category/sales/" rel="category tag">Sales</a></span><span class="tags-links"><a href="https://media.gadgetellsolutions.com/index.php/tag/webinar/" rel="tag">Webinar</a></span><span class="author vcard"><a class="url fn n" href="https://media.gadgetellsolutions.com/index.php/author/siteadmin/" title="View all posts by siteadmin" rel="author">siteadmin</a></span>                                    </div><!-- .entry-meta -->
+            </header><!-- .entry-header -->
+        
+                        <div class="entry-summary">
+            	                	<p>Today&#8217;s consumers have become conditioned to getting a deal, and without one, they&#8217;re much less likely to make a purchase. Whether it be free shipping, percentage off an item, or some other incentive to purchase, retailers<a class="moretag" href="https://media.gadgetellsolutions.com/index.php/2018/01/12/webinar-the-secret-to-increasing-sales-conversions-without-sacrificing-margin/">Read More&#8230;</a></p>
+                            </div><!-- .entry-summary -->
+                    
+            <footer class="entry-meta">
+                        
+                            </footer><!-- .entry-meta -->
+        </div>
+    </article><!-- #post -->    
+
+        
+
+			            	               	
+    <article id="post-143" class="post-143 post type-post status-publish format-standard has-post-thumbnail hentry category-marketing">
+    
+    	<div class="meta-img">
+		            <div class="entry-thumbnail">
+            	                    <div class="dateonimg">
+                        <span class="pdate">12</span><span class="pmonth">Jan/18</span>
+                    </div>
+                                <img width="604" height="229" src="https://media.gadgetellsolutions.com/wp-content/uploads/2018/01/email.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Email" />            </div>
+                </div>
+        
+        <div class="post-mainpart">    
+            <header class="entry-header">
+                                <h1 class="entry-title">
+                    <a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/metrics-that-matter-email-benchmarks-for-2018/" rel="bookmark">Metrics That Matter: Email Benchmarks for 2018</a>
+                </h1>
+                        
+                <div class="entry-meta">
+                    <span class="date"><a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/metrics-that-matter-email-benchmarks-for-2018/" title="Permalink to Metrics That Matter: Email Benchmarks for 2018" rel="bookmark"><time class="entry-date" datetime="2018-01-12T13:57:52+00:00">January 12, 2018</time></a></span><span class="categories-links"><a href="https://media.gadgetellsolutions.com/index.php/category/marketing/" rel="category tag">Marketing</a></span><span class="author vcard"><a class="url fn n" href="https://media.gadgetellsolutions.com/index.php/author/siteadmin/" title="View all posts by siteadmin" rel="author">siteadmin</a></span>                                    </div><!-- .entry-meta -->
+            </header><!-- .entry-header -->
+        
+                        <div class="entry-summary">
+            	                	<p>Email is the Digital Workhorse Email remains the strongest digital channel when it comes to return on investment. Generating a solid $38 for every $1 spent, email is an established purchasing channel that consumers are comfortable engaging<a class="moretag" href="https://media.gadgetellsolutions.com/index.php/2018/01/12/metrics-that-matter-email-benchmarks-for-2018/">Read More&#8230;</a></p>
+                            </div><!-- .entry-summary -->
+                    
+            <footer class="entry-meta">
+                        
+                            </footer><!-- .entry-meta -->
+        </div>
+    </article><!-- #post -->    
+
+        
+
+			            	               	
+    <article id="post-140" class="post-140 post type-post status-publish format-standard has-post-thumbnail hentry category-ecommerce">
+    
+    	<div class="meta-img">
+		            <div class="entry-thumbnail">
+            	                    <div class="dateonimg">
+                        <span class="pdate">12</span><span class="pmonth">Jan/18</span>
+                    </div>
+                                <img width="485" height="270" src="https://media.gadgetellsolutions.com/wp-content/uploads/2018/01/ecommerce.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="E-Commerce" />            </div>
+                </div>
+        
+        <div class="post-mainpart">    
+            <header class="entry-header">
+                                <h1 class="entry-title">
+                    <a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/e-commerce-trends-to-watch-in-2018/" rel="bookmark">E-Commerce Trends to Watch in 2018</a>
+                </h1>
+                        
+                <div class="entry-meta">
+                    <span class="date"><a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/e-commerce-trends-to-watch-in-2018/" title="Permalink to E-Commerce Trends to Watch in 2018" rel="bookmark"><time class="entry-date" datetime="2018-01-12T13:54:12+00:00">January 12, 2018</time></a></span><span class="categories-links"><a href="https://media.gadgetellsolutions.com/index.php/category/ecommerce/" rel="category tag">Ecommerce</a></span><span class="author vcard"><a class="url fn n" href="https://media.gadgetellsolutions.com/index.php/author/siteadmin/" title="View all posts by siteadmin" rel="author">siteadmin</a></span>                                    </div><!-- .entry-meta -->
+            </header><!-- .entry-header -->
+        
+                        <div class="entry-summary">
+            	                	<p>Between Black Friday, Cyber Monday and the general Christmas shopping season, this time of year more than any other highlights just how lucrative the e-commerce industry is in the modern age. Consumers place enormous value in<a class="moretag" href="https://media.gadgetellsolutions.com/index.php/2018/01/12/e-commerce-trends-to-watch-in-2018/">Read More&#8230;</a></p>
+                            </div><!-- .entry-summary -->
+                    
+            <footer class="entry-meta">
+                        
+                            </footer><!-- .entry-meta -->
+        </div>
+    </article><!-- #post -->    
+
+        
+
+			            	               	
+    <article id="post-133" class="post-133 post type-post status-publish format-standard has-post-thumbnail hentry category-sales">
+    
+    	<div class="meta-img">
+		            <div class="entry-thumbnail">
+            	                    <div class="dateonimg">
+                        <span class="pdate">04</span><span class="pmonth">Jan/18</span>
+                    </div>
+                                <img width="604" height="264" src="https://media.gadgetellsolutions.com/wp-content/uploads/2018/01/sales.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Sales" />            </div>
+                </div>
+        
+        <div class="post-mainpart">    
+            <header class="entry-header">
+                                <h1 class="entry-title">
+                    <a href="https://media.gadgetellsolutions.com/index.php/2018/01/04/need-a-new-years-resolution-ask-your-sales-team/" rel="bookmark">Need a New Year’s resolution? Ask your sales team</a>
+                </h1>
+                        
+                <div class="entry-meta">
+                    <span class="date"><a href="https://media.gadgetellsolutions.com/index.php/2018/01/04/need-a-new-years-resolution-ask-your-sales-team/" title="Permalink to Need a New Year’s resolution? Ask your sales team" rel="bookmark"><time class="entry-date" datetime="2018-01-04T18:34:17+00:00">January 4, 2018</time></a></span><span class="categories-links"><a href="https://media.gadgetellsolutions.com/index.php/category/sales/" rel="category tag">Sales</a></span><span class="author vcard"><a class="url fn n" href="https://media.gadgetellsolutions.com/index.php/author/siteadmin/" title="View all posts by siteadmin" rel="author">siteadmin</a></span>                                    </div><!-- .entry-meta -->
+            </header><!-- .entry-header -->
+        
+                        <div class="entry-summary">
+            	                	<p>Ah, the new year… there’s nothing like having a fresh start to inspire ambitious marketing plans, promises to run big campaigns and intentions of testing some of the fancy new technologies all the cool kids are<a class="moretag" href="https://media.gadgetellsolutions.com/index.php/2018/01/04/need-a-new-years-resolution-ask-your-sales-team/">Read More&#8230;</a></p>
+                            </div><!-- .entry-summary -->
+                    
+            <footer class="entry-meta">
+                        
+                            </footer><!-- .entry-meta -->
+        </div>
+    </article><!-- #post -->    
+
+        
+
+			            	               	
+    <article id="post-130" class="post-130 post type-post status-publish format-standard has-post-thumbnail hentry category-retail">
+    
+    	<div class="meta-img">
+		            <div class="entry-thumbnail">
+            	                    <div class="dateonimg">
+                        <span class="pdate">04</span><span class="pmonth">Jan/18</span>
+                    </div>
+                                <img width="425" height="270" src="https://media.gadgetellsolutions.com/wp-content/uploads/2018/01/onlinecart.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Online Cart" />            </div>
+                </div>
+        
+        <div class="post-mainpart">    
+            <header class="entry-header">
+                                <h1 class="entry-title">
+                    <a href="https://media.gadgetellsolutions.com/index.php/2018/01/04/the-top-walmart-and-amazon-product-page-experiences-of-2017/" rel="bookmark">The top Walmart and Amazon product page experiences of 2017</a>
+                </h1>
+                        
+                <div class="entry-meta">
+                    <span class="date"><a href="https://media.gadgetellsolutions.com/index.php/2018/01/04/the-top-walmart-and-amazon-product-page-experiences-of-2017/" title="Permalink to The top Walmart and Amazon product page experiences of 2017" rel="bookmark"><time class="entry-date" datetime="2018-01-04T18:30:14+00:00">January 4, 2018</time></a></span><span class="categories-links"><a href="https://media.gadgetellsolutions.com/index.php/category/retail/" rel="category tag">Retail</a></span><span class="author vcard"><a class="url fn n" href="https://media.gadgetellsolutions.com/index.php/author/siteadmin/" title="View all posts by siteadmin" rel="author">siteadmin</a></span>                                    </div><!-- .entry-meta -->
+            </header><!-- .entry-header -->
+        
+                        <div class="entry-summary">
+            	                	<p>There isn’t “one thing” separating a great product page from a terrible one. Instead, brands in 2018 should think holistically about how they are crafting a positive consumer experience on their product pages — even on<a class="moretag" href="https://media.gadgetellsolutions.com/index.php/2018/01/04/the-top-walmart-and-amazon-product-page-experiences-of-2017/">Read More&#8230;</a></p>
+                            </div><!-- .entry-summary -->
+                    
+            <footer class="entry-meta">
+                        
+                            </footer><!-- .entry-meta -->
+        </div>
+    </article><!-- #post -->    
+
+        
+
+			            	               	
+    <article id="post-127" class="post-127 post type-post status-publish format-standard has-post-thumbnail hentry category-ecommerce">
+    
+    	<div class="meta-img">
+		            <div class="entry-thumbnail">
+            	                    <div class="dateonimg">
+                        <span class="pdate">04</span><span class="pmonth">Jan/18</span>
+                    </div>
+                                <img width="597" height="270" src="https://media.gadgetellsolutions.com/wp-content/uploads/2018/01/priceelasticity.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Price Elasticity" />            </div>
+                </div>
+        
+        <div class="post-mainpart">    
+            <header class="entry-header">
+                                <h1 class="entry-title">
+                    <a href="https://media.gadgetellsolutions.com/index.php/2018/01/04/decoding-price-elasticity-to-unlock-revenue-and-minimize-risk-2/" rel="bookmark">Decoding Price Elasticity to Unlock Revenue and Minimize Risk</a>
+                </h1>
+                        
+                <div class="entry-meta">
+                    <span class="date"><a href="https://media.gadgetellsolutions.com/index.php/2018/01/04/decoding-price-elasticity-to-unlock-revenue-and-minimize-risk-2/" title="Permalink to Decoding Price Elasticity to Unlock Revenue and Minimize Risk" rel="bookmark"><time class="entry-date" datetime="2018-01-04T18:25:55+00:00">January 4, 2018</time></a></span><span class="categories-links"><a href="https://media.gadgetellsolutions.com/index.php/category/ecommerce/" rel="category tag">Ecommerce</a></span><span class="author vcard"><a class="url fn n" href="https://media.gadgetellsolutions.com/index.php/author/siteadmin/" title="View all posts by siteadmin" rel="author">siteadmin</a></span>                                    </div><!-- .entry-meta -->
+            </header><!-- .entry-header -->
+        
+                        <div class="entry-summary">
+            	                	<p>It’s no secret that there has been a shift in shopping behavior due to growth in millennial spending power, aging of baby boomers and the growth of online shopping. These changes are impacting pricing and demand,<a class="moretag" href="https://media.gadgetellsolutions.com/index.php/2018/01/04/decoding-price-elasticity-to-unlock-revenue-and-minimize-risk-2/">Read More&#8230;</a></p>
+                            </div><!-- .entry-summary -->
+                    
+            <footer class="entry-meta">
+                        
+                            </footer><!-- .entry-meta -->
+        </div>
+    </article><!-- #post -->    
+
+        
+
+			            	               	
+    <article id="post-124" class="post-124 post type-post status-publish format-standard has-post-thumbnail hentry category-marketing">
+    
+    	<div class="meta-img">
+		            <div class="entry-thumbnail">
+            	                    <div class="dateonimg">
+                        <span class="pdate">02</span><span class="pmonth">Jan/18</span>
+                    </div>
+                                <img width="348" height="233" src="https://media.gadgetellsolutions.com/wp-content/uploads/2018/01/mktreso.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Resolutions" />            </div>
+                </div>
+        
+        <div class="post-mainpart">    
+            <header class="entry-header">
+                                <h1 class="entry-title">
+                    <a href="https://media.gadgetellsolutions.com/index.php/2018/01/02/3-marketing-resolutions-for-2018/" rel="bookmark">3 Marketing Resolutions for 2018</a>
+                </h1>
+                        
+                <div class="entry-meta">
+                    <span class="date"><a href="https://media.gadgetellsolutions.com/index.php/2018/01/02/3-marketing-resolutions-for-2018/" title="Permalink to 3 Marketing Resolutions for 2018" rel="bookmark"><time class="entry-date" datetime="2018-01-02T17:15:32+00:00">January 2, 2018</time></a></span><span class="categories-links"><a href="https://media.gadgetellsolutions.com/index.php/category/marketing/" rel="category tag">Marketing</a></span><span class="author vcard"><a class="url fn n" href="https://media.gadgetellsolutions.com/index.php/author/siteadmin/" title="View all posts by siteadmin" rel="author">siteadmin</a></span>                                    </div><!-- .entry-meta -->
+            </header><!-- .entry-header -->
+        
+                        <div class="entry-summary">
+            	                	<p>A lighter marketing topic to ease you into your return to your desk and piles of work following the calorific holidays is a wish list of what could be in 2018. You&#8217;ve probably written your personal<a class="moretag" href="https://media.gadgetellsolutions.com/index.php/2018/01/02/3-marketing-resolutions-for-2018/">Read More&#8230;</a></p>
+                            </div><!-- .entry-summary -->
+                    
+            <footer class="entry-meta">
+                        
+                            </footer><!-- .entry-meta -->
+        </div>
+    </article><!-- #post -->    
+
+        
+
+			            	               	
+    <article id="post-121" class="post-121 post type-post status-publish format-standard has-post-thumbnail hentry category-marketing">
+    
+    	<div class="meta-img">
+		            <div class="entry-thumbnail">
+            	                    <div class="dateonimg">
+                        <span class="pdate">02</span><span class="pmonth">Jan/18</span>
+                    </div>
+                                <img width="483" height="270" src="https://media.gadgetellsolutions.com/wp-content/uploads/2018/01/AI.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="AI" />            </div>
+                </div>
+        
+        <div class="post-mainpart">    
+            <header class="entry-header">
+                                <h1 class="entry-title">
+                    <a href="https://media.gadgetellsolutions.com/index.php/2018/01/02/going-deep-with-deep-learning-martech-insights-action-impact/" rel="bookmark">Going deep with deep learning: Martech insights, action &#038; impact</a>
+                </h1>
+                        
+                <div class="entry-meta">
+                    <span class="date"><a href="https://media.gadgetellsolutions.com/index.php/2018/01/02/going-deep-with-deep-learning-martech-insights-action-impact/" title="Permalink to Going deep with deep learning: Martech insights, action &#038; impact" rel="bookmark"><time class="entry-date" datetime="2018-01-02T17:07:42+00:00">January 2, 2018</time></a></span><span class="categories-links"><a href="https://media.gadgetellsolutions.com/index.php/category/marketing/" rel="category tag">Marketing</a></span><span class="author vcard"><a class="url fn n" href="https://media.gadgetellsolutions.com/index.php/author/siteadmin/" title="View all posts by siteadmin" rel="author">siteadmin</a></span>                                    </div><!-- .entry-meta -->
+            </header><!-- .entry-header -->
+        
+                        <div class="entry-summary">
+            	                	<p>The growth of artificial intelligence and machine learning is picking up pace, and those who thought adoption was a few more years away are finding the reality much different. AI is already embedded in our everyday lives, and<a class="moretag" href="https://media.gadgetellsolutions.com/index.php/2018/01/02/going-deep-with-deep-learning-martech-insights-action-impact/">Read More&#8230;</a></p>
+                            </div><!-- .entry-summary -->
+                    
+            <footer class="entry-meta">
+                        
+                            </footer><!-- .entry-meta -->
+        </div>
+    </article><!-- #post -->    
+
+        
+
+			            </div>
+			    				    
+	<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="screen-reader-text">Posts navigation</h1>
+		<div class="nav-links">
+            <div id="posts-nav" class="navigation">
+				<ul class='page-numbers'>
+	<li><span aria-current='page' class='page-numbers current'>1</span></li>
+	<li><a class='page-numbers' href='https://media.gadgetellsolutions.com/index.php/page/2/'>2</a></li>
+	<li><a class='page-numbers' href='https://media.gadgetellsolutions.com/index.php/page/3/'>3</a></li>
+	<li><a class='page-numbers' href='https://media.gadgetellsolutions.com/index.php/page/4/'>4</a></li>
+	<li><a class="next page-numbers" href="https://media.gadgetellsolutions.com/index.php/page/2/"><span class="text">Next &raquo;</span></a></li>
+</ul>
+            </div><!-- #posts-nav -->
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+			
+		</div><!-- #content -->
+        	</div><!-- #primary -->
+
+
+
+		</div><!-- #main -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+				<div id="secondary" class="sidebar-container" role="complementary">
+		<div class="widget-area">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://media.gadgetellsolutions.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+											<li>
+					<a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/effective-sales-emails-dont-use-these-techniques-in-2018/">Effective Sales Emails Don&#8217;t Use These Techniques in 2018</a>
+									</li>
+											<li>
+					<a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/2018-mobile-marketing-predictions-from-18-industry-veterans/">2018 mobile marketing predictions from 18 industry veterans</a>
+									</li>
+											<li>
+					<a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/webinar-the-secret-to-increasing-sales-conversions-without-sacrificing-margin/">Webinar:  The Secret to Increasing Sales Conversions Without Sacrificing Margin</a>
+									</li>
+											<li>
+					<a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/metrics-that-matter-email-benchmarks-for-2018/">Metrics That Matter: Email Benchmarks for 2018</a>
+									</li>
+											<li>
+					<a href="https://media.gadgetellsolutions.com/index.php/2018/01/12/e-commerce-trends-to-watch-in-2018/">E-Commerce Trends to Watch in 2018</a>
+									</li>
+					</ul>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='https://media.gadgetellsolutions.com/index.php/2018/01/'>January 2018</a></li>
+	<li><a href='https://media.gadgetellsolutions.com/index.php/2017/12/'>December 2017</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-20"><a href="https://media.gadgetellsolutions.com/index.php/category/advertising/" >Advertising</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://media.gadgetellsolutions.com/index.php/category/branding/" >Branding</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://media.gadgetellsolutions.com/index.php/category/cdp/" >CDP</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://media.gadgetellsolutions.com/index.php/category/content/" >Content</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://media.gadgetellsolutions.com/index.php/category/ecommerce/" >Ecommerce</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="https://media.gadgetellsolutions.com/index.php/category/email/" >Email</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://media.gadgetellsolutions.com/index.php/category/events/" >Events</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://media.gadgetellsolutions.com/index.php/category/lead-gen/" >Lead Gen</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="https://media.gadgetellsolutions.com/index.php/category/marketing/" >Marketing</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://media.gadgetellsolutions.com/index.php/category/marketing-automation/" >Marketing Automation</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://media.gadgetellsolutions.com/index.php/category/personalization/" >Personalization</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://media.gadgetellsolutions.com/index.php/category/pharma-healthcare/" >Pharma/Healthcare</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://media.gadgetellsolutions.com/index.php/category/retail/" >Retail</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="https://media.gadgetellsolutions.com/index.php/category/sales/" >Sales</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://media.gadgetellsolutions.com/index.php/category/search/" >Search</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://media.gadgetellsolutions.com/index.php/category/social/" >Social</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="https://media.gadgetellsolutions.com/index.php/category/technology/" >Technology</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="https://media.gadgetellsolutions.com/wp-login.php">Log in</a></li>
+			<li><a href="https://media.gadgetellsolutions.com/index.php/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://media.gadgetellsolutions.com/index.php/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside>		</div><!-- .widget-area -->
+	</div><!-- #secondary -->
+			
+			
+			<div class="site-info">
+                <div class="copyright">
+                	Copyright &copy;  GadgetellSolutions Media                </div>            
+            	<div class="credit-info">
+					<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">
+						Powered by WordPress                    </a>
+                    , Designed and Developed by 
+                    <a href="http://www.templatesnext.org/">
+                   		templatesnext                    </a>
+                </div>
+
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-content/plugins/templatesnext-toolkit/js/owl.carousel.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-content/plugins/templatesnext-toolkit/js/jquery.colorbox-min.js?ver=1.5.14'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-content/plugins/templatesnext-toolkit/js/jquery.inview.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-content/plugins/templatesnext-toolkit/js/tx-script.js?ver=2013-07-18'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-content/themes/i-transform/js/modernizr.custom.js?ver=2014-01-13'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-content/themes/i-transform/js/waypoints.min.js?ver=2014-01-13'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-content/themes/i-transform/js/jquery.sidr.min.js?ver=2014-01-13'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-content/themes/i-transform/js/functions.js?ver=2016-10-18'></script>
+<script type='text/javascript' src='https://media.gadgetellsolutions.com/wp-includes/js/wp-embed.min.js?ver=4.9.1'></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110529502-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110529502-1');
+</script>
+<a href="https://media.gadgetellsolutions.com/bot/what.html">.</a>
+</body>
+</html>

@@ -1,0 +1,597 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+        <!-- Optimizely -->
+    <script id="ign-optimizely" data-project-id="1369090036" src="//cdn.optimizely.com/js/1369090036.js"></script>
+
+    <title>Personal Blog #16: I Built a PC and Named It After a Pokemon - Blog by Battlestriker123 - IGN</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="A newbie&amp;#039;s journey into PC building. You may remember that back in April I expressed my desire to build a PC from scratch. Part of the reason was ..." />
+<meta name="robots" content="noindex, follow" />
+<meta name="copyright" content="IGN Entertainment, Inc." />
+<link rel="canonical" href="http://www.ign.com/blogs/battlestriker123/2014/08/14/personal-blog-16-i-built-a-pc-and-named-it-after-a-pokemon" />
+<link rel="alternate" href="http://m.ign.com/blogs/battlestriker123/2014/08/14/personal-blog-16-i-built-a-pc-and-named-it-after-a-pokemon/" media="only screen and (max-width: 640px)" />
+<link rel="alternate" hreflang="en-au" href="http://au.ign.com/blogs/battlestriker123/2014/08/14/personal-blog-16-i-built-a-pc-and-named-it-after-a-pokemon" />
+<link rel="alternate" hreflang="en-ca" href="http://ca.ign.com/blogs/battlestriker123/2014/08/14/personal-blog-16-i-built-a-pc-and-named-it-after-a-pokemon" />
+<link rel="alternate" hreflang="en-ie" href="http://ie.ign.com/blogs/battlestriker123/2014/08/14/personal-blog-16-i-built-a-pc-and-named-it-after-a-pokemon" />
+<link rel="alternate" hreflang="en-gb" href="http://uk.ign.com/blogs/battlestriker123/2014/08/14/personal-blog-16-i-built-a-pc-and-named-it-after-a-pokemon" />
+<link rel="alternate" hreflang="en" href="http://www.ign.com/blogs/battlestriker123/2014/08/14/personal-blog-16-i-built-a-pc-and-named-it-after-a-pokemon" />
+<link rel="alternate" hreflang="x-default" href="http://www.ign.com/blogs/battlestriker123/2014/08/14/personal-blog-16-i-built-a-pc-and-named-it-after-a-pokemon" />
+<meta name="live_date" content="2014-08-14" />
+    <meta name="referrer" content="always">
+<meta name="zdid" content="0c9a8fda" />
+<meta name="cpid" content="959060edb44a125384f76113cc35ed27" />
+<meta property="og:title" content="Personal Blog #16: I Built a PC and Named It After a Pokemon - Blog by Battlestriker123 - IGN" />
+<meta property="og:type" content="ignsocial:blog" />
+<meta property="og:image" content="http://oystatic.ignimgs.com/src/core/img/widgets/global/page/ign-logo-100x100.jpg" />
+<meta property="og:url" content="http://www.ign.com/blogs/battlestriker123/2014/08/14/personal-blog-16-i-built-a-pc-and-named-it-after-a-pokemon/" />
+<meta property="og:site_name" content="IGN" />
+<meta property="fb:app_id" content="115982828429116" />
+<meta property="fb:pages" content="59685491632" />
+
+
+
+        <link rel='index' title='Personal Blog #16: I Built a PC and Named It After a Pokemon - Blog by Battlestriker123 - IGN' href='http://www.ign.com/blogs/battlestriker123' />
+    
+    <link href="//oystatic.ignimgs.com/cache/css/e7/d8/e7d81a42bb267fc675052c7448dcac08.css" media="screen" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9]>
+                <link rel="stylesheet" type="text/css" href="http://oystatic.ignimgs.com/src/core/css/lib/ie.css"/>
+            <![endif]-->
+    <link rel="shortcut icon" type="image/x-icon" href="http://media.ignimgs.com/media/ign/favicon.ico"/>
+    <link rel="apple-touch-icon" type="image/png" href="http://media.ignimgs.com/media/ign/apple-touch-icon.png"/>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            gads.src = 'http://www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <!-- Amazon apstag -->
+    <script type='text/javascript'>
+        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore( A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+        // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+        apstag.init({
+            pubID: '3101',
+            adServer: 'googletag',
+            bidTimeout: 2e3
+        });
+    </script>
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script>
+        var IGN = IGN || {};
+        IGN.pagetype = "blogs";
+    </script>
+        <script async
+        type="text/javascript"
+        data-lf-domain="ign-prod.fyre.co"
+        src="https://cdn.livefyre.com/libs/commentcount/v1.0/commentcount.js">
+    </script>
+    
+    <script type="text/javascript" src="//oystatic.ignimgs.com/cache/js/ac/bb/acbb0955d8d9ea299a96890a78596e1e.js"></script><script type="text/javascript" async="async" src="https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js"></script><script type="text/javascript" defer="defer" src="https://cdn.livefyre.com/Livefyre.js"></script><script type="" src="http://media.ign.com/ign/stp/js/0namespace.js"></script>
+<script type="" src="http://media.ign.com/ign/stp/js/socialALPHA19.js"></script>
+<script type="" src="//oystatic.ignimgs.com/cache/js/e0/63/e063f3a76cb33b991b7339a9f8d45640.js"></script><script>
+    var igndrones = igndrones || {};
+    igndrones.async = igndrones.async || [];
+    igndrones.async.unshift(function() {
+        igndrones.init({"buyerbase":[],"chartbeat":{"uid":"21105","domain":"ign.com","sections":"Desktop Web,blogs"},"comscore":{"c2":"3000068"},"ga":{"uaView":"Desktop","account_number":"UA-23541058-1","_setDomainName":".ign.com","custom_vars":[[1,"pagetype","blogs",3],[8,"template","undefined-desktop-01",3],[9,"ads-disabled","no",3],[15,"action","blogview",3],[16,"controller","v2articles",3],[17,"module","default",3],[18,"resource","blogs",3],[20,"is-community","yes",3],[21,"signed-in","no",2],[22,"subscriber","no",1]]}});
+    igndrones.fireTop();    });
+</script>
+
+<script>
+
+    window.IGN_UA_DataLayer = window.IGN_UA_DataLayer || [];
+    
+            window.IGN_UA_DataLayer.push({"ga":{"page":{"platform":"Desktop Web","pageType":"blog","resource":"blogs","isCommunity":"yes","adTemplate":"undefined-desktop-01","webView":false,"ZDID":"0c9a8fda","CPID":"959060edb44a125384f76113cc35ed27"},"user":{"signedIn":"no","primeSubscriber":"no","adsDisabled":false},"content":{"contentState":"standard","objectIds":[],"contentId":"53e18ce07add260efed64e3a"}}});
+    
+    try {
+      var optimizelyBuckets = JSON.parse(decodeURIComponent(IGN.readCookieValue('optimizelyBuckets')));
+      if (typeof optimizelyBuckets === 'object') {
+        window.IGN_UA_DataLayer.push({
+          ga: {
+            optimizely: optimizelyBuckets
+          }
+        });
+      }
+    } catch(e) {}
+
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-54DV8X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','IGN_UA_DataLayer','GTM-54DV8X');</script>
+<!-- End Google Tag Manager -->
+
+    </head>
+
+<body layout="default"
+    data-widget-domain="widgets.ign.com"
+    data-targeting='{"adsDisabled":"false","dfp_network":"5691","dfp_adunit1":"IGN","resource":"blogs","pagetype":"blogs","template":"undefined-desktop-01","zdid":"0c9a8fda","cpid":"959060edb44a125384f76113cc35ed27"}'
+    data-rfr-config="1"><script>ChessKit.init([]);</script>
+
+
+
+<header id="ign-header">
+    <script type="" src="//oystatic.ignimgs.com/cache/js/69/f4/69f4142b8fc27d9086428cf53c072498.js"></script><link href="//oystatic.ignimgs.com/cache/css/e9/70/e970dea1db7f27f1724c0d3412967cc1.css" media="screen" rel="stylesheet" type="text/css" />
+    <div id="header-container" class="header-container spine hidden-opacity ign-transition-opacity">
+                    <!-- Global Spine -->
+            <div id="header-spine">
+                <div id="locale-selector-container" class="locale-selector-container">
+    <div class="locale-dropdown-bg ign-modal hidden">
+        <div class="button-close">&#215;</div><!-- multiplication symbol (×) -->
+        <div class="locale-dropdown-container">
+            <ul class="locale-dropdown"></ul>
+        </div>
+    </div>
+</div>
+
+                <div class="locale-shortcode" data-hover-text="edition">us</div>
+                <a href="/" id="ign-logo" title="IGN"><span class="hidden">IGN</span><svg class="ign-icon icon-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1482.1 464.2"><g fill="currentColor"><path d="M791 271.2v-79.4l213 .1c21.6 0 39.3 17.5 39.3 39.1v94.4c0 48.6-38.8 88.8-88.2 88.8l-136.4.1c-101.1 0-182.8-81.6-182.8-182.4 0-100.7 82.3-182.4 183-182.4H1030v83.8H818.8c-54.4 0-99.1 44.1-99.1 98.6 0 54.4 44 98.5 99 98.5h140.9v-59.2H791zM608.1 49.1h-82.9v326.5c0 21.5 17.5 38.9 39 38.9h43.9V76c.1-.1 0-26.9 0-26.9zM1433.7 49.3h-44.5v281.4c-.1.8-.2 1.6-.7 2.3-1 1.7-2.8 2.8-4.9 2.8-1.8 0-3.4-.8-5.1-3.1L1239.3 88.4c-15.5-26-43.9-43-75.8-43h-1.5c-48.6 0-88.1 39.4-88.1 88.1v242.1c0 21.5 17.5 38.9 38.9 38.9h44.1v-281c0-.9.4-1.8.8-2.6 1-1.7 2.8-2.9 4.9-2.9 1.7 0 3.8.6 4.9 2.8l140.2 245.9c15.5 26 43.3 41.8 75.1 41.8h1.5c48.6 0 88.1-39.4 88.1-88.1V88.2c.2-21.5-17.2-38.9-38.7-38.9zM108.4 152c10.9-16.5 25.1-30.7 41.6-41.6 2.4-21.7 5.6-41.6 9.6-59.1C109.3 71 69 111.2 49.3 161.7c17.6-4 37.4-7.3 59.1-9.7zM310.1 109.9c0 .2 0 .3.1.4 16.6 10.9 30.8 25.1 41.7 41.7 21.7 2.4 41.6 5.6 59.1 9.6-19.8-50.6-60.1-90.9-110.8-110.5 4 17.5 7.3 37.2 9.9 58.8zM150.1 353.8c-16.5-10.9-30.7-25.1-41.7-41.7-.2 0-.3 0-.5-.1-21.9-2.6-41.5-5.9-58.7-9.9 19.7 50.6 59.9 90.9 110.5 110.7-4-17.4-7.3-37.3-9.6-59zM352.3 312.1c-.2 0-.3 0-.5.1-10.9 16.6-25.1 30.8-41.7 41.7 0 .2 0 .3-.1.5-2.5 21.6-5.9 41.3-9.9 58.7 50.7-19.7 91.2-60.1 110.9-110.8-17.2 3.9-36.8 7.2-58.7 9.8zM450.8 196c-34.3-15.9-85.7-21.9-103.2-23.7-3.6-.6-6.9-.9-10.1-.9l-54.3 60.8 54.3 60.7c3.7 0 7.6-.4 11.7-1.1 17.1-2 67.6-8.2 101.5-23.9V196h.1zm-328.1-24.7c-3.1 0-6.4.3-10.1.9-17.5 1.9-68.9 7.9-103.2 23.8v71.7c33.9 15.7 84.5 22 101.6 23.9 4.1.8 8 1.1 11.7 1.1L177 232l-54.3-60.7zm46.7 168.2c0 3.1.3 6.4.9 10.1 1.9 17.5 7.9 68.9 23.8 103.1h71.7c15.7-33.9 22-84.5 24-101.5.8-4.1 1.2-8 1.2-11.7l-60.7-54.3-60.9 54.3zM194 11.4h71.7c15.7 33.9 22 84.5 24 101.5.8 4.1 1.2 7.9 1.2 11.7L230.1 179l-60.7-54.4c0-3.1.3-6.4.9-10.1 1.9-17.4 7.9-68.8 23.7-103.1z"/></g></svg>
+</a>                <div id="spine-container" class="horizontal ">
+    <div class='cover-card has-image'>
+                        <a href="/articles/2018/01/10/la-noire-the-vr-case-files-review">
+                <div class="tile content has-label">
+                    <p class="label">Big Story</p>
+                    <div class="title">ICYMI: LA Noire: The VR Case Files Review</div>
+                </div>
+                <div class="tile image-tile">
+                                            <img src="http://assets1.ignimgs.com/2018/01/10/lanoirevr-blogroll-1515547193253_small.jpg" class="image type-review" alt="ICYMI: LA Noire: The VR Case Files Review" />
+                                    </div>
+            </a>
+            </div>
+<a class="queue-item promoted hidden" id="promoted-spine-dfp-container" href=""><span class="hidden">Advertisement</span>
+<div id="pawn33" class="chess"></div></a>
+
+<a class="queue-item  trending " href="/articles/2018/01/15/star-trek-discovery-review-the-wolf-inside">
+        <div class="queue-item-content">
+                <div class="title">Star Trek: Discovery Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/01/13/10-things-you-should-know-about-monster-hunter-world-multiplayer">
+        <div class="queue-item-content">
+                <div class="title">10 Things You Should Know About Monster Hunter World Multiplayer</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/01/14/james-cameron-gives-avatar-update-we-cant-afford-for-it-not-to-work">
+        <div class="queue-item-content">
+                <div class="title">James Cameron Gives Avatar Update</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2017/12/26/5-shows-to-watch-in-early-2018">
+        <div class="queue-item-content">
+                <div class="title">5 New Shows to Watch in Early 2018</div>
+    </div>
+</a></div>
+            </div>
+                <!-- Global Navigation Bar -->
+            <nav id="header-nav" class="spine fixed section theme-light">
+                            <div class="browse">
+                    <a href="http://www.ign.com" class="dpad-container" title="IGN"><span class="hidden">IGN</span></a>
+                    <div class="browse-area">
+                        <button id="browse-button" class="ign-button compact">
+                             <svg class="ign-icon icon-menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M30 6H2c-.6 0-1 .4-1 1v2c0 .5.4 1 1 1h28c.5 0 1-.4 1-1V7c0-.6-.4-1-1-1zm0 8H2c-.6 0-1 .4-1 1v2c0 .6.4 1 1 1h28c.6 0 1-.4 1-1v-2c0-.6-.4-1-1-1zm0 8H2c-.6 0-1 .4-1 1v2c0 .6.4 1 1 1h28c.6 0 1-.4 1-1v-2c0-.6-.4-1-1-1z"/></svg>
+                            <span>Browse</span>
+                        </button>
+                        <menu id="browse-dropdown" class="ign-menu">
+                                                            <ul id="browse-gaming" class="browse-category">
+                                                                            <li><a class="browse-link" href="/xbox-one">Xbox One</a></li>
+                                                                            <li><a class="browse-link" href="/xbox-360">Xbox 360</a></li>
+                                                                            <li><a class="browse-link" href="/ps4">PS4</a></li>
+                                                                            <li><a class="browse-link" href="/ps3">PS3</a></li>
+                                                                            <li><a class="browse-link" href="/ps-vita">Vita</a></li>
+                                                                            <li><a class="browse-link" href="/nintendo">Nintendo</a></li>
+                                                                            <li><a class="browse-link" href="/pc">PC</a></li>
+                                                                            <li><a class="browse-link" href="/wireless">Mobile</a></li>
+                                                                    </ul>
+                                                            <ul id="browse-entertainment" class="browse-category">
+                                                                            <li><a class="browse-link" href="/movies">Movies</a></li>
+                                                                            <li><a class="browse-link" href="/tv">TV</a></li>
+                                                                            <li><a class="browse-link" href="/tech">Tech</a></li>
+                                                                            <li><a class="browse-link" href="/comics">Comics</a></li>
+                                                                    </ul>
+                                                            <ul id="browse-more" class="browse-category">
+                                                                            <li><a class="browse-link" href="/reviews">Reviews</a></li>
+                                                                            <li><a class="browse-link" href="/upcoming/games">Upcoming</a></li>
+                                                                            <li><a class="browse-link" href="/videos">Videos</a></li>
+                                                                            <li><a class="browse-link" href="/wikis">Wikis + Cheats</a></li>
+                                                                            <li><a class="browse-link" href="/podcasts">Podcasts</a></li>
+                                                                            <li><a class="browse-link" href="/boards">Boards</a></li>
+                                                                            <li><a class="browse-link" href="/trailers">Trailers</a></li>
+                                                                    </ul>
+                                                        <div id="browse-social">
+                                <a href="http://www.youtube.com/ign" class="browse-social-youtube" title="IGN on YouTube"><span class="hidden">IGN on YouTube</span></a>
+                                <a href="http://www.facebook.com/ign" class="browse-social-facebook" title="IGN on Facebook"><span class="hidden">IGN on Facebook</span></a>
+                                <a href="http://twitter.com/IGN" class="browse-social-twitter" title="IGN on Twitter"><span class="hidden">IGN on Twitter</span></a>
+                                <a href="http://www.ign.com/wikis/ign-community-central/How_to_Follow_IGN" class="browse-social-more">MORE</a>
+                            </div>
+                        </menu>
+                    </div>
+                    <div class="search-container">
+                        <input id="search-input" type="text" maxlength="60" placeholder="Search" name="query" autocomplete="off" title="Search" />
+                        <svg class="ign-icon icon-search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 33"><path clip-rule="evenodd" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M20 21l6.1 7"/><circle clip-rule="evenodd" fill="none" stroke="currentColor" stroke-width="4" stroke-miterlimit="10" cx="14.5" cy="13.5" r="8.5"/></svg>
+                    </div>
+                </div>
+
+                        <div class="popular-links">
+                                    <li id="ign-shows" class="ign-shows">
+                        <a class="popular-link ign-shows-label" href="/watch">Shows</a>
+                        <menu class="ign-shows-dropdown ign-menu">
+                            <ul>
+                                 <li class="ign-show first ign-transition">
+                                    <a class="ign-show-art center-parent" href="/watch/daily-fix">
+                                        <div class="ign-show-image-frame">
+                                            <img class="ign-show-image super-position" src= "" data-image="http://assets1.ignimgs.com/2017/12/18/pvp-landscape-dailyfix-1513599555268_compact.jpg" alt="Daily Fix" />
+                                        </div>
+                                        <div class="ign-show-overlay">
+                                            <img class="ign-show-branding horizontal-center" src="" data-image="http://assets1.ignimgs.com/2016/10/27/daily-fix-tmpng-f9b0a9.png" alt="" />
+                                            <div class="schedule-description vertical-center">Monday through Friday</div>
+                                        </div>
+                                    </a>
+                                    <div class="series-title">Daily Fix</div>
+                                    <a
+                                        class="latest-episode"
+                                        href="/videos/2018/01/12/last-jedi-director-answers-big-fan-question-ign-daily-fix"
+                                        data-id="81ac4fd68ab10d0c7c03134c00e0e34f"
+                                        data-title="Last Jedi Director Answers Big Fan Question - IGN Daily Fix"
+                                    >
+                                        <div class="episode-title">Last Jedi Director Answers Big Fan Question</div>
+                                        <div class="play-latest">
+                                            <span>play latest</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="ign-shows-list-container ign-transition">
+                                                                        <ul class="ign-shows-list show-column-0">
+                                                                                <li><a href="/watch/daily-fix">Daily Fix</a></li>
+                                                                                <li><a href="/watch/prepare-to-try">Prepare To Try</a></li>
+                                                                                <li><a href="/watch/hot-keys">HotKeys</a></li>
+                                                                                <li><a href="/watch/up-at-noon">Up At Noon</a></li>
+                                                                                <li><a href="/watch/game-scoop">Game Scoop!</a></li>
+                                                                                <li><a href="/watch/beyond">Beyond!</a></li>
+                                                                                <li><a href="/watch/nintendo-voice-chat">Nintendo Voice Chat</a></li>
+                                                                                <li><a href="/watch/unlocked">Unlocked</a></li>
+                                                                                <li class="more-shows"><a class="icon-pointy icon-grey" href="#">more shows</a></li>
+                                                                            </ul>
+                                                                        <ul class="ign-shows-list show-column-1">
+                                                                                <li><a href="/watch/fireteam-chat">Fireteam Chat</a></li>
+                                                                                <li><a href="/watch/every-ever">IGN Every Ever</a></li>
+                                                                                <li><a href="/watch/linked-together">Linked Together</a></li>
+                                                                                <li><a href="/watch/ign-spotlight">IGN Spotlight</a></li>
+                                                                                <li><a href="/watch/ign-unfiltered">IGN Unfiltered</a></li>
+                                                                                <li><a href="/watch/ign-access">IGN Access</a></li>
+                                                                                <li><a href="/watch/ign-plays">IGN Plays</a></li>
+                                                                            </ul>
+                                                                    </li>
+                                                                        <li class="ign-show ign-transition">
+                                            <a class="ign-show-art center-parent" href="/watch/best-game-ever">
+                                                <div class="ign-show-image-frame">
+                                                    <img class="ign-show-image super-position" src="" data-image="http://assets1.ignimgs.com/2017/11/16/bge-pvp-landscape-1510869693472_compact.png" alt="Best Game Ever" />
+                                                </div>
+                                                <div class="ign-show-overlay">
+                                                    <img class="ign-show-branding horizontal-center" src="" data-image="http://assets1.ignimgs.com/2017/11/16/bge-pvp-logo-1510869693475.png" alt="" />
+                                                    <div class="schedule-description vertical-center"></div>
+                                                </div>
+                                            </a>
+                                            <div class="series-title">Best Game Ever</div>
+                                            <a
+                                                class="latest-episode"
+                                                href="/videos/2018/01/09/gta-red-dead-redemption-bioshock-celebs-favorite-adventure-games-best-game-ever-ep-4"
+                                                data-id="6e9377443df49c988733d7c4eafea4cb"
+                                                data-title="GTA, Red Dead Redemption, BioShock? Celebs' Favorite Adventure Games - Best Game Ever Ep. 4"
+                                            >
+                                                <div class="episode-title">GTA, Red Dead Redemption, BioShock? Celebs' Favorite Adventure Games  Ep. 4</div>
+                                                <div class="play-latest">
+                                                    <span>play latest</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                                                                                            <li class="ign-show ign-transition">
+                                            <a class="ign-show-art center-parent" href="/watch/nintendo-voice-chat">
+                                                <div class="ign-show-image-frame">
+                                                    <img class="ign-show-image super-position" src="" data-image="http://assets1.ignimgs.com/2015/08/06/nvclandscapejpg-67c0f9_compact.jpg" alt="Nintendo Voice Chat" />
+                                                </div>
+                                                <div class="ign-show-overlay">
+                                                    <img class="ign-show-branding horizontal-center" src="" data-image="http://assets2.ignimgs.com/2016/10/27/nvc-tmpng-f4824a.png" alt="" />
+                                                    <div class="schedule-description vertical-center">Every Friday</div>
+                                                </div>
+                                            </a>
+                                            <div class="series-title">Nintendo Voice Chat</div>
+                                            <a
+                                                class="latest-episode"
+                                                href="/videos/2018/01/12/how-will-dark-souls-remastered-be-on-nintendo-switch"
+                                                data-id="9e0d5a892fa1e0d87e3d9fdb2ecef7d7"
+                                                data-title="How Will Dark Souls Remastered be on Nintendo Switch?"
+                                            >
+                                                <div class="episode-title">How Will Dark Souls Remastered be on Nintendo Switch?</div>
+                                                <div class="play-latest">
+                                                    <span>play latest</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                                                                                </ul>
+                        </menu>
+                    </li>
+                                                    <li><a class="popular-link" href="/reviews/games">Reviews</a></li>
+                                    <li><a class="popular-link" href="/ps4">PS4</a></li>
+                                    <li><a class="popular-link" href="/xbox-one">Xbox</a></li>
+                                    <li><a class="popular-link" href="/pc">PC</a></li>
+                                    <li><a class="popular-link" href="/nintendo">Nintendo</a></li>
+                                    <li><a class="popular-link" href="/movies">Movies</a></li>
+                                    <li><a class="popular-link" href="/tv">TV</a></li>
+                                    <li><a class="popular-link" href="/tech">Tech</a></li>
+                                    <li><a class="popular-link" href="/events/esports">Esports</a></li>
+                            </div>
+            <div id="user-tools-container"></div>
+        </nav>
+    </div>
+    
+<script type="text/javascript">
+  var GlobalHeaderOptions = {
+    renderDomain : "widgets.ign.com",
+    enable_ssl : false  };
+</script>
+
+
+</header>
+
+<div class="preShell " >
+    </div>
+<div class="shell container-content-main ">
+    <div class="inc-vertNav">
+            </div>
+    <script>
+    var endpointBase = "http://apis.ign.com/v1.0/social/rest/";
+    var proxyBase = "http://my.ign.com/";
+    var blog_url = "http://www.ign.com/blogs/battlestriker123";
+</script>
+
+    <div id="ignSocialHeader" class="clear">
+            <div class="blog-header" style="background-image: url(http://oyster.ignimgs.com/wordpress/write.ign.com/62555/2015/06/MochiTsunami-Header-3.png)">
+        </div>
+        <ul class="socialPeopleBar">
+    <li class="navHeader">&nbsp;</li>
+    <li class="navDivider"></li>
+    <li class="navItem itemLink">
+        <a href="http://people.ign.com/battlestriker123" class="link">Activity</a>
+    </li>
+    <li class="navDivider"></li>
+    <li class="navItem itemLink selected">
+        <a href="http://www.ign.com/blogs/battlestriker123" class="link">Blog</a>
+    </li>
+    <li class="navDivider"></li>
+    <li class="navItem itemLink">
+        <a href="http://people.ign.com/battlestriker123/games" class="link">Games</a>
+    </li>
+    <li class="navDivider"></li>
+    <li class="navItem itemLink">
+        <a href="http://people.ign.com/battlestriker123/people" class="link">People</a>
+    </li>
+    <li class="navDivider"></li>
+            <li class="navItem itemLink">
+            <a href="http://my.ign.com/home" class="link">View My IGN &raquo;</a>
+        </li>
+        <li class="navDivider"></li>
+    </ul>
+
+    </div>
+
+<div class="container_24 clear">
+    <div id="content" class="narrowcolumn grid_16" role="main">
+
+        <div class="navigation">            <div id="homelink"><a href="http://www.ign.com/blogs/battlestriker123">Blog Home &raquo;</a></div>
+            </div>
+
+    <div class="post type-post" id="post-53e18ce07add260efed64e3a"><h2 class="titlelink">Personal Blog #16: I Built a PC and Named It After a Pokemon</h2><span class="date">August 14, 2014 by </span><a href="http://people.ign.com/battlestriker123" class="blog-by-line">Battlestriker123</a><div class="entry"><p><blockquote><p>A newbie's journey into PC building.</p></blockquote> <p>You may remember that <a href="http://www.ign.com/blogs/battlestriker123/2014/04/16/personal-blog-14-help-i-want-to-build-a-gaming-pc-but-i-dont-know-where-to-start/" title="Personal Blog #14: Help! I Want To Build A Gaming PC But I Don’t Know Where to Start" >back in April</a> I expressed my desire to build a PC from scratch. Part of the reason was that I wanted to play more video games; another was because I felt it would be a good experience for me as a university student seeking a bachelor’s degree in computer science. After soliciting feedback from you guys, I went ahead and bought all the parts I needed in May and assembled my very first PC in early June. Since then, I have done some tweaking (and a lot of moving to my off-campus apartment), and while it has admittedly taken longer than excusable for me to write this blog – well, it is finally here now.</p> <p>Perhaps you too would like to build your own PC. Indeed, building something so simple yet beautifully complicated may seem intimidating at first, but I have documented my foray into PC-building so you can see second-hand what it is like to build a computer from scratch for the first time.</p> <p>I have divided my post into three primary sections. Feel free to skip around to whichever you are most interested in.</p> <p><strong>Table of Contents:</strong></p> <ul> <li>Why Built a PC?</li> <li>What Parts Did You Choose?</li> <li>What Does the Final Build Look Like?</li> </ul> <p><!-- poilib start --></p> <div class="articleSubHeader icon-pointy">Why Build A PC?</div> <p><!-- poilib end --></p> <p>The biggest question regarding building a new computer is whether or not it is worth the money. That is a completely reasonable concern, of course; building a decent rig may be the biggest personal investment you have made in a while – or in my case, ever. Thus, I have compiled a list of things to think about when considering building your own PC.</p> <p>First off, I am going to assume than anyone reading this blog is more interested in building a gaming PC than just a regular one. In the latter case, getting a pre-built PC or a decent laptop may be just as sensible of an investment as building your own. It is only when you get to the more mid-to-high tiered parts that you begin saving a significant amount of money when building a PC (though, of course, the experience itself is priceless).</p> <p>So say you are interesting a building a gaming PC. The obvious question then becomes less “is it worth my money” and more “should I spend my money elsewhere.” With the latest generation of consoles on the market right now, an expensive gaming PC may not seem to stack well against a $400 PlayStation 4 or Xbox One. However, there are a few things to keep in mind.</p> <p>Firstly, depending on the hardware you choose to purchase, your games will look better on PC, even if you only choose to settle with a mid-tier rig.</p> <p>Secondly, games are usually much cheaper on PC. Steam Sales regularly mark games 75-90% off the retail price, and even without the discounts PC games are usually $5-10 cheaper. Humble Bundles allow you to download a set of games for any price you want. Think about it this way: if the average price you pay for a game on PC is half the price you pay on consoles, you will have ended up spending about the same amount of money on both after purchasing 16-20 games, depending on your rig.</p> <p>Thirdly, there are more games on PC, though most of them are smaller titles such as those created by indie developers. Obviously, you will not be getting Uncharted or Mario on your PC, so there is that to consider as well. It is also worth noting that almost every game that you have on your old PC will work on your new one (so find that install disc for RollerCoaster Tycoon!).</p> <p>Fourthly, upgrading is relatively cheap. Even after seven years, there will be many parts in your PC that you can reuse, and at the end of the day you will only need to purchase a few hundred dollars’ worth of upgrades per generation. Also, as PC parts become more and more available to the mainstream market, prices will inevitably drop over time.</p> <p>Finally, you will be using your PC for more than just gaming (otherwise, you might as well just get a Steambox). Unlike your gaming console, you will be using your computer to complete tasks as photoshopping, word processing, video editing, computer programming, and other obvious things that you use your computer for on a daily basis. In that case, building your own PC is a sensible investment when you are in need of a new computer anyways.</p> <p><!-- poilib start --></p> <div class="articleSubHeader icon-pointy">What Parts Did You Choose?</div> <p><!-- poilib end --></p> <p>So, you have decided that you want to build your own PC, but where should you start? Even if you do have a basic knowledge of how computers work, the hundreds of different parts options available on the market right now can be overwhelming. The best thing to do then is to go step by step.</p> <p>First off, you will need a budget. <a href="http://www.logicalincrements.com"  rel="nofollow">Logical Increments</a> provides an excellent tool that estimates how much a PC would cost to build at a given tier level in today’s market. I personally chose to go for an “Excellent” PC with a budget of $1000 for the computer itself.</p> <p>Once you have decided your price range, it is time to move on to the parts. Before I continue, I would like to share with you a few websites that helped me on my journey:</p> <ol> <li><a href="http://www.logicalincrements.com"  rel="nofollow">Logical Increments</a> – estimate the cost to build different tiered computers.</li> <li><a href="http://elitegamingcomputers.com/top-components/"  rel="nofollow">Elite Gaming Computers</a> – compare pros and cons on today’s most popular parts.</li> <li><a href="http://pcpartpicker.com"  rel="nofollow">PC Part Picker</a> – choose the parts you want and find the best deals online.</li> <li><a href="http://lifehacker.com/5828747/how-to-build-a-computer-from-scratch-the-complete-guide"  rel="nofollow">Building a PC by Lifehacker</a> – a somewhat dated but still useful guide to building your PC.</li> </ol> <p>If you're interested, you can find every part I have chosen by clicking <a href="http://pcpartpicker.com/p/R9ynGX"  rel="nofollow">here</a>.</p> <p><strong>Processor</strong></p> <p><em>My choice: Intel Core i5-4670K Quad-Core ($220)</em></p> <p>The CPU is what lets your computer do things. Think of it like your computer’s brains. It used to be that consumers had to choose between Intel and AMD processors, but nowadays it seems as if Intel is targeting the more high-end market and AMD covers the lower tiers. After choosing to go Intel, I had the option to either go with an i5 processor or the more advanced i7, though since I primarily wanted to use my PC for gaming (and also stay within my budget), the i5 seemed just fine. Plus, if I ever needed some extra juice, I could always overclock it and make it run even faster.</p> <p><strong>Motherboard</strong></p> <p><em>My choice: Asus Z87-A DDR3 1600 LGA 1150 ($140)</em></p> <p>The mobo is the thing that you connect all your other parts to. Think of it like your computer’s heart. The best motherboards are the ones that are fully featured and allow room for you to upgrade easily. Today’s Intel motherboards come in many varieties, but the most modern and popular model is the LGA 1150. A lot of different manufacturers make LGA 1150 motherboards, though I ultimately chose the Asus Z87-A for its complete set of features at a relatively low cost. Not only did it have everything I needed in a motherboard, but it also has a lot of room available for upgrades if I were to need them in the future.</p> <p><strong>Memory</strong></p> <p><em>My choice: Corsair Vengeance 8GB (2x4GB) DDR3 2133MHz ($85)</em></p> <p>The RAM determines how much stuff your computer can do at a time. Think of it as your computer’s, well, memory. Most AAA games nowadays work best with 8GB of memory, though a lot of people like shoving more into their computer just for the sake of it. It is also worth noting that opting for two 4GB sticks is faster than one 8GB stick, because the computer has more ways to access your computer’s RAM that way. Also keep an eye out for fluctuating prices; the most popular RAM’s run at 1600MHz, but you can find even faster memory sticks go on sale all the time.</p> <p><strong>Solid State Drive</strong></p> <p><em>My choice: Crucial M500 120GB ($67)</em></p> <p>Originally I did not plan on getting a SSD because of its price; they are about ten times pricier than traditional hard drives. However, if you want a computer to run its quickest in today’s modern age, getting a SSD is a must. The Crucial M500 120GB SSD was enough for me to install most of my programs while leaving more than enough room to spare in the future. Though games do load quicker on a SSD, I have so many of them that I decided to put them somewhere else…</p> <p><strong>Hard Disk Drive</strong></p> <p><em>My choice: Seagate Barracuda 1TB ($50)</em></p> <p>Hard drives come in pretty cheap nowadays thanks to the rapid proliferation of SSD’s, but 120GB just is not enough for a gamer like me. By expanding my storage space with a 1TB hard drive, I am able to store all of my documents, music, and games in one place without worrying about filling either the HD or the SSD up to maximum capacity. And for $50, that is a lot of bang for your buck.</p> <p><strong>Video Card</strong></p> <p><em>My choice: EVGA GeForce GTX760 SuperClocked w/EVGA ACX Cooler 2GB GDDR5 256bit ($250)</em></p> <p>Most motherboards come with an onboard graphics card, but if you want to play games the way they are meant to be played, you are going to need to upgrade to a better graphics card. Right now, there are two major brands of graphics cards available on the market: Nvidia GeForce and AMD Radeon. I chose Nvidia because most games nowadays seem to build their PC ports with GeForce in mind, and also it comes with some cool software that allows you to optimize, stream, and record your game for free. The GTX760 is often seen as the sweet spot between mid-tier and high-end graphics cards, and going any higher would definitely break the bank for me.</p> <p><strong>Power Supply</strong></p> <p><em>My choice: Corsair CS 750W ATX ($80)</em></p> <p>If you want your computer to work, you will want a PSU. Without it – well, you will not be able to plug your computer in. Nvidia suggests a 500W minimum when it comes to powering the GTX760, but if you plan on upgrading, you will want to go a bit higher, as the PSU will likely be a thing you will never need to replace.</p> <p><strong>Case</strong></p> <p><em>My choice: NZXT Phantom 410 White ($80)</em></p> <p>My dad hates my case. He thinks it is shaped weirdly and is far too big. I think it is perfect. The NZXT Phantom 410 is a beautiful beast, complete with flashy lights and enough room to stick a puppy in it even after installing everything. It is more expensive than most mid-sized towers though, and that is if you can even call it a mid-sized tower (it is like a few square inches below regulatory full-sized towers). However, if I were to stare at my computer for several years, I might as well make it look pretty.</p> <p><strong>Cooler</strong></p> <p><em>My choice: Cooler Master Hyper 212 EVO ($31)</em></p> <p>The worst thing that can happen to your computer is that the moment you turn it on it begins to melt. Most motherboards and cases come with more than enough fans you will ever need, but to ensure that my computer does not decide to want to explode one day, I thought I should probably grab a decent cooling fan to keep my PC at just the right temperature. Liquid coolers are also a popular option nowadays, but they are still far too expensive for the average gamer looking to build their first PC.</p> <p><strong>Total Cost: $1003</strong></p> <p>And all of these things combined cost just around one grand. All I needed now was to grab a spare monitor, mouse, and keyboard and I was ready to go! After installing Windows 8 (which I got for free as a student), everything ran perfectly and I was able to play games like Watch Dogs and Tomb Raider without a hitch.</p> <p><strong>Tax: $75</strong></p> <p>Oh, I forgot about that. That is a lot of tax.</p> <p><!-- poilib start --></p> <div class="articleSubHeader icon-pointy">What Does the Final Build Look Like?</div> <p><!-- poilib end --></p> <p>Well, I am glad you asked! This is what the assembled product looks like.</p> <p style="text-align: center"><img class="aligncenter  wp-image-4674" alt="Photo Aug 14, 1 44 06 PM" src="http://oyster.ignimgs.com/wordpress/write.ign.com/62555/2014/08/Photo-Aug-14-1-44-06-PM-600x450.jpg" width="360" height="270" /></p> <p>Here is me and my dad trying to figure out where the hell to plug everything in.</p> <p style="text-align: center"><img class="aligncenter  wp-image-4656" alt="Photo Jun 14, 11 29 03 AM" src="http://oyster.ignimgs.com/wordpress/write.ign.com/62555/2014/08/Photo-Jun-14-11-29-03-AM-e1407909958735-600x800.jpg" width="288" height="384" /></p> <p>A closer look at my motherboard.</p> <p style="text-align: center"><img class="aligncenter  wp-image-4654" alt="Photo Jun 14, 9 46 03 AM" src="http://oyster.ignimgs.com/wordpress/write.ign.com/62555/2014/08/Photo-Jun-14-9-46-03-AM-e1407909940840-600x800.jpg" width="288" height="384" /></p> <p>Setting everything up.</p> <p style="text-align: center"><img class="aligncenter  wp-image-4652" alt="Photo Jun 14, 2 16 48 PM" src="http://oyster.ignimgs.com/wordpress/write.ign.com/62555/2014/08/Photo-Jun-14-2-16-48-PM-600x450.jpg" width="360" height="270" /></p> <p>Here is my desktop, which looks all fancy and stuff thanks to Rainmeter.</p> <p style="text-align: center"><img class="aligncenter  wp-image-4672" alt="Untitled" src="http://oyster.ignimgs.com/wordpress/write.ign.com/62555/2014/08/Untitled-600x337.png" width="480" height="270" /></p> <p>Overall, I am very happy with my final build. I have not done any overclocking yet, but I do plan to in the near future. Games like Watch Dogs run very well on high settings, and I was able to import pretty much everything from my old gaming laptop onto this computer. Oh yeah, and I gave my PC a name: Aurorus.</p> <p>Thanks for checking out this rather long personal blog. Hopefully if you were looking to build your own PC, I helped you out even just a little (or at the very least you were entertained). A quick shoutout to <a href="http://people.ign.com/percy99" >percy99</a>, <a href="http://people.ign.com/Toews1987" >Toews1987</a>, <a href="http://people.ign.com/BadGuysBeware" >BadGuysBeware</a>, and <a href="http://people.ign.com/StormFuror" >StormFuror</a> for all your help, and of course to all my loyal followers for your moral support!</p> <p>Until next time!</p> <p><strong>~Bryce</strong></p> </p><div class="articletags"><p>Tags: <a href="http://www.ign.com/blogs/battlestriker123/tag/personal-blog/" rel="tag">Personal (Blog)</a></p><p>Category: <a href="http://www.ign.com/blogs/battlestriker123/category/ign/" title="View all posts in IGN" rel="category tag">IGN</a></p></div></div></div>
+<!-- Call to Action! -->
+<div id="submitYourBlog">
+    <a href="mailto:submissions@ign.com?subject=For your consideration..." class="submitYourBlog-submit">Submit Blog</a>
+    <div class="submitYourBlog-text">
+        Love this blog? Send it to
+        <a href="mailto:submissions@ign.com?subject=For your consideration...">submissions@ign.com</a>
+        to help us recognize and promote great bloggers on IGN.
+    </div>
+</div>
+          <a name="comments"></a>
+          
+          <script type="text/JavaScript">
+              function commentCallback(comment){
+                 jQuery.getJSON('http://www.ign.com/blogs/apiproxy/social/53e18ce07add260efed64e3a?comment_text='+encodeURIComponent(comment.text.slice(0,250)));
+              }
+          </script>
+
+          <div id="livefyre-comment" data-settings='{"layout":"desktop","networkName":"ign-prod.fyre.co","networkKey":"IP8LbeGsg5cbqTU6mKpcbVNoUn4=","socialDomain":"http:\/\/s.ign.com","site":{"name":"http:\/\/www.ign.com\/","id":"373714","key":"fXA0LNo4VNx2uQePVvordlHL6TA="},"collection":{"title":"Personal Blog 16: I Built a PC and Named It After a Pokemon","id":"53e18ce07add260efed64e3a","url":"http:\/\/www.ign.com\/blogs\/battlestriker123\/2014\/08\/14\/personal-blog-16-i-built-a-pc-and-named-it-after-a-pokemon","tags":"blogs,personal-blog","metatoken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoibGl2ZWNvbW1lbnRzIiwiYXJ0aWNsZUlkIjoiNTNlMThjZTA3YWRkMjYwZWZlZDY0ZTNhIiwidGl0bGUiOiJQZXJzb25hbCBCbG9nIDE2OiBJIEJ1aWx0IGEgUEMgYW5kIE5hbWVkIEl0IEFmdGVyIGEgUG9rZW1vbiIsInVybCI6Imh0dHA6XC9cL3d3dy5pZ24uY29tXC9ibG9nc1wvYmF0dGxlc3RyaWtlcjEyM1wvMjAxNFwvMDhcLzE0XC9wZXJzb25hbC1ibG9nLTE2LWktYnVpbHQtYS1wYy1hbmQtbmFtZWQtaXQtYWZ0ZXItYS1wb2tlbW9uIiwidGFncyI6ImJsb2dzLHBlcnNvbmFsLWJsb2ciLCJpc3MiOiJ1cm46bGl2ZWZ5cmU6aWduLXByb2QuZnlyZS5jbzpzaXRlPTM3MzcxNCJ9.FhWfVOFEU_gjOT_en6aM4jYoQQjT7XEHNkaBMGm969c","checksum":"b057c90463f10a81a748af4b962b3033"},"postpone_init":false,"user":[]}'>
+    </div>
+
+
+    </div>
+    
+<div id="sidebar" class="grid_8" role="complementary">
+
+                <div id="nickname">
+            <div class="profilebadge floatleft">
+              <div class='player-icon'><a href='http://people.ign.com/battlestriker123'
+                              title='View profile for Battlestriker123'><span class='author-img'>
+        <img src='http://oyster.ignimgs.com/social/avatars/users2/38/1980859-1427484583.png'
+             alt='User icon for Battlestriker123'/><span
+      class='badge moderator'>
+        </span></span><span class='level'>Level <span>38</span>
+        </span></a></div>
+  
+            </div>
+
+            <div id="byline"><a href="http://people.ign.com/Battlestriker123">Battlestriker123</a></div>
+            <script>window.currentUserName="";</script><div id="myIgnFollowPersonnickname.battlestriker123" class="myIgnFollowInstance"></div>            </div>
+
+        
+            <div class="rsslink">
+            <h3>Want to subscribe to this blog?</h3>
+            
+			<a class="rsslink" rel="nofollow" href="http://www.ign.com/blogs/battlestriker123/feed">Grab the RSS Feed</a>
+			<div style="clear:both;"></div>
+		</div>
+
+        <!-- poilib start -->
+<div class="subHeaderContainer">
+    <span class="subHeader width_4"><h2>Archives</h2></span>
+</div>
+<!-- poilib end -->
+<ul class="rightRailLinkList"><li><a title="2016" href="http://www.ign.com/blogs/battlestriker123/2016">2016</a></li><li><a title="2015" href="http://www.ign.com/blogs/battlestriker123/2015">2015</a></li><li><a title="2014" href="http://www.ign.com/blogs/battlestriker123/2014">2014</a></li><li><a title="2013" href="http://www.ign.com/blogs/battlestriker123/2013">2013</a></li><li><a title="2012" href="http://www.ign.com/blogs/battlestriker123/2012">2012</a></li><li><a title="2011" href="http://www.ign.com/blogs/battlestriker123/2011">2011</a></li></ul><link href="//oystatic.ignimgs.com/cache/css/7c/73/7c735153fa70b012f68c8de4c9ca5b0f.css" media="screen" rel="stylesheet" type="text/css" />
+<!-- poilib start -->
+<div class="subHeaderContainer">
+    <span class="subHeader width_4"><h2>Latest Posts by Friends</h2></span>
+</div>
+<!-- poilib end -->
+<div class="friendsBlogs-container"><ul class="friendsBlogs-list"><li class="friendsBlogs-post"><a class="friendsBlogs-title" href="http://www.ign.com/blogs/clinta13/2017/12/28/thursdays-wii-u-virtual-console-release-122817-eshop-eshop-sales-sales/">Thursday's Wii U Virtual Console Release (12/28/17) / eShop / eShop Sales / Sales</a><br /><a class="friendsBlogs-name" href="http://people.ign.com/clinta13">by&nbsp;clinta13</a><span class="friendsBlogs-date">&nbsp;2 weeks ago</span></li><li class="friendsBlogs-post"><a class="friendsBlogs-title" href="http://www.ign.com/blogs/levi221/2017/12/25/merry-christmas-everyone/">Merry Christmas everyone!</a><br /><a class="friendsBlogs-name" href="http://people.ign.com/levi221">by&nbsp;levi221</a><span class="friendsBlogs-date">&nbsp;3 weeks ago</span></li><li class="friendsBlogs-post"><a class="friendsBlogs-title" href="http://www.ign.com/blogs/clinta13/2017/12/21/thursdays-wii-u-virtual-console-release-122117-eshop-eshop-sales-sales/">Thursday's Wii U Virtual Console Release (12/21/17) / eShop / eShop Sales / Sales</a><br /><a class="friendsBlogs-name" href="http://people.ign.com/clinta13">by&nbsp;clinta13</a><span class="friendsBlogs-date">&nbsp;3 weeks ago</span></li></ul></div>
+<!-- poilib start -->
+<div class="subHeaderContainer">
+    <span class="subHeader width_4"><h2>Categories</h2></span>
+</div>
+<!-- poilib end -->
+<ul class="rightRailLinkList"><li><a title="224 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/gaming">gaming</a></li><li><a title="118 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/nintendo-wii">nintendo-wii</a></li><li><a title="86 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/nintendo-ds">nintendo-ds</a></li><li><a title="40 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/xbox-360">xbox-360</a></li><li><a title="40 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/playstation-3">playstation-3</a></li><li><a title="27 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/pc">pc</a></li><li><a title="25 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/action-games">action-games</a></li><li><a title="20 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/adventure">adventure</a></li><li><a title="18 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/classic-gaming">classic-gaming</a></li><li><a title="16 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/arcade">arcade</a></li><li><a title="10 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/gamecube">gamecube</a></li><li><a title="10 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/game-boy">game-boy</a></li><li><a title="8 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/roleplaying">roleplaying</a></li><li><a title="8 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/psp">psp</a></li><li><a title="7 topics" class="category-link" href="http://www.ign.com/blogs/battlestriker123/category/ign">ign</a></li></ul><!-- poilib start -->
+<div class="subHeaderContainer">
+    <span class="subHeader width_4"><h2>Tags</h2></span>
+</div>
+<!-- poilib end -->
+<ul class="rightRailLinkList"><li><a title="63 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/feature">feature</a></li><li><a title="45 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/3ds">3ds</a></li><li><a title="41 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/wii-u">wii-u</a></li><li><a title="35 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/opinion">opinion</a></li><li><a title="31 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/review">review</a></li><li><a title="24 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/impressions">impressions</a></li><li><a title="23 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/wii">wii</a></li><li><a title="17 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/blog">blog</a></li><li><a title="10 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/nintendo-3ds-platform">nintendo-3ds-platform</a></li><li><a title="10 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/pc">pc</a></li><li><a title="10 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/wii-u-platform">wii-u-platform</a></li><li><a title="10 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/opinion-blog">opinion-blog</a></li><li><a title="8 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/week-of-wii-u">week-of-wii-u</a></li><li><a title="8 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/indies-impressions-on-nintendo-downloads-in-the-eshop">indies-impressions-on-nintendo-downloads-in-the-eshop</a></li><li><a title="7 topics" class="tag-link" href="http://www.ign.com/blogs/battlestriker123/tag/feature-blog">feature-blog</a></li></ul>     </div>
+</div>
+</div>
+<div class="postShell">
+    </div>
+
+
+<script type="" src="//oystatic.ignimgs.com/cache/js/80/b4/80b4ca0b37d8b8357c0f476200b159e1.js"></script><link href="//oystatic.ignimgs.com/cache/css/0a/41/0a41c8d26c0eae2ff3978f692d3afeb4.css" media="screen" rel="stylesheet" type="text/css" />
+<div id="ignFooter-container" class="noprint">
+    <footer>
+        <div class="ignFooter-content">
+                            <div class="ignFooter-topRow">
+                                        <div class="ignFooter-columnLeft">
+                        <ul class='ignFooter-linkList '>
+<li class="first">IGN.com:</li>
+<li><a href="http://www.ign.com/wikis/ign/Content_Team">Content Team</a></li>
+<li><a href="http://www.ign.com/wikis/ign/Standards_and_Practices">Standards &amp; Practices</a></li>
+<li><a href="http://www.ign.com/support/editorial?category=newstips">Send Us News</a></li>
+<li><a href="http://www.ign.com/sitemaps">Site Map</a></li>
+</ul>
+                        <ul class='ignFooter-linkList '>
+<li class="first">International:</li>
+<li><a href="http://world.ign.com">IGN World Map</a></li>
+<li><a href="http://www.ign.com/?setccpref=SR">Adria</a></li>
+<li><a href="http://www.ign.com/?setccpref=ZA">Africa</a></li>
+<li><a href="http://au.ign.com/?setccpref=AU">Australia</a></li>
+<li><a href="http://www.ign.com/?setccpref=BR">Brazil</a></li>
+<li><a href="http://www.ign.com/?setccpref=NL">Benelux</a></li>
+<li><a href="http://ca.ign.com/?setccpref=CA">Canada</a></li>
+<li><a href="http://www.ign.com/?setccpref=CN">China</a></li>
+<li><a href="http://www.ign.com/?setccpref=CZ">Czech</a></li>
+<li><a href="http://www.ign.com/?setccpref=DK">Denmark</a></li>
+<li><a href="http://www.ign.com/?setccpref=FI">Finland</a></li>
+<li><a href="http://www.ign.com/?setccpref=FR">France</a></li>
+<li><a href="http://www.ign.com/?setccpref=DE">Germany</a></li>
+<li><a href="http://www.ign.com/?setccpref=GR">Greece</a></li>
+<li><a href="http://www.ign.com/?setccpref=HU">Hungary</a></li>
+<li><a href="http://www.ign.com/?setccpref=IN">India</a></li>
+<li><a href="http://ie.ign.com/?setccpref=IE">Ireland</a></li>
+<li><a href="http://www.ign.com/?setccpref=IL">Israel</a></li>
+<li><a href="http://www.ign.com/?setccpref=IT">Italy</a></li>
+<li><a href="http://www.ign.com/?setccpref=JP">Japan</a></li>
+<li><a href="http://www.ign.com/?setccpref=LA">Latin America</a></li>
+<li><a href="http://www.ign.com/?setccpref=ME">Middle East</a></li>
+<li><a href="http://www.ign.com/?setccpref=NO">Norway</a></li>
+<li><a href="http://www.ign.com/?setccpref=PK">Pakistan</a></li>
+<li><a href="http://www.ign.com/?setccpref=PL">Poland</a></li>
+<li><a href="http://www.ign.com/?setccpref=PT">Portugal</a></li>
+<li><a href="http://www.ign.com/?setccpref=RO">Romania</a></li>
+<li><a href="http://www.ign.com/?setccpref=RU">Russia</a></li>
+<li><a href="http://www.ign.com/?setccpref=AP">Southeast Asia</a></li>
+<li><a href="http://www.ign.com/?setccpref=ES">Spain</a></li>
+<li><a href="http://www.ign.com/?setccpref=SE">Sweden</a></li>
+<li><a href="http://www.ign.com/?setccpref=TR">Turkey</a></li>
+<li><a href="http://uk.ign.com/?setccpref=UK">United Kingdom</a></li>
+<li><a href="http://www.ign.com/?setccpref=US">United States</a></li>
+</ul>
+                    </div>
+                                        <div class="ignFooter-columnRight">
+                        <a href="http://www.ign.com/articles/2015/06/04/sign-up-for-ign-newsletters" class="ignFooter-newsletterSignup">Get the IGN Games Newsletter - Over 2 Million Served!</a>
+                    </div>
+                </div>
+                        <div class="ignFooter-bottomRow ignFooter-bottomRowCompact">
+                        <div class="ignFooter-column">
+                <a href="http://www.ziffdavis.com/" class="ignFooter-logo" title="Ziff Davis"><span class="hidden">Ziff Davis</span></a>
+                                <ul class='ignFooter-linkList '>
+<li><a href="http://www.ign.com/">IGN</a></li>
+<li><a href="http://www.askmen.com/">AskMen</a></li>
+<li><a href="http://www.pcmag.com/">PCMag</a></li>
+<li><a rel="nofollow" href="http://www.offers.com/">Offers.com</a></li>
+<li><a href="http://www.extremetech.com/">ExtremeTech</a></li>
+<li><a href="http://www.geek.com/">Geek</a></li>
+<li><a href="http://www.toolbox.com/">Toolbox</a></li>
+<li><a href="http://www.speedtest.net/">Speedtest.net</a></li>
+</ul>
+                            </div>
+                        <div class="ignFooter-column">
+                <p>Copyright 1996-2018 Ziff Davis, LLC
+                    <span style="padding-left:10px;">An <a href="http://corp.ign.com/">IGN Entertainment</a> Games site</span>                </p>
+                <ul class='ignFooter-linkList '>
+<li><a href="http://corp.ign.com/about">About Us</a></li>
+<li><a href="http://corp.ign.com/">Advertise</a></li>
+<li><a href="http://www.ign.com/support/editorial?category=feedback">Contact Us</a></li>
+<li><a href="http://corp.ign.com/press">Press</a></li>
+<li><a href="http://corp.ign.com/careers">Careers</a></li>
+<li><a class="ignFooter-linkRss" href="http://corp.ign.com/feeds" title="Subscribe to RSS Feeds">RSS Feeds</a></li>
+</ul>
+<ul class='ignFooter-linkList showAdchoices'>
+<li><a href="http://support.ign.com/">Support</a></li>
+<li><a href="http://www.ign.com/support#3">Accessibility</a></li>
+<li><a href="http://corp.ign.com/policies/privacy">Privacy Policy</a></li>
+<li><a class="showBorder" href="http://corp.ign.com/policies/user-agreement">Terms of Use</a></li>
+</ul>
+                                  <a id="ignFooter-adchoices" rel="nofollow" target="_blank" href="//preferences-mgr.truste.com/?type=ziffdavispop&amp;pid=ziffdavis01&amp;aid=ziffdavis01">
+                    AdChoices <img src="//cdn.ziffstatic.com/adchoices/adchoices.png" alt="">
+                  </a>
+                                <div id="teconsent-container">
+                    <div id="consent_blackbar"></div>
+                    <div id="teconsent" style="display: none;" class="custom-link"></div>
+                    <!--   <div id="footerCookie" style="display: none;"></div>  -->                     <script crossorigin async defer src="//consent.truste.com/notice?domain=ziffdavis.com&c=teconsent&js=bb&noticeType=bb&text=true"></script>
+                </div>
+            </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+<div id="policyNotice" class="privacy-policy-update" data-privacy="1"  data-domain=".ign.com" style="display:none;">
+    <div class="close-btn">
+        <a href="#" title="Close">&times;</a>
+    </div>
+    <p>We have updated our PRIVACY POLICY and encourage you to read it by clicking <a href="http://corp.ign.com/policies/privacy" target="_blank" class="policy-link">here</a>.</p>
+    <p>IGN uses cookies and other tracking technologies to customize online advertisements, and for other purposes. IGN supports the Digital Advertising Alliance principles. <a href="http://corp.ign.com/policies/privacy#collection-control" target="_blank" class="policy-link"">Learn More</a></p>
+</div>
+
+
+
+
+<script type="text/javascript" src="//oystatic.ignimgs.com/cache/js/f0/cc/f0cc3a2e101982a4ec187dc601dd73d7.js"></script>
+<script async defer type="text/javascript" src="http://static.ziffprod.com/cse/js/5.0.0/zdcse.min.js?referrer=www.ign.com&bf&currency=USD"></script>
+
+
+<script>igndrones.async.push(function() {igndrones.fireBottom();});</script>
+</body>
+</html>
+
+<!-- View Generation: 300ms - 38.00MB - 113 - 2018-01-15 01:37:53 PST -->

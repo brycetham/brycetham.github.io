@@ -1,0 +1,88 @@
+User-agent: Image Sucker
+User-agent: FlashGet
+User-agent: LinkpadBot
+User-agent: MIDown tool
+User-agent: Rogerbot
+User-agent: NetZIP
+User-agent: Mass Downloader
+User-agent: Dotbot
+User-agent: Octopus
+User-agent: Gigabot
+User-agent: WebReaper
+User-agent: GrabNet
+User-agent: SemrushBot/1.1~bl
+User-agent: EirGrabber
+User-agent: EmailSiphon
+User-agent: JOC Web Spider
+User-agent: WebGo IS
+User-agent: Image Stripper
+User-agent: Grafula
+User-agent: InterGET
+User-agent: tAkeOut
+User-agent: pcBrowser
+User-agent: larbin
+User-agent: NetAnts
+User-agent: PageGrabber
+User-agent: GetWeb!
+User-agent: ChinaClaw
+User-agent: AhrefsBot/5.1
+User-agent: pavuk
+User-agent: WWWOFFLE
+User-agent: Web Image Collector
+User-agent: HMView
+User-agent: Widow
+User-agent: eCatch
+User-agent: SuperBot
+User-agent: Teleport Pro
+User-agent: Offline Navigator
+User-agent: Web Sucker
+User-agent: WebStripper
+User-agent: Internet Ninja
+User-agent: Website Quester
+User-agent: Website eXtractor
+User-agent: EyeNetIE
+User-agent: SuperHTTP
+User-agent: WebWhacker
+User-agent: LeechFTP
+User-agent: Xaldon WebSpider
+User-agent: WebLeacher
+User-agent: WebSauger
+User-agent: WebCopier
+User-agent: Offline Explorer
+User-agent: AhrefsBot
+User-agent: EmailWolf
+User-agent: MJ12bot
+User-agent: RealDownload
+User-agent: Express WebPictures
+User-agent: Indy Library
+User-agent: NetSpider
+User-agent: HTTrack
+User-agent: WebFetch
+User-agent: Surfbot
+User-agent: Download Demon
+User-agent: Exabot
+User-agent: JetCar
+User-agent: ExtractorPro
+User-agent: SemrushBot
+User-agent: BlackWidow
+User-agent: VoidEYE
+User-agent: Zeus
+User-agent: WebAuto
+User-agent: SmartDownload
+User-agent: Bot [EMAIL="craftbot@yahoo.com"]mailto:craftbot@yahoo.com[/EMAIL]
+User-agent: DISCo
+User-agent: WebZIP
+User-agent: Custo
+User-agent: Papa Foto
+User-agent: Navroad
+User-agent: Go!Zilla
+User-agent: Go-Ahead-Got-It
+User-agent: Mister PiX
+User-agent: ReGet
+User-agent: SiteSnagger
+User-agent: GetRight
+User-agent: Net Vampire
+User-agent: Wget
+User-agent: NearSite
+Disallow: /
+

@@ -1,0 +1,7 @@
+Sitemap: http://www.nintendojo.com/sitemap.xml
+Sitemap: http://www.nintendojo.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://www.nintendojo.com/sitemap.xml

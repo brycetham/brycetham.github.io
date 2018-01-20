@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-CA">
+<head>
+<meta charset="UTF-8">
+<title>Published Works</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://editions.lib.umn.edu/xmlrpc.php" />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Published Works &raquo; Feed" href="http://editions.lib.umn.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Published Works &raquo; Comments Feed" href="http://editions.lib.umn.edu/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Published Works &raquo; Home Comments Feed" href="http://editions.lib.umn.edu/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/editions.lib.umn.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://editions.lib.umn.edu/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='searchandfilter-css'  href='http://editions.lib.umn.edu/wp-content/plugins/search-filter/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='http://editions.lib.umn.edu/wp-content/plugins/wordpress-popular-posts/public/css/wpp.css?ver=4.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='2015-tc-css'  href='http://editions.lib.umn.edu/wp-content/themes/editions_base/css/2015-tc.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='editions-footer-css'  href='http://editions.lib.umn.edu/wp-content/themes/editions_base/css/editions-footer.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mh-style-css'  href='http://editions.lib.umn.edu/wp-content/themes/editions_base/style.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mh-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mh-google-fonts-css'  href='//fonts.googleapis.com/css?family=PT+Serif:300,400,400italic,600,700%7COswald:300,400,400italic,600,700' type='text/css' media='all' />
+<link rel='stylesheet' id='upw_theme_standard-css'  href='http://editions.lib.umn.edu/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=4.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://editions.lib.umn.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://editions.lib.umn.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://editions.lib.umn.edu/wp-content/themes/editions_base/js/umnhf-2015.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://editions.lib.umn.edu/wp-content/themes/editions_base/js/html5shiv-printshiv.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://editions.lib.umn.edu/wp-content/themes/mh_newsdesk/js/scripts.js?ver=4.9.1'></script>
+<link rel='https://api.w.org/' href='http://editions.lib.umn.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://editions.lib.umn.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://editions.lib.umn.edu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.1" />
+<link rel="canonical" href="http://editions.lib.umn.edu/" />
+<link rel='shortlink' href='http://editions.lib.umn.edu/' />
+<link rel="alternate" type="application/json+oembed" href="http://editions.lib.umn.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Feditions.lib.umn.edu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://editions.lib.umn.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Feditions.lib.umn.edu%2F&#038;format=xml" />
+	<style type="text/css">
+    	    		.social-nav a:hover, .logo-title, .entry-content a, a:hover, .entry-meta .entry-meta-author, .entry-meta a, .comment-info, blockquote, .pagination a:hover .pagelink { color: #7a0019; }
+			.main-nav li:hover, .slicknav_menu, .ticker-title, .breadcrumb a, .breadcrumb .bc-text, .button span, .widget-title span, input[type=submit], table th, .comment-section-title .comment-count, #cancel-comment-reply-link:hover, .pagination .current, .pagination .pagelink { background: #7a0019; }
+			blockquote, input[type=text]:hover, input[type=email]:hover, input[type=tel]:hover, input[type=url]:hover, textarea:hover { border-color: #7a0019; }
+    	    				.widget-title, .pagination a.page-numbers:hover, .dots:hover, .pagination a:hover .pagelink, .comment-section-title { background: #efefef; }
+			.commentlist .depth-1, .commentlist .bypostauthor .avatar { border-color: #efefef; }
+    	    	    	    	    		</style>
+    <!--[if lt IE 9]>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+</head>
+<body class="home page-template page-template-template-full page-template-template-full-php page page-id-16 mh-right-sb">
+
+
+<!-- BEGIN UMN HEADER -->
+		<header class="umnhf" id="umnhf-h">
+			<div class="umnhf" id="umnhf-h-mast">
+				<div class="banner-wrapper">
+				<a class="umnhf" href="//pubs.lib.umn.edu/"><img src="http://editions.lib.umn.edu/wp-content/themes/editions_base/img/mlibraries-publising-logo-header.png" alt="University of Minnesota Libraries Publishing Logo"></a>
+				</div>
+			</div>
+		</header>
+<!-- END UMN HEADER -->
+
+
+<div id="mh-wrapper">
+<header class="mh-header">
+
+
+
+	<div class="header-wrap clearfix">
+		<div class="mh-col mh-1-3">
+			
+			<a href="http://editions.lib.umn.edu/" title="Published Works" rel="home">
+<div class="logo-wrap" role="banner">
+<div class="logo">
+<h1 class="logo-title">Published Works</h1>
+</div>
+</div>
+</a>
+		</div>
+		<div class="header-background clearfix">
+					</div>
+	</div>
+	<div class="header-menu clearfix">
+
+		<div class="header-sub clearfix">
+						<aside class="mh-col mh-1-3 header-search">
+				<form role="search" method="get" class="search-form" action="http://editions.lib.umn.edu/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>			</aside>
+		</div>
+	</div>
+</header><div class="page-full-width">
+				<article id="post-16" class="post-16 page type-page status-publish hentry">
+	<header class="entry-header">
+			</header>
+	<div class="entry-content clearfix">
+		<ul>
+<li><a href="https://www.lib.umn.edu/publishing/works">Scholarly Journals</a></li>
+<li><a href="https://www.lib.umn.edu/publishing/works">Conference Proceedings</a></li>
+<li><a href="https://www.lib.umn.edu/publishing/works">Textbooks</a></li>
+<li><a href="https://www.lib.umn.edu/publishing/works">Books</a></li>
+</ul>
+<p>The University of Minnesota Libraries&#8217; Publishing Services is here to support our affiliates&#8217; creation of scholarly publications. We can provide <a href="https://www.lib.umn.edu/publishing/contact-libraries-publishing">consultations</a> about your publishing options and access to publishing platforms to <a href="https://www.lib.umn.edu/publishing/publishlibraries">start a new publication with the University Libraries</a>.</p>
+	</div>
+</article>					</div>
+</div>
+<!-- BEGIN UofM FOOTER -->
+
+<section id="site-map">
+<div class="container">
+<div class="row">
+<div id="footer-lib" class="col-xs-12">
+<div class="row">
+<div class="col-sm-10">
+<div class="row">
+<div class="col-sm-3 footer-col">
+<h3>Publishing Services</h3>
+<ul class="list-unstyled">
+<li>
+<a href="https://www.lib.umn.edu/publishing">About Us</a>
+</li>
+<li>
+<a href="https://www.lib.umn.edu/publishing/publishlibraries">Publish with the Libraries</a>
+</li>
+<li>
+<a href="https://www.lib.umn.edu/publishing/choices">Publishing Choices</a>
+</li>
+<li>
+<a href="https://www.lib.umn.edu/publishing/publishlibraries/proposal">Propose a New Publication</a>
+</li>
+<li>
+<a href="https://www.lib.umn.edu/publishing/contact-libraries-publishing">Contact Us</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-3 footer-col">
+<h3>Related Services</h3>
+<ul class="list-unstyled">
+<li>
+<a href="https://www.lib.umn.edu/copyright/about">Copyright Program</a>
+</li>
+<li>
+<a href="https://www.lib.umn.edu/elearning">elearning Services</a>
+</li>
+<li>
+<a href="https://www.lib.umn.edu/digital/dashu">Digital Arts Sciences + Humanities</a>
+</li>
+<li>
+<a href="https://www.lib.umn.edu/researchsupport/udc">University Digital Conservancy</a>
+</li>
+<li>
+<a href="https://www.lib.umn.edu/digital">Digitization Services</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-3 footer-col">
+<h3>Libraries</h3>
+<ul class="list-unstyled">
+<li>
+<a href="https://www.lib.umn.edu/about/collections">Hours</a>
+</li>
+<li>
+<a href="http://www.continuum.umn.edu">News &amp;
+                            Events</a>
+</li>
+<li>
+<a href="https://www.lib.umn.edu/about/staff">Staff
+                            Directory</a>
+</li>
+<li>
+<a href="https://www.lib.umn.edu/about/selectors">Subject Librarians</a>
+</li>
+<li>
+<a href="https://www.lib.umn.edu/about/goals">Vision,
+                            Mission, &amp; Goals</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-2 footer-col-4">
+<a href="http://www.lib.umn.edu"><img src="http://editions.lib.umn.edu/wp-content/themes/editions_base/img/ulib-box.png" width="150" height="150" title="University Libraries" alt="University Libraries" id="university-libraries"></a>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12">
+<hr>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</section>
+<footer>
+<div id="umnhf-f" class="umnhf container">
+<div id="umnhf-f-cl" class="umnhf">
+<h2 class="umnhf">Twin Cities Campus:</h2>
+<ul class="umnhf">
+<li class="umnhf">
+<a href="http://www.umn.edu/twincities/maps/index.html" class="umnhf">Maps
+                &amp; Directions</a>
+</li>
+<li class="umnhf">
+<a href="http://www1.umn.edu/pts/" class="umnhf">Parking
+                &amp; Transportation</a>
+</li>
+<li class="umnhf">
+<a href="http://www.umn.edu/twincities/contact/" class="umnhf">Contact
+                U of M</a>
+</li>
+<li class="umnhf">
+<a href="http://www1.umn.edu/twincities/privacy/" class="umnhf">Privacy</a>
+</li>
+<li class="umnhf">
+<a href="http://www.directory.umn.edu/" class="umnhf">Directories</a>
+</li>
+</ul>
+</div>
+<div id="umnhf-f-bp" class="umnhf">
+<ul class="umnhf">
+<li class="umnhf">
+              &copy; 2015 Regents of the University of Minnesota.
+              All rights reserved.
+            </li>
+<li class="umnhf">
+<span id="umnhf-f-fs1" class="umnhf">
+                The University of Minnesota is an equal opportunity educator
+                and employer.
+              </span>
+</li>
+<li class="umnhf"><a href="https://www.lib.umn.edu/about/privacy">Privacy Statement</a> | <a href='http://policy.umn.edu/it/itresources'>Acceptable Use of IT Resources</a></li>
+</ul>
+</div>
+</div>
+</footer>
+<!-- END UofM FOOTER -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/editions.lib.umn.edu\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://editions.lib.umn.edu/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://editions.lib.umn.edu/wp-includes/js/comment-reply.min.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://editions.lib.umn.edu/wp-includes/js/wp-embed.min.js?ver=4.9.1'></script>
+</body>
+</html>

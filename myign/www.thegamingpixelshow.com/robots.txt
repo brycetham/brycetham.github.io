@@ -1,0 +1,15 @@
+# Disallow crawling of sub-site
+User-agent: *
+Crawl-delay: 5
+Disallow: /site/
+Disallow: /common/forsale/
+Disallow: /common/roar/redir
+Disallow: /common/roar/results.htm
+Disallow: /common/advertise/advertising.htm
+Disallow: /assets/
+
+User-Agent: MJ12bot
+Disallow:   /
+
+User-agent: ShopWiki
+Disallow: /

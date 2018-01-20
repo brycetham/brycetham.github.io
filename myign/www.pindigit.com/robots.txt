@@ -1,0 +1,8 @@
+Sitemap: http://www.pindigit.com/sitemap.xml
+sitemap: http://www.pindigit.com/sitemap-image.xml
+sitemap: http://www.pindigit.com/sitemap-video.xml
+sitemap: http://www.pindigit.com/sitemap.txt
+
+User-agent: *
+Disallow: /api/user?*
+Disallow:

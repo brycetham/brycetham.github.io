@@ -1,0 +1,10 @@
+# advertising-related bots:
+User-agent: Mediapartners-Google*
+Disallow: 
+
+User-agent: *
+Disallow: /wiki/Special:Search
+Disallow: /wiki/Special%3ASearch
+Disallow: /wiki/Special:Randompage
+Disallow: /wiki/Special%3ARandompage
+Crawl-delay: 1

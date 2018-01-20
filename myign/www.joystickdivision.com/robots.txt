@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /email.php
+Disallow: /search.php
+Disallow: /common/
+
+Allow: /common/js
+Allow: /common/css

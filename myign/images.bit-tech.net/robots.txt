@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /max/
+Disallow: /ox/
+Disallow: /images/email/
+Allow: /

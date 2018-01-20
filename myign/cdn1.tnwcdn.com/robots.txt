@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+Allow: /wp-content/
+Allow: /images/
+Allow: */files/
+Allow: /allthingsfiles/
+Allow: /conference/wp-content/
+Allow: /conference2010/

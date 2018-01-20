@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>New Movies, TV Shows, Games | Celebrity News & Gossip | CINEMABLEND</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+<link rel="stylesheet" type="text/css" href="/static/css/mobile.css" />
+<meta name="description" content="Reporting on movies, television, video games, and pop culture CINEMABLEND is the go-to source for today's plugged-in generation.">
+<meta name="keywords" content="entertainment news, movie news, movie reviews, film reviews, film critic, movie, movies in theatres, television, what's on tv,  technology, geek, videogame, gaming, movie blog, xbox, playstation, nintendo, star wars, actor, hot actress, kinokatey pics,  spider-man, movie trailers, movie release dates, weekend box office, cinema blend, upcoming movies, horror movies, 3d, 3d reviews">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0" />
+<link rel="icon" type="image/x-icon" href="/static/favicon.ico" />
+<link rel="icon" href="/static/favicon.ico" />
+<link href="https://www.cinemablend.com/" rel="canonical" />
+<link href="https://feeds.feedburner.com/cinemablendallthing" type="application/rss+xml" rel="alternate" />
+<meta name="description" content="CINEMABLEND is the go-to-source for today&#39;s information and updates on new movies, tv shows, games and celebrity news and gossip. Visit now to see what&#39;s new!">
+<meta property="fb:app_id" content="956050344476201">
+<meta name="robots" content="all">
+<meta property="og:url" content="https://www.cinemablend.com/">
+<meta property="og:image" content="/static/images/cb-logo.jpg">
+<meta property="og:type" content="website">
+<meta property="og:description" content="CINEMABLEND is the go-to-source for today&#39;s information and updates on new movies, tv shows, games and celebrity news and gossip. Visit now to see what&#39;s new!">
+<meta property="fb:pages" content="90893081682">
+<meta name="page" content="index">
+<meta name="msvalidate.01" content="9AA1A3C35B6D716AE80C1B615C6E8FE8">
+<meta name="CinemaBlend" content="200">
+<meta property="og:site_name" content="CINEMABLEND">
+<meta property="fb:admins" content="585420252">
+<link rel="stylesheet" href="/assets?v=sGCfqkjEqha6czVJVRvsNHg3t4Uf9K1D9bEkGT8QMa2S7gs_5xYPNF9EhiiCgMhlQGQWpKoMaAP_WXrbGxLkytBw7Su4rRZThSndUv1TwrlxQwwDtOqm_fKLQ3pqSgGexPV967EBvoL0UGeDfJ-1-kyoHuA1KRjUA9TnfIRdp_ydQQ_vKm2QIZhKiPIdsomh7jEmc12qX4vBUGXO-EoorYtuozhVnKhJgZcwcob8sUBMWcEa6Q9gNbqUKwVUHApAYV8mawaAN3BtKOZqAcy9uTnWW30pvD2oEAc59UAC7nAqUHaKB2IY2PvuzKZSYEEQUq9bdUXOIg3MsAQgn2J-xxVQUAEyX_nRToruw3DdIcTWHtzq4ogmrpCzvWjAeqGP&amp;t=css&amp;u=2086bdc5b13bcc2502d1230f80ae2037855b2ecd&amp;s=GtdUwiZFmBC4FqKSSlH4bdKnIaRaGMwd-hYddVgKgQo&amp;l=syzoun4dFL9trjWXIWLX2CsJyaF_9YiqEvsx2jI2-QM">
+<link href="//c.amazon-adsystem.com" rel="dns-prefetch" />
+<link href="//adserver-us.adtech.advertising.com" rel="dns-prefetch" />
+<link href="//secure.adnxs.com" rel="dns-prefetch" />
+<link href="//ib.adnxs.com" rel="dns-prefetch" />
+<link href="//as.casalemedia.com" rel="dns-prefetch" />
+<link href="//as-sec.casalemedia.com" rel="dns-prefetch" />
+<link href="//ads.rubiconproject.com" rel="dns-prefetch" />
+<link href="//fastlane.rubiconproject.com" rel="dns-prefetch" />
+<link href="//ox-d.gatewaymedia.servedbyopenx.com" rel="dns-prefetch" />
+<link href="//ap.lijit.com" rel="dns-prefetch" />
+<script type="text/javascript" src="https://ads.rubiconproject.com/header/12292.js" async></script>
+<script type="text/javascript">
+    (function() {
+        var PREBID_TIMEOUT = 1000;
+
+        // Setup
+        var gads = document.createElement("script");
+        gads.async = true;
+        gads.type = "text/javascript";
+        var useSSL = "https:" == document.location.protocol;
+        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+        var node = document.getElementsByTagName("script")[0];
+        node.parentNode.insertBefore(gads, node);
+
+        // Globals
+        window.googletag = window.googletag || {};
+        window.googletag.cmd = window.googletag.cmd || [];
+        window.googletag.cmd.push(function() {
+            window.googletag.pubads().disableInitialLoad();
+        });
+
+        // called either when all bids are back, or when timeout is reached
+        function initAdserver(from_timeout) {
+            if (pbjs.initAdserverSet) return;
+            if (!window.googletag.pubadsReady) {
+                setTimeout(initAdserver, 50, true);
+                return;
+            }
+
+
+            window.googletag.cmd.push(function() {
+                window.pbjs.cmd.push(function() {
+                    window.pbjs.enableSendAllBids();
+
+                    window.pbjs._bidsReceived = window.pbjs._bidsReceived.filter(function(bid) {
+                        return bid.cpm > 0.00;
+                    });
+
+                    window.pbjs.setTargetingForGPTAsync();
+
+                    if (typeof amznads !== 'undefined') {
+                        try {
+                            amznads.setTargetingForGPTAsync('amznslots');
+                        } catch(e) {
+                            console.error("Prebid Header - amznads error: %s", e);
+                        }
+                    }
+                });
+
+                    window.googletag.pubads().refresh([
+window.dfp_slots['cb_m_300x250_EB_inline_1'],
+window.dfp_slots['cb_m_300x250_EB_inline_2'],
+window.dfp_slots['cb_m_320x50_EB_top'],
+]);
+            });
+            window.pbjs.initAdserverSet = true;
+        }
+        setTimeout(initAdserver, PREBID_TIMEOUT, true);
+
+        window.pbjs = window.pbjs || {};
+        window.pbjs.cmd = window.pbjs.cmd || [];
+
+        window.pbjs.cmd.push(function() {
+            window.pbjs.setPriceGranularity('dense');
+            window.pbjs.setBidderSequence('random');
+
+            var adUnits = [];
+            adUnits.push({
+                code: 'cb_m_300x250_EB_inline_1',
+                sizes: [[300, 250]],
+                bids: [{"bidder": "sovrn", "params": {"tagid": "338362"}}, {"bidder": "aol", "params": {"placement": "3939938", "network": "9961.1", "alias": "AOL_CB_M_300x250"}}, {"bidder": "indexExchange", "params": {"id": "30", "siteID": 192283, "timeout": "300"}}, {"bidder": "appnexus", "params": {"placementId": "7097655"}}, {"bidder": "openx", "params": {"delDomain": "gatewaymedia-d.openx.net", "unit": "538604083"}}, {"bidder": "amazon", "params": {"amazonId": "3433", "width": "300", "height": "250", "size": "3x2"}}]
+            });
+            adUnits.push({
+                code: 'cb_m_300x250_EB_inline_2',
+                sizes: [[300, 250]],
+                bids: [{"bidder": "indexExchange", "params": {"id": "30", "siteID": 192283, "timeout": "300"}}, {"bidder": "openx", "params": {"delDomain": "gatewaymedia-d.openx.net", "unit": "538604083"}}, {"bidder": "appnexus", "params": {"placementId": "7097735"}}, {"bidder": "sovrn", "params": {"tagid": "338362"}}, {"bidder": "amazon", "params": {"amazonId": "3433", "width": "300", "height": "250", "size": "3x2"}}, {"bidder": "rubicon", "params": {"accountId": "12292", "siteId": "63240", "zoneId": "550376"}}]
+            });
+            adUnits.push({
+                code: 'cb_m_320x50_EB_top',
+                sizes: [[320, 50]],
+                bids: [{"bidder": "aol", "params": {"placement": "4260616", "network": "9961.1", "alias": "AOL_CB_M_320x50"}}, {"bidder": "sovrn", "params": {"tagid": "382415"}}, {"bidder": "appnexus", "params": {"placementId": "9478122"}}, {"bidder": "openx", "params": {"delDomain": "gatewaymedia-d.openx.net", "unit": "538604086"}}, {"bidder": "amazon", "params": {"amazonId": "3433", "width": "320", "height": "50", "size": "3x5"}}, {"bidder": "indexExchange", "params": {"id": "29", "siteID": 192282, "timeout": "300"}}]
+            });
+            window.pbjs.addAdUnits(adUnits);
+
+
+            window.pbjs.requestBids({
+                timeout: PREBID_TIMEOUT,
+                bidsBackHandler: function(bidResponses) {
+                    initAdserver(false);
+
+                    window.pbjs.prebid_responses = window.pbjs.getBidResponses();
+                    window.pbjs.prebid_winners = window.pbjs.getAdserverTargeting();
+
+                }
+            });
+
+
+        });
+    })();
+</script>
+<script type="text/javascript">
+    (function() {
+        // Globals
+        window.googletag = window.googletag || {};
+        window.googletag.cmd = window.googletag.cmd || [];
+        window.dfp_slots = window.dfp_slots || {};
+
+
+        // Configuration
+        window.googletag.cmd.push(function() {
+            window.dfp_slots["cb_m_300x250_EB_inline_1"] = window.googletag.defineSlot(
+                atob('LzExODc3MjgxNi9jYl9tXzMwMHgyNTBfRUJfaW5saW5lXzE='),
+                [[300, 250]],
+                "cb_m_300x250_EB_inline_1"
+            );
+
+
+            window.dfp_slots["cb_m_300x250_EB_inline_1"].setCollapseEmptyDiv(true);
+
+            window.dfp_slots["cb_m_300x250_EB_inline_1"].addService(window.googletag.pubads());
+            window.dfp_slots["cb_m_300x250_EB_inline_2"] = window.googletag.defineSlot(
+                atob('LzExODc3MjgxNi9jYl9tXzMwMHgyNTBfRUJfaW5saW5lXzI='),
+                [[300, 250]],
+                "cb_m_300x250_EB_inline_2"
+            );
+
+
+            window.dfp_slots["cb_m_300x250_EB_inline_2"].setCollapseEmptyDiv(true);
+
+            window.dfp_slots["cb_m_300x250_EB_inline_2"].addService(window.googletag.pubads());
+            window.dfp_slots["cb_m_320x50_EB_top"] = window.googletag.defineSlot(
+                atob('LzExODc3MjgxNi9jYl9tXzMyMHg1MF9FQl90b3A='),
+                [[320, 50]],
+                "cb_m_320x50_EB_top"
+            );
+
+
+            window.dfp_slots["cb_m_320x50_EB_top"].setCollapseEmptyDiv(true);
+
+            window.dfp_slots["cb_m_320x50_EB_top"].addService(window.googletag.pubads());
+
+            window.googletag.pubads().setTargeting("utm_term", "null");
+            window.googletag.pubads().setTargeting("url_host", "www.cinemablend.com");
+            window.googletag.pubads().setTargeting("campaign", "null");
+            window.googletag.pubads().setTargeting("lmi", "200");
+            window.googletag.pubads().setTargeting("article", "null");
+            window.googletag.pubads().setTargeting("subject", "index");
+
+            window.googletag.pubads().enableSingleRequest();
+            window.googletag.pubads().addEventListener('slotRenderEnded', function(ad) {
+                // resize div container if ad slot is set to never collapse
+                if (ad.size !== null && ad.size[1] > 1) {
+                    var div = document.getElementById(ad.slot.getSlotElementId());
+                    if (div.dataset.ad_slot_collapse === 'false') {
+                        div.style.height = ad.size[1] + "px";
+                    }
+                }
+                var track_data = {
+                    'dfp_filled': !ad.isEmpty,
+                    'dfp_aid': ad.advertiserId,
+                    'dfp_cid': ad.campaignId,
+                    'div_id': ad.slot.getSlotElementId()
+                };
+                var event_log = new window.PubSub.EventLogger('ads', track_data);
+                event_log.log('fulfillment');
+
+            });
+            window.googletag.enableServices();
+        });
+    })();
+</script>
+<script type="text/javascript">
+    // Google Analytics
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    window.ga('create', 'UA-1237708-1', 'auto');
+</script>
+<script type="text/javascript">
+    window._sf_startpt = (new Date()).getTime();
+</script>
+<script type="text/javascript" src="/static/js/cinemablend/cinemablend-1.0.5.js" defer></script>
+<script>(window.jigsaw = window.jigsaw || {}).spot_params = {"lid": 215525, "utm_term": "", "full": "http://www.cinemablend.com/", "pub_id": "", "ip": "107.196.102.133", "sst": "2018-01-15 10:36:26", "utm_content": "", "site": "CB", "page": "index", "source": "", "s": "b29a4.23", "adgroup": "", "referer": "http://www.ign.com/blogs/battlestriker123/2013/09/25/should-kids-be-playing-m-rated-games/", "srt": 18.665075302124023, "rc": 200, "lmi": 200, "gak": "", "medium": "", "content_id": 0, "ua": "Mozilla", "rid": "202d4795-2388-47f4-a8c2-5e22dd3e49ec"};</script></head>
+<body>
+<div class="slot" data-slot="bodytop" id="slot_bodytop">
+<div class="partial ads_slots_dfp ad" data-id="p6436835" data-uuid="fa290065-eb10-4b83-9788-fc8ad00c1841" data-layout_partial_id="6436835">
+<div id="cb_m_320x50_EB_top" data-collapse="true"></div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("fa290065-eb10-4b83-9788-fc8ad00c1841");</script>
+<div class="partial content_story_meta_title " data-id="p6436705" data-uuid="d144c868-5f56-4d0f-bda5-09ec0e3962b6" data-layout_partial_id="6436705">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("d144c868-5f56-4d0f-bda5-09ec0e3962b6");</script>
+<div class="partial utility_title " data-id="p6436665" data-uuid="d708d9b0-9d6e-4306-9465-4859e04d2797" data-layout_partial_id="6436665">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("d708d9b0-9d6e-4306-9465-4859e04d2797");</script>
+<div class="partial headlink " data-id="p6436845" data-uuid="ee869394-86e2-465b-bc20-ad3cee11a583" data-layout_partial_id="6436845">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("ee869394-86e2-465b-bc20-ad3cee11a583");</script>
+<div class="partial ads_prebid " data-id="p6436775" data-uuid="6f1791f0-3397-4b80-a3b5-2dcf6f76f44f" data-layout_partial_id="6436775">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("6f1791f0-3397-4b80-a3b5-2dcf6f76f44f");</script>
+</div><div class="ad-wrap">
+<div id="ad">
+<center>
+<div class="slot" data-slot="drawer" id="slot_drawer">
+</div></center>
+</div>
+</div>
+<header class="header">
+<div class="inner">
+<a href="/" title="CINEMABLEND" class="logo"></a>
+<div class="toggle-buttons">
+<a href="" class="button search" id="search"><i class="fa fa-search"></i></a>
+<a href="" class="button menu-toggle" id="main-menu"><i class="fa fa-bars"></i></a>
+</div>
+</div>
+<ul class="slideDown main-menu" id="main-menu-slide">
+<li><a href="/news.php">News</a></li>
+<li><a href="/trailers/">Trailers</a></li>
+<li><a href="/reviews/">Reviews</a></li>
+<li><a href="/previews/">Upcoming</a></li>
+<li><a href="/superheroes/">Heroes</a></li>
+<li><a href="/pop/">Pop</a></li>
+<li><a href="/games/">Games</a></li>
+<li><a href="/television/">TV</a></li>
+</ul>
+<div class="slideDown search" id="search-slide">
+<form action="/search.html" id="cse-search-box" class="clearfix" target="_top">
+<input type="text" name="q" />
+<input type="submit" value="Search" />
+</form>
+</div>
+</header>
+<div class="general">
+<div class="inner">
+<div class="white-container">
+<div class="slot" data-slot="main" id="slot_main">
+<div class="partial content_story_cb_related " data-id="p6436655" data-uuid="a1328e0a-5cd6-4038-bd70-394d096674a0" data-layout_partial_id="6436655">
+<div class="new">
+<a href="        /news/2261839/when-guardians-of-the-galaxy-vol-3-is-going-to-hit-theaters
+" title="When Guardians Of The Galaxy Vol. 3 Is Going To Hit Theaters" class="story_item  item0" data-id="2261839" data-number="0">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/7/2/a/3/5/0/72a3500bc55962ef3482bc602734e18c901899ae.jpg?w=255&h=165" height="165" width="255" />
+</div>
+<div class="content">
+<div class="title"><h2>When Guardians Of The Galaxy Vol. 3 Is Going To Hit Theaters</h2></div>
+</div>
+</a>
+</div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("a1328e0a-5cd6-4038-bd70-394d096674a0");</script>
+<div class="partial content_story_cb_related " data-id="p6436675" data-uuid="1f579008-7c07-4afe-8ac7-5f7e4abbdc18" data-layout_partial_id="6436675">
+<div class="new second">
+<a href="        /news/2281970/jumani-box-office-welcome-to-the-jungle-is-king-again-the-post-grabs-number-two
+" title="Jumani Box Office: Welcome To The Jungle Is King Again, The Post Grabs Number Two" class="story_item  item0" data-id="2281970" data-number="0">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/a/3/8/e/6/0/a38e60567df3e0516a47963f4ea875b42a324606.jpg?w=255&h=165" height="165" width="255" />
+</div>
+<div class="content">
+<div class="title"><h2>Jumani Box Office: Welcome To The Jungle Is King Again, The Post Grabs Number Two</h2></div>
+</div>
+</a>
+</div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("1f579008-7c07-4afe-8ac7-5f7e4abbdc18");</script>
+<div class="partial ads_slots_dfp ad" data-id="p6436815" data-uuid="5dfe93e1-1fb9-4f03-ae26-637b66028321" data-layout_partial_id="6436815">
+<div id="cb_m_300x250_EB_inline_1" data-collapse="true"></div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("5dfe93e1-1fb9-4f03-ae26-637b66028321");</script>
+<div class="partial content_story_cb_related articles" data-id="p6436685" data-uuid="2a41d689-5d5c-4bf6-83d6-af4ea5cf0a7c" data-layout_partial_id="6436685">
+<div class="hgroup">
+<h2>
+<span>Latest Movie News Headlines</span>
+</h2>
+</div>
+<div class="">
+<a href="        /news/2261819/this-rotten-week-predicting-12-strong-den-of-thieves-and-forever-my-girl-reviews
+" title="This Rotten Week: Predicting 12 Strong, Den Of Thieves And Forever My Girl Reviews" class="story_item  item0" data-id="2261819" data-number="0">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/b/4/6/4/a/6/b464a6817f72ce78bdc416bc58ecac5e564dd9a6.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>This Rotten Week: Predicting 12 Strong, Den Of Thieves And Forever My Girl Reviews</h2></div>
+</div>
+</a>
+<a href="        /news/2276570/anthony-mackie-and-chris-evans-talk-that-crazy-avengers-infinity-war-scene-with-40-heroes
+" title="Anthony Mackie And Chris Evans Talk That Crazy Avengers: Infinity War Scene With 40 Heroes" class="story_item  item1" data-id="2276570" data-number="1">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/f/d/7/1/9/d/fd719de01746499d67745d7ba090209d9a38b103.png?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Anthony Mackie And Chris Evans Talk That Crazy Avengers: Infinity War Scene With 40 Heroes</h2></div>
+</div>
+</a>
+<a href="        /news/2269370/sebastian-stan-has-talked-to-hugh-jackman-about-joining-the-mcu
+" title="Sebastian Stan Has Talked To Hugh Jackman About Joining The MCU" class="story_item  item2" data-id="2269370" data-number="2">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/8/a/9/c/a/6/8a9ca613f727f8540cad6b83611a128adeea6671.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Sebastian Stan Has Talked To Hugh Jackman About Joining The MCU</h2></div>
+</div>
+</a>
+<a href="        /news/2261090/star-wars-oscar-isaac-cant-stop-wont-stop-with-the-idea-of-a-poe-and-finn-romance
+" title="Star Wars' Oscar Isaac Can't Stop, Won’t Stop With The Idea Of A Poe And Finn Romance" class="story_item  item3" data-id="2261090" data-number="3">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/3/d/b/2/a/b/3db2ab4f1bf902ff14467efe26b8650bb40caaf0.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Star Wars' Oscar Isaac Can't Stop, Won’t Stop With The Idea Of A Poe And Finn Romance</h2></div>
+</div>
+</a>
+<a href="        /news/2261809/eliza-dushku-says-she-was-molested-by-a-stunt-coordinator-while-filming-true-lies
+" title="Eliza Dushku Says She Was Molested By A Stunt Coordinator While Filming True Lies" class="story_item  item4" data-id="2261809" data-number="4">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/0/1/a/3/4/3/01a34321c3ac853d3b384db104b66fdd41936652.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Eliza Dushku Says She Was Molested By A Stunt Coordinator While Filming True Lies</h2></div>
+</div>
+</a>
+<a href="        /news/2162700/the-new-halloween-has-added-a-ton-of-new-stars
+" title="The New Halloween Has Added A Ton Of New Stars" class="story_item  item5" data-id="2162700" data-number="5">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/1/4/0/8/8/a/14088a638d87f1bc2311e5320c648fc3befda997.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>The New Halloween Has Added A Ton Of New Stars</h2></div>
+</div>
+</a>
+<a href="        /news/2162710/mark-wahlberg-donates-15-million-from-all-the-money-in-the-world-reshoots
+" title="Mark Wahlberg Donates $1.5 Million From All The Money In The World Reshoots" class="story_item  item6" data-id="2162710" data-number="6">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/d/7/e/0/e/9/d7e0e99e312c449600d38bdeb536930bc49504e0.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Mark Wahlberg Donates $1.5 Million From All The Money In The World Reshoots</h2></div>
+</div>
+</a>
+<a href="        /news/2162669/is-expendables-4-happening-after-all
+" title="Is Expendables 4 Happening After All?" class="story_item  item7" data-id="2162669" data-number="7">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/b/0/a/1/3/6/b0a1368baf6fabc9734787b6784d03f2cf617d02.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Is Expendables 4 Happening After All?</h2></div>
+</div>
+</a>
+</div>
+<div class="see_more">
+<a href="/news.php">
+More Movie News Headlines
+</a>
+</div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("2a41d689-5d5c-4bf6-83d6-af4ea5cf0a7c");</script>
+<div class="partial content_story_cb_related articles" data-id="p6436765" data-uuid="1570699e-0a20-49a9-b722-f5a79a563e65" data-layout_partial_id="6436765">
+<div class="hgroup">
+<h2>
+<span>Latest TV Headlines</span>
+</h2>
+</div>
+<div class="">
+<a href="        /television/2281960/one-izombie-actor-isnt-returning-for-season-5
+" title="One iZombie Actor Isn't Returning For Season 5" class="story_item  item0" data-id="2281960" data-number="0">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/a/f/e/d/4/0/afed40145d2c5e9f295c08ee8a80169946be8fa9.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>One iZombie Actor Isn't Returning For Season 5</h2></div>
+</div>
+</a>
+<a href="        /television/2277849/new-walking-dead-image-shows-the-aftermath-of-that-cliffhanger
+" title="New Walking Dead Image Shows The Aftermath Of That Cliffhanger" class="story_item  item1" data-id="2277849" data-number="1">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/b/3/b/f/2/f/b3bf2fd26c0c63809ac50ffe26d59dc85a04d5d7.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>New Walking Dead Image Shows The Aftermath Of That Cliffhanger</h2></div>
+</div>
+</a>
+<a href="        /television/2261829/watch-bill-murrays-surprise-appearance-on-snl-as-steve-bannon
+" title="Watch Bill Murray's Surprise Appearance On SNL As Steve Bannon" class="story_item  item2" data-id="2261829" data-number="2">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/b/0/b/8/2/4/b0b824fa981d340be39f1993e56705ff6865d04d.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Watch Bill Murray's Surprise Appearance On SNL As Steve Bannon</h2></div>
+</div>
+</a>
+<a href="        /television/2267859/katie-couric-finally-addressed-the-matt-lauer-allegations
+" title="Katie Couric Finally Addressed The Matt Lauer Allegations" class="story_item  item3" data-id="2267859" data-number="3">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/3/b/3/4/7/c/3b347c3fbbbef2f7a71ac17b7add312abf02c686.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Katie Couric Finally Addressed The Matt Lauer Allegations</h2></div>
+</div>
+ </a>
+</div>
+<div class="see_more">
+<a href="/television/">
+More TV Headlines
+</a>
+</div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("1570699e-0a20-49a9-b722-f5a79a563e65");</script>
+<div class="partial content_story_cb_related articles" data-id="p6436755" data-uuid="dcecf697-f394-4aac-a318-529ee1c2d7be" data-layout_partial_id="6436755">
+<div class="hgroup">
+<h2>
+<span>Features</span>
+</h2>
+</div>
+<div class="">
+<a href="        /television/2097589/agents-of-shield-just-brought-back-a-character-who-could-change-everything
+" title="Agents Of S.H.I.E.L.D. Just Brought Back A Character Who Could Change Everything" class="story_item  item0" data-id="2097589" data-number="0">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/9/f/d/e/e/a/9fdeea51f9d44ad9d0222c44f2ff1abd250b4244.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Agents Of S.H.I.E.L.D. Just Brought Back A Character Who Could Change Everything</h2></div>
+</div>
+</a>
+<a href="        /pop/2025221/the-21-most-hilarious-bill-murray-encounters
+" title="The 21 Most Hilarious Bill Murray Encounters" class="story_item  item1" data-id="2025221" data-number="1">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/7/b/5/5/9/d/7b559d1d4e97dfbeaa774a4f88e1281ef36db3d8.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>The 21 Most Hilarious Bill Murray Encounters</h2></div>
+</div>
+</a>
+<a href="        /news/2063169/4-great-hugh-grant-performances-you-probably-missed-recently
+" title="4 Great Hugh Grant Performances You Probably Missed Recently" class="story_item  item2" data-id="2063169" data-number="2">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/f/7/b/d/9/0/f7bd9030261b6463f3cc2b8e81a72653ec1a7c98.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>4 Great Hugh Grant Performances You Probably Missed Recently</h2></div>
+</div>
+</a>
+<a href="        /news/2060020/9-big-things-we-want-to-see-from-the-x-men-franchise-in-2018
+" title="9 Big Things We Want To See From The X-Men Franchise In 2018" class="story_item  item3" data-id="2060020" data-number="3">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/1/c/5/f/a/b/1c5fab4e8ca1faac3d57c602bbcb30065f0d285d.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>9 Big Things We Want To See From The X-Men Franchise In 2018</h2></div>
+</div>
+</a>
+</div>
+<div class="see_more">
+<a href="/news/features/">
+More Features
+</a>
+</div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("dcecf697-f394-4aac-a318-529ee1c2d7be");</script>
+<div class="partial content_story_cb_related articles" data-id="p6436745" data-uuid="2c84e168-aa17-4e77-9f53-bae37855c014" data-layout_partial_id="6436745">
+<div class="hgroup">
+<h2>
+<span>Movie Reviews</span>
+</h2>
+</div>
+<div class="">
+<a href="        /reviews/2086080/proud-mary-review
+" title="Proud Mary Review" class="story_item  item0" data-id="2086080" data-number="0">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/2/2/8/4/5/b/22845b5b08993ef79f4b5f5ea1ca7617f7d6f8d4.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Proud Mary Review</h2></div>
+<div class="star_rating">
+<img src="/static/images/stars/4.png" width="87" height="14" />
+</div>
+</div>
+</a>
+<a href="        /reviews/1869209/the-commuter-review
+" title="The Commuter Review" class="story_item  item1" data-id="1869209" data-number="1">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/e/6/5/1/e/6/e651e6dbaed03d6e9f6c50755fb3627f022d49e3.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>The Commuter Review</h2></div>
+<div class="star_rating">
+<img src="/static/images/stars/7.png" width="87" height="14" />
+</div>
+</div>
+</a>
+<a href="        /reviews/1829779/paddington-2-review
+" title="Paddington 2 Review" class="story_item  item2" data-id="1829779" data-number="2">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/c/8/f/4/9/9/c8f499b3acd74a85933e9b59a4e00d61175ca50a.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Paddington 2 Review</h2></div>
+<div class="star_rating">
+<img src="/static/images/stars/10.png" width="87" height="14" />
+</div>
+</div>
+</a>
+<a href="        /reviews/1753669/insidious-the-last-key-review
+" title="Insidious: The Last Key Review" class="story_item  item3" data-id="1753669" data-number="3">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/3/9/d/c/5/3/39dc53baa3c8bb1d5ce9d5142a87f21434d06be6.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Insidious: The Last Key Review</h2></div>
+<div class="star_rating">
+<img src="/static/images/stars/5.png" width="87" height="14" />
+</div>
+</div>
+</a>
+</div>
+<div class="see_more">
+<a href="/reviews/">
+More Movie Reviews
+</a>
+</div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("2c84e168-aa17-4e77-9f53-bae37855c014");</script>
+<div class="partial content_story_cb_related articles" data-id="p6436735" data-uuid="125c3167-41a1-4b81-a2e7-e91d9793aa29" data-layout_partial_id="6436735">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("125c3167-41a1-4b81-a2e7-e91d9793aa29");</script>
+<div class="partial content_story_cb_related articles" data-id="p6436695" data-uuid="31934b33-4d27-44bd-922a-ef263404a384" data-layout_partial_id="6436695">
+<div class="hgroup">
+<h2>
+<span>Exclusives</span>
+</h2>
+</div>
+<div class="">
+<a href="        /television/2162429/why-rainn-wilson-loved-playing-his-role-on-star-trek-discovery
+" title="Why Rainn Wilson Loved Playing His Role On Star Trek: Discovery" class="story_item  item0" data-id="2162429" data-number="0">
+<div class="image">
+<img src="https://img.cinemablend.com/quill/2/1/c/7/c/b/21c7cb040cf0eef46cc65162b20d28d2613c4d7a.jpg" />
+</div>
+<div class="content">
+<div class="title"><h2>Why Rainn Wilson Loved Playing His Role On Star Trek: Discovery</h2></div>
+</div>
+</a>
+<a href="        /news/2092080/how-the-last-jedis-rose-changed-when-kelly-marie-tran-was-cast
+" title="How The Last Jedi's Rose Changed When Kelly Marie Tran Was Cast" class="story_item  item1" data-id="2092080" data-number="1">
+<div class="image">
+<img src="https://img.cinemablend.com/quill/3/b/f/b/a/d/3bfbad60c4f5d4e0e645e4e1a8ad9a74a24bf457.jpg" />
+</div>
+<div class="content">
+<div class="title"><h2>How The Last Jedi's Rose Changed When Kelly Marie Tran Was Cast</h2></div>
+</div>
+</a>
+</div>
+<div class="see_more">
+<a href="/exclusives/">
+More Exclusives
+</a>
+</div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("31934b33-4d27-44bd-922a-ef263404a384");</script>
+<div class="partial content_story_cb_related articles" data-id="p6436725" data-uuid="09394c99-d249-4be0-9950-f1a82ff21e41" data-layout_partial_id="6436725">
+<div class="hgroup">
+<h2>
+<span>Latest Gaming Headlines</span>
+</h2>
+</div>
+<div class="">
+<a href="        /games/2277819/dragon-ball-fighterzs-beta-is-here
+" title="Dragon Ball FighterZ's Beta Is Here" class="story_item  item0" data-id="2277819" data-number="0">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/a/7/7/e/2/d/a77e2d7f62480b7723a093ee4832c2b81a3ff244.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>Dragon Ball FighterZ's Beta Is Here</h2></div>
+</div>
+</a>
+<a href="        /games/2268090/how-your-old-gameboy-cartridges-could-live-on
+" title="How Your Old Gameboy Cartridges Could Live On" class="story_item  item1" data-id="2268090" data-number="1">
+<div class="image">
+<img src="https://img.cinemablend.com/filter:centercrop/quill/3/3/f/2/e/a/33f2eab1e8320f5abf1ba9bf8e0db01f4ae73faa.jpg?w=85&h=55" height="55" width="85" />
+</div>
+<div class="content">
+<div class="title"><h2>How Your Old Gameboy Cartridges Could Live On</h2></div>
+</div>
+</a>
+</div>
+<div class="see_more">
+<a href="/games/">
+More Gaming Headlines
+</a>
+</div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("09394c99-d249-4be0-9950-f1a82ff21e41");</script>
+<div class="partial ads_slots_dfp ad" data-id="p6436825" data-uuid="9d08239b-9547-4628-a4f1-2a2d73239660" data-layout_partial_id="6436825">
+<div id="cb_m_300x250_EB_inline_2" data-collapse="true"></div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("9d08239b-9547-4628-a4f1-2a2d73239660");</script>
+<div class="partial content_story_cb_related articles images" data-id="p6436715" data-uuid="ef10383a-8a7b-48e7-bb6d-9f906e486987" data-layout_partial_id="6436715">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("ef10383a-8a7b-48e7-bb6d-9f906e486987");</script>
+</div></div>
+</div>
+</div>
+<div class="followUs">
+<div class="inner">
+<div class="slot" data-slot="followus" id="slot_followus">
+<div class="partial social_counts " data-id="p6436865" data-uuid="200a8bd5-6d45-40f3-b41c-de645152f678" data-layout_partial_id="6436865">
+<div class="hgroup">
+<h2>
+<span>Follow Us</span>
+</h2>
+</div>
+<div class="">
+<ul>
+<li class="gplus_circled_by">
+<a href="https://plus.google.com/+CinemaBlend" title="Follow us on Google+" rel="nofollow"><span class="sprite"></span><span class="count">474K</span></a>
+</li>
+<li class="facebook_likes_facebook_page">
+<a href="https://www.facebook.com/cinemablend.com" title="Like us on Facebook" rel="nofollow"><span class="sprite"></span><span class="count">2.5M</span></a>
+</li>
+<li class="twitter_followers">
+<a href="https://twitter.com/cinemablend" title="Follow us on Twitter" rel="nofollow"><span class="sprite"></span><span class="count">51K</span></a>
+</li>
+</ul>
+</div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("200a8bd5-6d45-40f3-b41c-de645152f678");</script>
+</div><a href="#" class="back-to-top">Back to top</a>
+</div>
+</div>
+
+<footer class="footer">
+<div class="inner">
+<div class="logo">
+<a href="/" title="CinemaBlend"></a>
+</div>
+<div class="menu article-menu">
+<ul>
+<li><a href="/news/1585840/new-movie-releases-2017-movie-release-date-schedule">2017 New Movie Releases</a></li>
+<li><a href="/television/1564860/2017-netflix-premiere-schedule-dates-for-new-and-returning-shows">2017 Netflix Premiere Schedule</a></li>
+<li><a href="/television/1685939/2017-fall-tv-premiere-schedule-dates-for-new-and-returning-shows">2017 Fall TV Premiere Schedule</a></li>
+<li><a href="/3d">3D Movie Reviews</a></li>
+</ul>
+</div>
+<div class="menu">
+<ul>
+<li><a href="/news.php">News</a></li>
+<li><a href="/trailers/">Trailers</a></li>
+<li><a href="/reviews/">Reviews</a></li>
+<li><a href="/previews/">Upcoming</a></li>
+<li><a href="/superheroes/">Heroes</a></li>
+<li><a href="/pop/">Pop</a></li>
+<li><a href="/games/">Games</a></li>
+<li><a href="/television/">TV</a></li>
+</ul>
+</div>
+<div class="menu">
+<ul>
+<li><a href="/about.html">About Us</a></li>
+<li><a href="/faq.html">FAQ</a></li>
+<li><a href="/privacy.html">Privacy Policy</a></li>
+<li><a href="/jobs.html">Jobs</a></li>
+<li><a href="/contact.html">Contact</a></li>
+<li class="rss"><a href="/rss-index.html">RSS</a></li>
+<li class="facebook"><a href="//www.facebook.com/cinemablendcom">Facebook</a></li>
+<li class="twitter"><a href="//www.twitter.com/cinemablend">Twitter</a></li>
+<li class="youtube"><a href="//www.youtube.com/cinemablendhd">YouTube</a></li>
+</ul>
+</div>
+</div>
+</footer>
+<div class="plugins_tracker_quantcast" data-uuid="4381a768-87e8-43bb-9d24-ad6359e4da9d">
+
+<script>
+ var ezt = ezt ||[];
+ (function(){
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-A9b8GRq-NyEYK";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem,scpt);
+ }());
+ ezt.push({"label": "cinemablend.com", "uid": "", "qacct": "p-A9b8GRq-NyEYK"});
+</script>
+<noscript>
+  <img src="//pixel.quantserve.com/pixel/p-A9b8GRq-NyEYK.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("4381a768-87e8-43bb-9d24-ad6359e4da9d");</script>
+<div class="plugins_tracker_facebook" data-uuid="1920101e-873d-4660-9dea-90ead9b12e31">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("1920101e-873d-4660-9dea-90ead9b12e31");</script>
+<div class="plugins_tracker_googleanalytics" data-uuid="f4564ac2-4d46-4ce7-9ac3-1ebec379047b">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("f4564ac2-4d46-4ce7-9ac3-1ebec379047b");</script>
+<div class="plugins_tracker_chartbeat" data-uuid="cf24c1a7-b515-4a01-b66c-e8867626b51e">
+<script type='text/javascript'>
+    (function() {
+        window._sf_async_config = {"domain": "cinemablend.com", "uid": 24468};
+        (function() {
+            function loadChartbeat() {
+                window._sf_endpt = (new Date()).getTime();
+                var e = document.createElement('script');
+                e.setAttribute('language', 'javascript');
+                e.setAttribute('type', 'text/javascript');
+                e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+                document.body.appendChild(e);
+            }
+            var oldonload = window.onload;
+            window.onload = (typeof window.onload != 'function') ?
+                loadChartbeat : function() {
+                    oldonload();
+                    loadChartbeat();
+                };
+        })();
+    })();
+</script>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("cf24c1a7-b515-4a01-b66c-e8867626b51e");</script>
+<div class="plugins_rdf" data-uuid="9480fc27-840b-4de5-b6ad-0548c88a8d28">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("9480fc27-840b-4de5-b6ad-0548c88a8d28");</script>
+<div class="plugins_tracker_postup" data-uuid="004ce6d1-7f83-4e34-8132-a9f336383efa">
+
+<script type="text/javascript">
+    /*<![CDATA[*/ window.lightboxjs || function (c) { function g(b, d) { d && (d += (/\?/.test(d) ? "&" : "?") + "lv=1"); c[b] || function () { var i = window, h = document, j = b, g = h.location.protocol, l = "load", k = 0; (function () { function b() { a.P(l); a.w = 1; c[j]("_load") } c[j] = function () { function m() { m.id = e; return c[j].apply(m, arguments) } var b, e = ++k; b = this && this != i ? this.id || 0 : 0; (a.s = a.s || []).push([e, b, arguments]); m.then = function (b, c, h) { var d = a.fh[e] = a.fh[e] || [], j = a.eh[e] = a.eh[e] || [], f = a.ph[e] = a.ph[e] || []; b && d.push(b); c && j.push(c); h && f.push(h); return m }; return m }; var a = c[j]._ = {}; a.fh = {}; a.eh = {}; a.ph = {}; a.l = d ? d.replace(/^\/\//, (g == "https:" ? g : "http:") + "//") : d; a.p = { 0: +new Date }; a.P = function (b) { a.p[b] = new Date - a.p[0] }; a.w && b(); i.addEventListener ? i.addEventListener(l, b, !1) : i.attachEvent("on" + l, b); var q = function () { function b() { return ["<head></head><", c, ' onload="var d=', n, ";d.getElementsByTagName('head')[0].", d, "(d.", g, "('script')).", i, "='", a.l, "'\"></", c, ">"].join("") } var c = "body", e = h[c]; if (!e) return setTimeout(q, 100); a.P(1); var d = "appendChild", g = "createElement",
+    i = "src", k = h[g]("div"), l = k[d](h[g]("div")), f = h[g]("iframe"), n = "document", p; k.style.display = "none"; e.insertBefore(k, e.firstChild).id = o + "-" + j; f.frameBorder = "0"; f.id = o + "-frame-" + j; /MSIE[ ]+6/.test(navigator.userAgent) && (f[i] = "javascript:false"); f.allowTransparency = "true"; l[d](f); try { f.contentWindow[n].open() } catch (s) { a.domain = h.domain, p = "javascript:var d=" + n + ".open();d.domain='" + h.domain + "';", f[i] = p + "void(0);" } try { var r = f.contentWindow[n]; r.write(b()); r.close() } catch (t) { f[i] = p + 'd.write("' + b().replace(/"/g, String.fromCharCode(92) + '"') + '");d.close();' } a.P(2) }; a.l && q() })() }(); c[b].lv = "1"; return c[b] } var o = "lightboxjs", k = window[o] = g(o); k.require = g; k.modules = c }({}); /*]]>*/</script><script type="text/javascript">window.lightboxlib = lightboxjs.require("lightboxlib", "//www.lightboxcdn.com/vendor/e5a43c3b-7352-41f5-9ab8-dd0631b1441d/lightbox.js?mb=" + (new Date().getTime()));</script>
+
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("004ce6d1-7f83-4e34-8132-a9f336383efa");</script>
+<div class="plugins_metalmi" data-uuid="cfb721df-01b2-4b27-a9b4-4ef5a778bd42">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("cfb721df-01b2-4b27-a9b4-4ef5a778bd42");</script>
+<div class="plugins_corpfooter" data-uuid="0845e406-d37b-43d9-94e6-6a260f7c1f75">
+<div class="corpfooter"><a href="https://www.gatewayblend.com/"><span>Gateway Blend</span> &copy;copyright 2018</a></div>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("0845e406-d37b-43d9-94e6-6a260f7c1f75");</script>
+<div class="plugins_metatags" data-uuid="f8012df9-1f37-42cf-ab68-ccf18b13425a">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("f8012df9-1f37-42cf-ab68-ccf18b13425a");</script>
+<div class="plugins_opengraph" data-uuid="bd6ad3e4-ac90-4343-bc9d-a336e42e3604">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("bd6ad3e4-ac90-4343-bc9d-a336e42e3604");</script>
+<div class="plugins_twittercard" data-uuid="45d5181b-fb71-4415-a391-fba6e8a0cdd0">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("45d5181b-fb71-4415-a391-fba6e8a0cdd0");</script>
+<div class="plugins_tracker_ysa" data-uuid="e8c456bf-a63f-4989-b758-bb608f535039">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("e8c456bf-a63f-4989-b758-bb608f535039");</script>
+<div class="plugins_tracker_comscore" data-uuid="57a2be4e-e7fe-4616-94ca-97d0bff548b7">
+<script>
+        (function() {
+            var _comscore_ids = [{"c2": "21229662", "c1": "2"}, {"c2": "21229662", "c1": "2"}];
+            window._comscore = window._comscore || [];
+            for (var i = 0; i < _comscore_ids.length; i++) {
+                window._comscore.push(_comscore_ids[i]);
+            }
+
+            (function() {
+                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                el.parentNode.insertBefore(s, el);
+            })();
+        })();
+    </script>
+<noscript>
+<img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=21229662&amp;cv=2.0&amp;cj=1"/>
+<img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=21229662&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("57a2be4e-e7fe-4616-94ca-97d0bff548b7");</script>
+<div class="plugins_tracker_dfp" data-uuid="afc47e93-cfb4-458c-adeb-1baa6aeab219">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("afc47e93-cfb4-458c-adeb-1baa6aeab219");</script>
+<div class="plugins_tracker_spotlight" data-uuid="d00a0a2f-4849-4047-9ea8-fd47935fda7b">
+<script src="https://t.ambra.com/js/spotlight.1.0.8.min.js" async></script>
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("d00a0a2f-4849-4047-9ea8-fd47935fda7b");</script>
+<div class="plugins_tracker_taboola" data-uuid="9101050c-13ac-4638-b86f-fd67ad56a6cd">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("9101050c-13ac-4638-b86f-fd67ad56a6cd");</script>
+<div class="plugins_embedswap" data-uuid="5e4596cb-1e1d-4c48-9aac-68039d2fef2d">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("5e4596cb-1e1d-4c48-9aac-68039d2fef2d");</script>
+<div class="plugins_displaypreview" data-uuid="6fce887b-6bf1-4d40-8bf3-d03ebde5d3c2">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("6fce887b-6bf1-4d40-8bf3-d03ebde5d3c2");</script>
+<div class="plugins_jsparams" data-uuid="5ca7a5c4-96ef-4206-86e1-747a210d545a">
+</div>
+<script>(window._jsqueue=window._jsqueue||[]).push("5ca7a5c4-96ef-4206-86e1-747a210d545a");</script>
+<script>
+        (window.jigsaw = window.jigsaw || {}).jsparams_data = "eyI1Y2E3YTVjNC05NmVmLTQyMDYtODZlMS03NDdhMjEwZDU0NWEiOiB7ImFtcF9lbmFibGVkIjogZmFsc2V9LCAiZmEyOTAwNjUtZWIxMC00YjgzLTk3ODgtZmM4YWQwMGMxODQxIjogeyJsaWQiOiAyMTU1MjUsICJwYXJlbnRfbG9hZGVyIjogIiIsICJwcmViaWRfdGltZW91dCI6IDEwMDAsICJhbXBfZW5hYmxlZCI6IGZhbHNlLCAiZGl2X2lkIjogImNiX21fMzIweDUwX0VCX3RvcCIsICJwYXJlbnRfcHJlYmlkX2NvbmZpZyI6ICI2ZjE3OTFmMC0zMzk3LTRiODAtYTNiNS0yZGNmNmY3NmY0NGYiLCAidXNlX3ByZWJpZCI6IHRydWUsICJhZF90YWdfbmFtZSI6ICJjYl9tXzMyMHg1MF9FQl90b3AiLCAiaXNfZmlyc3RfaW5zdGFuY2UiOiBmYWxzZSwgInBhcmVudF9yZWZyZXNoZXIiOiAiIiwgInByZWJpZF9wZ19rZXkiOiAicGJEZyIsICJhZF91bml0IjogIi8xMTg3NzI4MTYvY2JfbV8zMjB4NTBfRUJfdG9wIn0sICJlZjEwMzgzYS04YTdiLTQ4ZTctYmI2ZC05ZjkwNmU0ODY5ODciOiB7ImFtcF9lbmFibGVkIjogZmFsc2V9LCAiMjAwYThiZDUtNmQ0NS00MGYzLWI0MWMtZGU2NDUxNTJmNjc4IjogeyJhbXBfZW5hYmxlZCI6IGZhbHNlfSwgIjJjODRlMTY4LWFhMTctNGU3Ny05ZjUzLWJhZTM3ODU1YzAxNCI6IHsiYW1wX2VuYWJsZWQiOiBmYWxzZSwgInBhcnRpYWxfaWQiOiAiMmM4NGUxNjgtYWExNy00ZTc3LTlmNTMtYmFlMzc4NTVjMDE0In0sICI0NWQ1MTgxYi1mYjcxLTQ0MTUtYTM5MS1mYmE2ZThhMGNkZDAiOiB7ImFtcF9lbmFibGVkIjogZmFsc2V9LCAiNDM4MWE3NjgtODdlOC00M2JiLTlkMjQtYWQ2MzU5ZTRkYTlkIjogeyJhbXBfZW5hYmxlZCI6IGZhbHNlfSwgImQxNDRjODY4LTVmNTYtNGQwZi1iZGE1LTA5ZWMwZTM5NjJiNiI6IHsiYW1wX2VuYWJsZWQiOiBmYWxzZX0sICIzMTkzNGIzMy00ZDI3LTQ0YmQtOTIyYS1lZjI2MzQwNGEzODQiOiB7ImFtcF9lbmFibGVkIjogZmFsc2UsICJwYXJ0aWFsX2lkIjogIjMxOTM0YjMzLTRkMjctNDRiZC05MjJhLWVmMjYzNDA0YTM4NCJ9LCAiMDIyZjc4MmMtNzk2Yy00YjM4LWEyODgtODFkZjU2MGMzYmY4IjogeyJhY3Rpb24iOiAidG9nZ2xlIiwgInRleHQiOiAiPGk+PC9pPiIsICJhbXBfZW5hYmxlZCI6IGZhbHNlLCAiYWN0aXZhdGlvbl9jb3VudCI6IDAsICJyZW1vdmVfb25fZGlzYWJsZSI6IGZhbHNlfSwgIjk0ODBmYzI3LTg0MGItNGRlNS1iNmFkLTA1NDhjODhhOGQyOCI6IHsiYW1wX2VuYWJsZWQiOiBmYWxzZX0sICJfX2FsbF9fIjogeyI1Y2E3YTVjNC05NmVmLTQyMDYtODZlMS03NDdhMjEwZDU0NWEiOiAicGx1Z2luc19qc3BhcmFtcyIsICJmYTI5MDA2NS1lYjEwLTRiODMtOTc4OC1mYzhhZDAwYzE4NDEiOiAiYWRzX3Nsb3RzX2RmcCIsICJlZjEwMzgzYS04YTdiLTQ4ZTctYmI2ZC05ZjkwNmU0ODY5ODciOiAiY29udGVudF9zdG9yeV9jYl9yZWxhdGVkIiwgIjIwMGE4YmQ1LTZkNDUtNDBmMy1iNDFjLWRlNjQ1MTUyZjY3OCI6ICJzb2NpYWxfY291bnRzIiwgIjJjODRlMTY4LWFhMTctNGU3Ny05ZjUzLWJhZTM3ODU1YzAxNCI6ICJjb250ZW50X3N0b3J5X2NiX3JlbGF0ZWQiLCAiNDVkNTE4MWItZmI3MS00NDE1LWEzOTEtZmJhNmU4YTBjZGQwIjogInBsdWdpbnNfdHdpdHRlcmNhcmQiLCAiZDAwYTBhMmYtNDg0OS00MDQ3LTllYTgtZmQ0NzkzNWZkYTdiIjogInBsdWdpbnNfdHJhY2tlcl9zcG90bGlnaHQiLCAiZDE0NGM4NjgtNWY1Ni00ZDBmLWJkYTUtMDllYzBlMzk2MmI2IjogImNvbnRlbnRfc3RvcnlfbWV0YV90aXRsZSIsICIzMTkzNGIzMy00ZDI3LTQ0YmQtOTIyYS1lZjI2MzQwNGEzODQiOiAiY29udGVudF9zdG9yeV9jYl9yZWxhdGVkIiwgIjAyMmY3ODJjLTc5NmMtNGIzOC1hMjg4LTgxZGY1NjBjM2JmOCI6ICJ1dGlsaXR5X3BvcHVwX2J1dHRvbiIsICI5NDgwZmMyNy04NDBiLTRkZTUtYjZhZC0wNTQ4Yzg4YThkMjgiOiAicGx1Z2luc19yZGYiLCAiMDkzOTRjOTktZDI0OS00YmUwLTk5NTAtZjFhODJmZjIxZTQxIjogImNvbnRlbnRfc3RvcnlfY2JfcmVsYXRlZCIsICIxOTIwMTAxZS04NzNkLTQ2NjAtOWRlYS05MGVhZDliMTJlMzEiOiAicGx1Z2luc190cmFja2VyX2ZhY2Vib29rIiwgIjJhNDFkNjg5LTVkNWMtNGJmNi04M2Q2LWFmNGVhNWNmMGE3YyI6ICJjb250ZW50X3N0b3J5X2NiX3JlbGF0ZWQiLCAiYmQ2YWQzZTQtYWM5MC00MzQzLWJjOWQtYTMzNmU0MmUzNjA0IjogInBsdWdpbnNfb3BlbmdyYXBoIiwgIjA4NDVlNDA2LWQzN2ItNDNkOS05NGU2LTZhMjYwZjdjMWY3NSI6ICJwbHVnaW5zX2NvcnBmb290ZXIiLCAiMTU3MDY5OWUtMGEyMC00OWE5LWI3MjItZjVhNzlhNTYzZTY1IjogImNvbnRlbnRfc3RvcnlfY2JfcmVsYXRlZCIsICI1NjNkOWU5NC02OTFjLTQ1MTMtYjY0MC05ZGRkNmZmYWMxN2YiOiAidXRpbGl0eV9wb3B1cF9kaWFsb2ciLCAiZDcwOGQ5YjAtOWQ2ZS00MzA2LTk0NjUtNDg1OWUwNGQyNzk3IjogInV0aWxpdHlfdGl0bGUiLCAiMWY1NzkwMDgtN2MwNy00YWZlLThhYzctNWY3ZTRhYmJkYzE4IjogImNvbnRlbnRfc3RvcnlfY2JfcmVsYXRlZCIsICI2ZjE3OTFmMC0zMzk3LTRiODAtYTNiNS0yZGNmNmY3NmY0NGYiOiAiYWRzX3ByZWJpZCIsICJjZmI3MjFkZi0wMWIyLTRiMjctYTliNC00ZWY1YTc3OGJkNDIiOiAicGx1Z2luc19tZXRhbG1pIiwgImNmMjRjMWE3LWI1MTUtNGEwMS1iNjZjLWU4ODY3NjI2YjUxZSI6ICJwbHVnaW5zX3RyYWNrZXJfY2hhcnRiZWF0IiwgIjlkMDgyMzliLTk1NDctNDYyOC1hNGYxLTJhMmQ3MzIzOTY2MCI6ICJhZHNfc2xvdHNfZGZwIiwgIjQ4YjhhYzNiLTgxZGUtNGFjMC1hNjRlLWVkNTdmODE1YzhiMyI6ICJ1dGlsaXR5X3BvcHVwX2RpYWxvZyIsICI1ZGZlOTNlMS0xZmI5LTRmMDMtYWUyNi02MzdiNjYwMjgzMjEiOiAiYWRzX3Nsb3RzX2RmcCIsICIxMjVjMzE2Ny00MWExLTRiODEtYTJlNy1lOTFkOTc5M2FhMjkiOiAiY29udGVudF9zdG9yeV9jYl9yZWxhdGVkIiwgImFmYzQ3ZTkzLWNmYjQtNDU4Yy1hZGViLTFiYWE2YWVhYjIxOSI6ICJwbHVnaW5zX3RyYWNrZXJfZGZwIiwgIjgxYzhhODg0LTIwZWEtNDBlNS1iODJjLWRlZDQzMmM2MWI2NiI6ICJ1dGlsaXR5X3BvcHVwX2J1dHRvbiIsICI5MTAxMDUwYy0xM2FjLTQ2MzgtYjg2Zi1mZDY3YWQ1NmE2Y2QiOiAicGx1Z2luc190cmFja2VyX3RhYm9vbGEiLCAiNDM4MWE3NjgtODdlOC00M2JiLTlkMjQtYWQ2MzU5ZTRkYTlkIjogInBsdWdpbnNfdHJhY2tlcl9xdWFudGNhc3QiLCAiYTEzMjhlMGEtNWNkNi00MDM4LWJkNzAtMzk0ZDA5NjY3NGEwIjogImNvbnRlbnRfc3RvcnlfY2JfcmVsYXRlZCIsICJlZTg2OTM5NC04NmUyLTQ2NWItYmMyMC1hZDNjZWUxMWE1ODMiOiAiaGVhZGxpbmsiLCAiNTdhMmJlNGUtZTdmZS00NjE2LTk0Y2EtOTdkMGJmZjU0OGI3IjogInBsdWdpbnNfdHJhY2tlcl9jb21zY29yZSIsICJlOGM0NTZiZi1hNjNmLTQ5ODktYjc1OC1iYjYwOGY1MzUwMzkiOiAicGx1Z2luc190cmFja2VyX3lzYSIsICI1ZTQ1OTZjYi0xZTFkLTRjNDgtOWFhYy02ODAzOWQyZmVmMmQiOiAicGx1Z2luc19lbWJlZHN3YXAiLCAiZjQ1NjRhYzItNGQ0Ni00Y2U3LTlhYzMtMWViZWMzNzkwNDdiIjogInBsdWdpbnNfdHJhY2tlcl9nb29nbGVhbmFseXRpY3MiLCAiMDA0Y2U2ZDEtN2Y4My00ZTM0LTgxMzItYTlmMzM2MzgzZWZhIjogInBsdWdpbnNfdHJhY2tlcl9wb3N0dXAiLCAiNmZjZTg4N2ItNmJmMS00ZDQwLThiZjMtZDAzZWJkZTVkM2MyIjogInBsdWdpbnNfZGlzcGxheXByZXZpZXciLCAiZjgwMTJkZjktMWYzNy00MmNmLWFiNjgtY2NmMThiMTM0MjVhIjogInBsdWdpbnNfbWV0YXRhZ3MiLCAiZGNlY2Y2OTctZjM5NC00YWFjLWEzMTgtNTI5ZWUxYzJkN2JlIjogImNvbnRlbnRfc3RvcnlfY2JfcmVsYXRlZCJ9LCAiMDkzOTRjOTktZDI0OS00YmUwLTk5NTAtZjFhODJmZjIxZTQxIjogeyJhbXBfZW5hYmxlZCI6IGZhbHNlLCAicGFydGlhbF9pZCI6ICIwOTM5NGM5OS1kMjQ5LTRiZTAtOTk1MC1mMWE4MmZmMjFlNDEifSwgIjE5MjAxMDFlLTg3M2QtNDY2MC05ZGVhLTkwZWFkOWIxMmUzMSI6IHsidHJhY2tfYWRibG9jayI6IHRydWUsICJ1c2VyX21heGFnZSI6IDI2MzUyMDAsICJ0cmFja19wYWdlX2xvYWQiOiB0cnVlLCAicGl4ZWxfaWQiOiAiMzc1Mjc3MDMyODkyNzQ4IiwgInNpdGVfY29kZSI6ICJDQiIsICJ0cmFja19jb250ZW50X3ZpZXdzIjogZmFsc2UsICJhbXBfZW5hYmxlZCI6IGZhbHNlLCAidHJhY2tfcGFnZV9hZHZhbmNlIjogdHJ1ZSwgImNvbnRlbnRfaWQiOiBudWxsLCAidHJhY2tfY29udGVudF9wYWdlX3ZpZXdzIjogZmFsc2UsICJhZGRpdGlvbmFsX3BpeGVsX2lkcyI6IFsiNjU5NjM2MTI0MjIwNzUzIl19LCAiMmE0MWQ2ODktNWQ1Yy00YmY2LTgzZDYtYWY0ZWE1Y2YwYTdjIjogeyJhbXBfZW5hYmxlZCI6IGZhbHNlLCAicGFydGlhbF9pZCI6ICIyYTQxZDY4OS01ZDVjLTRiZjYtODNkNi1hZjRlYTVjZjBhN2MifSwgImJkNmFkM2U0LWFjOTAtNDM0My1iYzlkLWEzMzZlNDJlMzYwNCI6IHsiYW1wX2VuYWJsZWQiOiBmYWxzZX0sICIwODQ1ZTQwNi1kMzdiLTQzZDktOTRlNi02YTI2MGY3YzFmNzUiOiB7ImFtcF9lbmFibGVkIjogZmFsc2V9LCAiMTU3MDY5OWUtMGEyMC00OWE5LWI3MjItZjVhNzlhNTYzZTY1IjogeyJhbXBfZW5hYmxlZCI6IGZhbHNlLCAicGFydGlhbF9pZCI6ICIxNTcwNjk5ZS0wYTIwLTQ5YTktYjcyMi1mNWE3OWE1NjNlNjUifSwgIjU2M2Q5ZTk0LTY5MWMtNDUxMy1iNjQwLTlkZGQ2ZmZhYzE3ZiI6IHsiYW5pbWF0aW9uX3NwZWVkX21zIjogMCwgInRhcmdldCI6ICIjbWFpbi1tZW51LXNsaWRlIiwgInNob3dfY2xvc2VfYnV0dG9uIjogZmFsc2UsICJhbXBfZW5hYmxlZCI6IGZhbHNlLCAiaGlkZV90YXJnZXQiOiBmYWxzZSwgImNsb3NlX29uX21vdXNlb3V0IjogNTAwLCAiY3NzX2lkIjogIjU2M2Q5ZTk0LTY5MWMtNDUxMy1iNjQwLTlkZGQ2ZmZhYzE3ZiIsICJhbmltYXRpb24iOiAiZmFkZSIsICJwYXJlbnRfYnV0dG9uIjogIjgxYzhhODg0LTIwZWEtNDBlNS1iODJjLWRlZDQzMmM2MWI2NiIsICJhbmltYXRpb25fc3BlZWQiOiAiZmFzdCJ9LCAiZDcwOGQ5YjAtOWQ2ZS00MzA2LTk0NjUtNDg1OWUwNGQyNzk3IjogeyJhbXBfZW5hYmxlZCI6IGZhbHNlfSwgIjFmNTc5MDA4LTdjMDctNGFmZS04YWM3LTVmN2U0YWJiZGMxOCI6IHsiYW1wX2VuYWJsZWQiOiBmYWxzZSwgInBhcnRpYWxfaWQiOiAiMWY1NzkwMDgtN2MwNy00YWZlLThhYzctNWY3ZTRhYmJkYzE4In0sICI2ZjE3OTFmMC0zMzk3LTRiODAtYTNiNS0yZGNmNmY3NmY0NGYiOiB7ImFtcF9lbmFibGVkIjogZmFsc2UsICJwYXJ0aWFsX3V1aWQiOiAiNmYxNzkxZjAtMzM5Ny00YjgwLWEzYjUtMmRjZjZmNzZmNDRmIiwgImxvYWRfb25fY3VycmVudF9wYWdlIjogdHJ1ZSwgInBhcmVudF9sb2FkZXIiOiAiIn0sICJjZmI3MjFkZi0wMWIyLTRiMjctYTliNC00ZWY1YTc3OGJkNDIiOiB7ImFtcF9lbmFibGVkIjogZmFsc2V9LCAiY2YyNGMxYTctYjUxNS00YTAxLWI2NmMtZTg4Njc2MjZiNTFlIjogeyJhbXBfZW5hYmxlZCI6IGZhbHNlfSwgIjlkMDgyMzliLTk1NDctNDYyOC1hNGYxLTJhMmQ3MzIzOTY2MCI6IHsibGlkIjogMjE1NTI1LCAicGFyZW50X2xvYWRlciI6ICIiLCAicHJlYmlkX3RpbWVvdXQiOiAxMDAwLCAiYW1wX2VuYWJsZWQiOiBmYWxzZSwgImRpdl9pZCI6ICJjYl9tXzMwMHgyNTBfRUJfaW5saW5lXzIiLCAicGFyZW50X3ByZWJpZF9jb25maWciOiAiNmYxNzkxZjAtMzM5Ny00YjgwLWEzYjUtMmRjZjZmNzZmNDRmIiwgInVzZV9wcmViaWQiOiB0cnVlLCAiYWRfdGFnX25hbWUiOiAiY2JfbV8zMDB4MjUwX0VCX2lubGluZV8yIiwgImlzX2ZpcnN0X2luc3RhbmNlIjogZmFsc2UsICJwYXJlbnRfcmVmcmVzaGVyIjogIiIsICJwcmViaWRfcGdfa2V5IjogInBiRGciLCAiYWRfdW5pdCI6ICIvMTE4NzcyODE2L2NiX21fMzAweDI1MF9FQl9pbmxpbmVfMiJ9LCAiNDhiOGFjM2ItODFkZS00YWMwLWE2NGUtZWQ1N2Y4MTVjOGIzIjogeyJhbmltYXRpb25fc3BlZWRfbXMiOiA1MDAsICJ0YXJnZXQiOiAiI3NlYXJjaC1zbGlkZSIsICJzaG93X2Nsb3NlX2J1dHRvbiI6IGZhbHNlLCAiYW1wX2VuYWJsZWQiOiBmYWxzZSwgImhpZGVfdGFyZ2V0IjogZmFsc2UsICJjbG9zZV9vbl9tb3VzZW91dCI6IDAsICJjc3NfaWQiOiAiNDhiOGFjM2ItODFkZS00YWMwLWE2NGUtZWQ1N2Y4MTVjOGIzIiwgImFuaW1hdGlvbiI6ICJmYWRlIiwgInBhcmVudF9idXR0b24iOiAiMDIyZjc4MmMtNzk2Yy00YjM4LWEyODgtODFkZjU2MGMzYmY4IiwgImFuaW1hdGlvbl9zcGVlZCI6ICJmYXN0In0sICI1ZGZlOTNlMS0xZmI5LTRmMDMtYWUyNi02MzdiNjYwMjgzMjEiOiB7ImxpZCI6IDIxNTUyNSwgInBhcmVudF9sb2FkZXIiOiAiIiwgInByZWJpZF90aW1lb3V0IjogMTAwMCwgImFtcF9lbmFibGVkIjogZmFsc2UsICJkaXZfaWQiOiAiY2JfbV8zMDB4MjUwX0VCX2lubGluZV8xIiwgInBhcmVudF9wcmViaWRfY29uZmlnIjogIjZmMTc5MWYwLTMzOTctNGI4MC1hM2I1LTJkY2Y2Zjc2ZjQ0ZiIsICJ1c2VfcHJlYmlkIjogdHJ1ZSwgImFkX3RhZ19uYW1lIjogImNiX21fMzAweDI1MF9FQl9pbmxpbmVfMSIsICJpc19maXJzdF9pbnN0YW5jZSI6IHRydWUsICJwYXJlbnRfcmVmcmVzaGVyIjogIiIsICJwcmViaWRfcGdfa2V5IjogInBiRGciLCAiYWRfdW5pdCI6ICIvMTE4NzcyODE2L2NiX21fMzAweDI1MF9FQl9pbmxpbmVfMSJ9LCAiMTI1YzMxNjctNDFhMS00YjgxLWEyZTctZTkxZDk3OTNhYTI5IjogeyJhbXBfZW5hYmxlZCI6IGZhbHNlfSwgImFmYzQ3ZTkzLWNmYjQtNDU4Yy1hZGViLTFiYWE2YWVhYjIxOSI6IHsiYW1wX2VuYWJsZWQiOiBmYWxzZSwgInBhZ2VfZGVwdGhfaW5kaWNhdG9yX2tleSI6ICJwYWdlIiwgInBhZ2VfZGVwdGhfaW5kaWNhdG9yX3ByZWZpeCI6ICJuIn0sICI4MWM4YTg4NC0yMGVhLTQwZTUtYjgyYy1kZWQ0MzJjNjFiNjYiOiB7ImFjdGlvbiI6ICJ0b2dnbGUiLCAidGV4dCI6ICI8aT48L2k+IiwgImFtcF9lbmFibGVkIjogZmFsc2UsICJhY3RpdmF0aW9uX2NvdW50IjogMCwgInJlbW92ZV9vbl9kaXNhYmxlIjogZmFsc2V9LCAiOTEwMTA1MGMtMTNhYy00NjM4LWI4NmYtZmQ2N2FkNTZhNmNkIjogeyJhbXBfZW5hYmxlZCI6IGZhbHNlfSwgImQwMGEwYTJmLTQ4NDktNDA0Ny05ZWE4LWZkNDc5MzVmZGE3YiI6IHsiYW1wX2VuYWJsZWQiOiBmYWxzZSwgInBhZ2VfcGFyYW1ldGVycyI6IHsiY29udGVudF9pZCI6IG51bGx9fSwgImExMzI4ZTBhLTVjZDYtNDAzOC1iZDcwLTM5NGQwOTY2NzRhMCI6IHsiYW1wX2VuYWJsZWQiOiBmYWxzZSwgInBhcnRpYWxfaWQiOiAiYTEzMjhlMGEtNWNkNi00MDM4LWJkNzAtMzk0ZDA5NjY3NGEwIn0sICJlZTg2OTM5NC04NmUyLTQ2NWItYmMyMC1hZDNjZWUxMWE1ODMiOiB7ImFtcF9lbmFibGVkIjogZmFsc2V9LCAiNTdhMmJlNGUtZTdmZS00NjE2LTk0Y2EtOTdkMGJmZjU0OGI3IjogeyJhbXBfZW5hYmxlZCI6IGZhbHNlfSwgImU4YzQ1NmJmLWE2M2YtNDk4OS1iNzU4LWJiNjA4ZjUzNTAzOSI6IHsiYW1wX2VuYWJsZWQiOiBmYWxzZX0sICI1ZTQ1OTZjYi0xZTFkLTRjNDgtOWFhYy02ODAzOWQyZmVmMmQiOiB7ImFtcF9lbmFibGVkIjogZmFsc2V9LCAiZjQ1NjRhYzItNGQ0Ni00Y2U3LTlhYzMtMWViZWMzNzkwNDdiIjogeyJhbmFseXRpY3NfbnVtYmVyIjogIlVBLTEyMzc3MDgtMSIsICJ2ZXJzaW9uIjogImFuYWx5dGljcyIsICJnYV9wYWdlX3ZpZXdzIjogdHJ1ZSwgImlzX29yZ2FuaWMiOiBmYWxzZSwgImNvbnRlbnRfaWQiOiAwLCAiYW1wX2VuYWJsZWQiOiBmYWxzZSwgIm5vdF9jb250ZW50X3ZpZXciOiB0cnVlfSwgIjAwNGNlNmQxLTdmODMtNGUzNC04MTMyLWE5ZjMzNjM4M2VmYSI6IHsiYW1wX2VuYWJsZWQiOiBmYWxzZX0sICI2ZmNlODg3Yi02YmYxLTRkNDAtOGJmMy1kMDNlYmRlNWQzYzIiOiB7ImFtcF9lbmFibGVkIjogZmFsc2V9LCAiZjgwMTJkZjktMWYzNy00MmNmLWFiNjgtY2NmMThiMTM0MjVhIjogeyJhbXBfZW5hYmxlZCI6IGZhbHNlfSwgImRjZWNmNjk3LWYzOTQtNGFhYy1hMzE4LTUyOWVlMWMyZDdiZSI6IHsiYW1wX2VuYWJsZWQiOiBmYWxzZSwgInBhcnRpYWxfaWQiOiAiZGNlY2Y2OTctZjM5NC00YWFjLWEzMTgtNTI5ZWUxYzJkN2JlIn19";
+    </script>
+<script type="text/javascript" src="/assets?v=Qe7qoDf8YzBN2U1JYeltNUpn8zvuPSLOvRfSdqz1Jo0wLORcI4BrizTr7c34gH_1Qu2LX9umuxr6-GxtlM1Bav_vXH3VB_Qr2qifY4eECoWlqLfX_5oTM03d90ULcvFBlCQIV8V2ZqAJZcjvuTjfDLBRkV8t4Ew_w6LflufrmHegM18u-eo6ZPdaO82iOViRfkE26h6Hal8gDo9InHdcjkhla_MK_6EstW1WclXA0V9xNWpFxQjAapxJpbyOKxDvLMgb4Wn-3CgaKIg_QqBvtSpPj3xlw8Ar5FYWt4_5shwAIoHX9BLZ0teYbJraexNRNOLZblOHm3WkAX5GhdBidADQXI3vdKCm7zAFQuRD-EutD6A-ujhA7w_Aj266gfpDWKyBWu-j9t_4YAA5PrD35v6GpSrlAwTlZIR_NCWTVfyxb0XQdrGjaDIOgQ-8XxMm0pDfjfJrLFyUodsloz4Xnezr07dAJ-dnWVK6uaIinRuSZVwHiPFsV55y57P8Kf4IIPUMw8x3qIKrwnbYgPay_4SPzcYXrQBrf5P78sxXlDu0Bo57fw6tFja5CoKKfYqYCA8sG3AnzldanI-HCs7etA&amp;t=js&amp;u=2086bdc5b13bcc2502d1230f80ae2037855b2ecd"></script>
+<script type="text/javascript">
+        var cb_script_checker = setInterval(function() {
+            if (typeof window._cb_script !== 'undefined') {
+                clearInterval(cb_script_checker);
+                window._cb_script.mobile();
+            }
+        }, 100);
+    </script>
+</body>
+</html>

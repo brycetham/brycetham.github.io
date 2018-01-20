@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Crawl-delay: 5 # specifies a 5 second timeout
+
+User-agent: Baiduspider
+Crawl-delay: 5 # specifies a 5 second timeout
+
+User-agent: AhrefsBot
+Disallow: / 

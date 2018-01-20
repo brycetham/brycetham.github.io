@@ -1,0 +1,5 @@
+User-agent: *
+disallow: /wp-admin/
+disallow: /wp-content/
+disallow: /wp-includes/
+disallow: /xmlrpc.php

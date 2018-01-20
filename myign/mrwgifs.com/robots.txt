@@ -1,0 +1,14 @@
+#Begin Attracta SEO Tools Sitemap. Do not remove
+sitemap: http://cdn.attracta.com/sitemap/2980928.xml.gz
+#End Attracta SEO Tools Sitemap. Do not remove
+
+
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /feed/
+Disallow: */feed/
+

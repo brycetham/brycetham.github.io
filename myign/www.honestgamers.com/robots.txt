@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://www.honestgamers.com/sitemap1.php
+Sitemap: http://www.honestgamers.com/sitemap2.php
+Sitemap: http://www.honestgamers.com/sitemap3.php
+Sitemap: http://www.honestgamers.com/sitemap4.php
+Sitemap: http://www.honestgamers.com/sitemap5.php
