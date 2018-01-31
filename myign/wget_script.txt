@@ -1,0 +1,1 @@
+wget --random-wait -E -H -k -K -p -c -U 'Mozilla' $(<links.txt)
