@@ -1,8 +1,14 @@
 $(document).ready(function() {
+    $('#back-to-top').hide();
     appear();
     /* Every time the window is scrolled ... */
     $(window).scroll(function(){
         appear();
+        if ($(this).scrollTop() <= 0) {
+            $('#back-to-top').hide(100);
+        } else {
+            $('#back-to-top').show(100);
+        }
     });
     $(window).resize(function(){
         appear();

@@ -1,6 +1,7 @@
 body {
-    font-family: Georgia, Times, 'Times New Roman', serif;
-    font-weight: 300;
+    font-family: 'Lato-Regular', sans-serif;
+    font-weight: 100;
+    font-size: 16;
     background-color: #f2f1eb;
     color: #333333;
 }
@@ -11,7 +12,7 @@ a:hover {
     color: #ffd200;
 }
 h2 {
-    font-weight: bold;
+    font-weight: 900;
     padding: 10px;
 }
 h3 small {
@@ -130,3 +131,17 @@ ul {
     text-align: left;
     vertical-align: middle;
 }*/
+
+#back-to-top {
+    background: none;
+    margin: 0;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 25px;
+    height: 30px;
+    z-index: 100;
+    display: none;
+    text-decoration: none;
+    font-size: 20px;
+}
