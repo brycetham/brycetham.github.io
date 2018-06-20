@@ -1,0 +1,108 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    background-image: url("../img/background.png");
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    min-height: 750px;
+    padding: 20px;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    min-height: 650px;
+    padding: 20px;
+}
+
+.footer {
+    display: flex;
+    text-align: center;
+    min-height: 20vh;
+}
+
+p {
+    margin-top: 20px;
+    line-height: 35px;
+    font-size: 16px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 72px;
+}
+
+h2 {
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+    font-weight: 600;
+}
+
+strong {
+    font-weight: 600;
+}
+
+img {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: white;
+}
+
+a.fa-stack {
+    color: black;
+}
+
+.header p {
+    font-size: 18px;
+}
+
+.logo {
+    padding: 15px;
+    border: 10px solid black;
+    background-color: white;
+}
+
+.btn {
+    background-color: white;
+}
+
+.btn-twitter:hover {
+    color: #1da1f2;
+}
+
+.btn-ign:hover {
+    color: #bf1313;
+}
+
+
+.btn-linkedin:hover {
+    color: #0077b5;
+}
+
+.btn-github:hover {
+    color: #c9510c;
+}
+
+.btn-wordpress:hover {
+    color: #21759b;
+}
+
+.fa-stack {
+    transition: all .2s ease-in-out;
+    margin: 5px;
+}
+
+.fa-stack:hover {
+    transform: scale(1.1);
+}
+
+@media (max-width: 600px)  {
+    .container {
+        text-align: center;
+        margin: auto;
+    }
+}

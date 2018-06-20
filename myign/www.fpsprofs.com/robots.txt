@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: http://www.fpsprofs.com/sitemap.xml
+Sitemap: https://www.fpsprofs.com/sitemap.xml

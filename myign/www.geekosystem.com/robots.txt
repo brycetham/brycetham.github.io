@@ -3,5 +3,5 @@ Disallow:
 
 Crawl-delay: 120
 
-Sitemap: http://www.themarysue.com/sitemap.xml.gz
-Sitemap: http://www.themarysue.com/sitemap-news.xml
+Sitemap: https://www.themarysue.com/sitemapindex.xml
+

@@ -1,4 +1,6 @@
 	
+        
+
 <!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
 		<head>
@@ -11,13 +13,13 @@
 
 									<script src="https://use.typekit.net/zom3wve.js"></script>
 				<script>try{Typekit.load({ async: true });}catch(e){}</script>
-				<script type="text/javascript" src="../js/boomerang-1.0.14.min.js"></script>
-				<script type="text/javascript">
-					BOOMR.init({
-					beacon_url: "https://api.sqexeu.com/metrics/performance",
-					log: false
-					});
-				</script>
+                                <script type="text/javascript" src="../js/boomerang-1.0.14.min.js"></script>
+                                <script type="text/javascript">
+                                        BOOMR.init({
+                                        beacon_url: "https://api.sqexeu.com/metrics/performance",
+                                        log: "false"
+                                        });
+                                </script>
 				<script type="text/javascript" src="https://unpkg.com/q@1.5.0"></script>
 				<script>window.Promise = window.Promise || Q.Promise</script>
 				<script src="https://unpkg.com/@square-enix-west/membership-js-api"></script>
@@ -30,7 +32,7 @@
 
 									<link type="text/css" rel="stylesheet" media="all" href="/css/noconnection.css" />
 				<link type="text/css" rel="stylesheet" media="all" href="/css/footer.css" />
-				<link rel="stylesheet" href="https://api.sqexeu.com/sem/headerbar/css/header.css">
+                                <link rel="stylesheet" href="https://api.sqexeu.com/sem/headerbar/css/header.css">
 				
 	<link type="text/css" rel="stylesheet" media="all" href="css/960.css" />
 	<link type="text/css" rel="stylesheet" media="all" href="css/reset.css" />
@@ -68,7 +70,7 @@
 					Enjoy the all-time RPG classic<br>on your PC, now with a host of<br>new online features
 				</div>
 				<div class="scroll-element button">
-											<a title="Download Now" href="http://weblet.eu.square-enix.com/geojmp.php?d=FFVIIPCD&l=1" target="_blank">Download Now</a>
+											<a title="Download Now" href="https://weblet.eu.square-enix.com/geojmp.php?d=FFVIIPCD&l=1" target="_blank">Download Now</a>
 									</div>
 			</div>
 		</div>
@@ -553,7 +555,7 @@
 						<a class="group1" href="images/media_cloud_big.jpg"></a>
 					</li>
 					<li style="background: url(images/video_thumb.jpg) center center no-repeat;"><span class="overlay video"></span>
-						<a class="youtube" href="http://www.youtube.com/embed/WlL7thT8LcU?rel=0&wmode=transparent&autoplay=1"></a>
+						<a class="youtube" href="https://www.youtube.com/embed/WlL7thT8LcU?rel=0&wmode=transparent&autoplay=1"></a>
 					</li>
 					<li style="background: url(images/media_redxiii_small.jpg) center center no-repeat;"><span class="overlay"></span>
 						<a class="group1" href="images/media_redxiii_big.jpg"></a>
@@ -675,7 +677,7 @@
 				<div class="scroll-element logo"></div>
 				<div class="scroll-element buynow">
 					<span class="big">
-													<a class="white" title="Download Now" href="http://weblet.eu.square-enix.com/geojmp.php?d=FFVIIPCD&l=1" target="_blank">Download Now
+													<a class="white" title="Download Now" href="https://weblet.eu.square-enix.com/geojmp.php?d=FFVIIPCD&l=1" target="_blank">Download Now
 						</a>
 											</span>
 					<br/>
@@ -794,13 +796,13 @@
 					<!--End Google Analytics-->
 
 								<script type='text/javascript'>
-					var elysCountry = "10.146.4.3";
+					var elysCountry = "10.100.5.0";
 					var elysHeaderLocale = "en_GB";
 					var elysClientID = "ff7pc";
 					var elysHeaderbarColor = "black";
-					var elysHeaderbarConnect = "membership";
+                                        var elysHeaderbarConnect = "membership";
 				</script>
-				<script type="text/javascript" src="https://api.sqexeu.com/sem/headerbar/js/header.js"></script>
+                                <script type="text/javascript" src="/js/header.js"></script>
 
 		</body>
 </html>

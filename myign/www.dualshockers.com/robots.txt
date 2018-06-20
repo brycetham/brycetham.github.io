@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.dualshockers.com/sitemap_index.xml
+Sitemap: https://www.dualshockers.com/sitemap.xml
+Sitemap: https://www.dualshockers.com/news-sitemap.xml

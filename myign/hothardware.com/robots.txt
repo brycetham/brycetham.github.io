@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: http://hothardware.com/sitemap.ashx
+Sitemap: https://hothardware.com/sitemap.ashx
 Disallow: /account/signout
 Disallow: /1003244/
 Disallow: /cdn-cgi/

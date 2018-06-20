@@ -36,3 +36,9 @@ Disallow: /
 
 User-Agent: Vegi bot
 Disallow: /
+
+User-Agent: demandbase-bot
+Disallow: /
+
+User-Agent: trendkite-akashic-crawler
+Disallow: /

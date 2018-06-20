@@ -1,6 +1,12 @@
 User-agent: magpie-crawler
 Disallow: /
 
+User-agent: Bingbot
+Disallow: /feed/
+
+User-agent: MSNBot
+Disallow: /feed/
+
+Sitemap: https://www.digitaltrends.com/sitemap_index.xml
 Sitemap: https://www.digitaltrends.com/news.sitemap.google.xml
 Sitemap: https://www.digitaltrends.com/image-sitemap-index.xml
-Sitemap: https://www.digitaltrends.com/sitemap.xml

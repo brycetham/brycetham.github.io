@@ -1,44 +1,57 @@
-Sitemap: http://www.nydailynews.com/data/sitemap/sitemap.xml
-Sitemap: http://www.nydailynews.com/data/sitemap/newssitemap0.xml
+Sitemap: http://www.nydailynews.com/arcio/sitemap/?query=canonical_website:new-york-daily-news
+Sitemap: http://www.nydailynews.com/arcio/news-sitemap/?query=canonical_website:new-york-daily-news
+
 # Googlebot
 User-agent: Googlebot
+Disallow: /directory
 Disallow: /search-results
 Disallow: /topics/Gurumurthy+Kalyanaram
 Disallow: /topics/New+York+Institute+of+Technology
 Disallow: /topics/Brian+Ellis
 Disallow: /autos/*/details/
+Disallow: /dealers/*
+Disallow: /events/
+Disallow: /new-york/events/
 # MSN bot
 User-agent: Bingbot
+Disallow: /directory
 Disallow: /search-results
 Disallow: /topics/Gurumurthy+Kalyanaram
 Disallow: /topics/New+York+Institute+of+Technology
 Disallow: /topics/Brian+Ellis
 Disallow: /autos/*/details/
+Disallow: /dealers/*
+Disallow: /events/
+Disallow: /new-york/events/
 # MSNbot media
 User-agent: msnbot-media/1.1
+Disallow: /directory
 Disallow: /search-results
 Disallow: /topics/Gurumurthy+Kalyanaram
 Disallow: /topics/New+York+Institute+of+Technology
 Disallow: /topics/Brian+Ellis
 Disallow: /topics/Marcus+Laun
 Disallow: /autos/*/details/
+Disallow: /dealers/*
+Disallow: /events/
+Disallow: /new-york/events/
 # Yahoo bot
 User-agent: Slurp
+Disallow: /directory
 Disallow: /search-results
 Disallow: /topics/Gurumurthy+Kalyanaram
 Disallow: /topics/New+York+Institute+of+Technology
 Disallow: /topics/Brian+Ellis
 Disallow: /autos/*/details/
+Disallow: /dealers/*
+Disallow: /events/
+Disallow: /new-york/events/
 # Alexa IA Archiver bot
 User-agent: ia_archiver
 Disallow:
 # MJ12bot
 User-agent: MJ12bot
 Disallow:
-# all the others bots will be disallowed
-User-agent: *
-Disallow: /
-Disallow: /search-result
 
 User-agent: Googlebot-News
 Disallow: /services
@@ -50,7 +63,14 @@ Disallow: /
 User-agent: MSNBOT_Mobile
 Disallow: /
 
+User-agent: grapeshot
+Disallow: /archives
+
+User-agent: rogerbot
+Disallow: /archives
+
 User-agent: Twitterbot
+Disallow: /directory
 Disallow: /search-results
 Disallow: /topics/Gurumurthy+Kalyanaram
 Disallow: /topics/New+York+Institute+of+Technology
@@ -61,8 +81,24 @@ Disallow: /events/
 Disallow: /new-york/events/
 
 User-agent: *
+Disallow: /directory
 Disallow: /search-results
 Disallow: /topics/Gurumurthy+Kalyanaram
 Disallow: /topics/New+York+Institute+of+Technology
 Disallow: /topics/Brian+Ellis
 Disallow: /autos/*/details/
+Disallow: /dealers/*
+Disallow: /events/
+Disallow: /new-york/events/
+
+# Proximic bot
+User-agent: proximic
+Disallow: /directory
+Disallow: /search-results
+Disallow: /topics/Gurumurthy+Kalyanaram
+Disallow: /topics/New+York+Institute+of+Technology
+Disallow: /topics/Brian+Ellis
+Disallow: /autos/*/details/
+Disallow: /dealers/*
+Disallow: /events/
+Disallow: /new-york/events/

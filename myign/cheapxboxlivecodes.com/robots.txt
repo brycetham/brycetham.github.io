@@ -1,5 +1,11 @@
 User-agent: *
 Disallow: /wp-admin/
-Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /comments/feed/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
 
 Sitemap: https://www.cheapxboxlivecodes.com/sitemap.xml.gz

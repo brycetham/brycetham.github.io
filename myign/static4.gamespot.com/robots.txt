@@ -1,11 +1,10 @@
-# robots.txt for http://www.gamespot.com/
+# robots.txt for https://www.gamespot.com/
 User-agent: *
-Disallow: /api/follow/
-Disallow: /api/image/image-data/
+Allow: /api/$
+Disallow: /api/*
 Disallow: /notifications/
 Disallow: /search/
 Disallow: *login=*
-Disallow: /videos/embed
 Disallow: /postRender
 Disallow: /forums/*/flag/
 Disallow: /forums/*/delete/

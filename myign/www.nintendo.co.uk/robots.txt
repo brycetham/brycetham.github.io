@@ -4,6 +4,7 @@ Allow: /NOE/*/club_nintendo/club_not_logged_in.jsp
 Allow: /NOE/*/club_nintendo/index_register-0b-productcode.jsp
 Allow: /NOE/*/club_nintendo/product_registration.jsp
 Allow: /NOE/*/club_nintendo/news_4/newsletter_1795.jsp
+Allow: /NOE/*/club_nintendo/registration_2428.jsp
 Disallow: /games/oms/
 Disallow: /*/games/oms/
 Disallow: /NOE/*/club_nintendo/

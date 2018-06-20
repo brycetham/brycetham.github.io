@@ -1,15 +1,18 @@
-# Disallow crawling of sub-site
-User-agent: *
-Crawl-delay: 5
-Disallow: /site/
-Disallow: /common/forsale/
-Disallow: /common/roar/redir
-Disallow: /common/roar/results.htm
-Disallow: /common/advertise/advertising.htm
-Disallow: /assets/
+User-Agent: *
+Disallow:
 
-User-Agent: MJ12bot
-Disallow:   /
-
-User-agent: ShopWiki
+User-Agent: Yandex
+User-Agent: Twitterbot
+User-Agent: seznambot
+User-Agent: rogerbot
+User-Agent: naverbot
+User-Agent: Mail.RU_Bot
+User-Agent: ia_archiver
+User-Agent: Baiduspider
+User-Agent: BaiduImagespider
+User-Agent: BaiduMobaider
+User-Agent: Megalodon
+User-Agent: dataprovider
 Disallow: /
+
+Sitemap: http://www.thegamingpixelshow.com/sitemap.xml
