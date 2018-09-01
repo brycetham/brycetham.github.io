@@ -85,8 +85,25 @@ ul {
     height: 150px;
 }
 
+.laurel {
+    background-image: url('../img/laurel.png');
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 100px;
+}
+
 .circlek {
     margin-bottom: 15px;
+    padding: 10px;
+    background-color: rgba(100%, 100%, 100%,  0.5);
+    border-radius: 10px;
 }
 
 #back-to-top {
@@ -109,4 +126,28 @@ ul {
     left: 50%;
     margin-top: -23px;
     margin-left: -23px;
+}
+
+#connect a {
+    margin-right: 20px;
+}
+
+.btn-twitter:hover {
+    color: #1da1f2;
+    text-decoration: none;
+}
+
+.btn-linkedin:hover {
+    color: #0077b5;
+    text-decoration: none;
+}
+
+.btn-github:hover {
+    color: #c9510c;
+    text-decoration: none;
+}
+
+.btn-wordpress:hover {
+    color: #21759b;
+    text-decoration: none;
 }
