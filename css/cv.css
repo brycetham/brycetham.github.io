@@ -1,0 +1,95 @@
+body {
+    /* font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; */
+    /* font-weight: 300; */
+    font-size: 15px;
+    color: #333333;
+}
+
+h2 {
+    padding: 10px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid gray;
+    width: 100%;
+}
+ul {
+    list-style-type: circle;
+}
+
+.footer {
+  padding: 20px 0;
+}
+.header {
+    padding-bottom: 40px;
+}
+.header h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+.header .text-muted {
+  margin: 20px 0 0 0;
+}
+.header .row {
+    margin-top: 50px;
+}
+.lead {
+    margin-bottom: 6px;
+}
+.row {
+    margin: 10px 0;
+}
+.profile {
+    border-radius: 50%;
+    filter: grayscale(100%);
+}
+.progress {
+  margin-bottom: 10px;
+}
+.project {
+  margin-bottom: 10px;
+}
+.project img {
+  margin-top: 10px;
+}
+
+.laurel {
+    background-image: url('../img/laurel.png');
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 100px;
+}
+
+#back-to-top {
+    background: none;
+    margin: 0;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 25px;
+    height: 30px;
+    z-index: 100;
+    font-size: 20px;
+}
+
+.btn {
+  color: inherit;
+  border: 1px solid #212121;
+}
+.btn-twitter:hover {
+    color: #1da1f2;
+}
+.btn-linkedin:hover {
+    color: #0077b5;
+}
+.btn-github:hover {
+    color: #c9510c;
+}
+.btn-wordpress:hover {
+    color: #21759b;
+}
