@@ -24,7 +24,6 @@ body {
 }
 
 p {
-    margin-top: 20px;
     line-height: 35px;
     font-size: 16px;
 }
@@ -85,7 +84,6 @@ a.fa-stack {
     color: #bf1313;
 }
 
-
 .btn-linkedin:hover {
     color: #0077b5;
 }
@@ -116,9 +114,24 @@ a.fa-stack {
   border: none;
 }
 
+.bs-tooltip-left .arrow::before {
+  border: none;
+}
+
+.bs-tooltip-right .arrow::before {
+  border: none;
+}
+
+.bs-tooltip-top .arrow::before {
+  border: none;
+}
+
 @media (max-width: 600px)  {
     .container {
         text-align: center;
         margin: auto;
+    }
+    .tooltip-inner {
+      display: none;
     }
 }
