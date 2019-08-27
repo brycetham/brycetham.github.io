@@ -135,3 +135,25 @@ a.fa-stack {
       display: none;
     }
 }
+
+.carousel {
+  padding: 40px 50px;
+  margin-top: 25px;
+  min-height: 60vh;
+  box-shadow: 2px 2px 4px 4px #ccc;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.carousel-indicators li {
+  background-color: lightgray;
+}
+
+.carousel-indicators .active {
+  background-color: darkgray;
+}
+
+.project-description p {
+  font-size: 16px;
+  line-height: 24px;
+}
