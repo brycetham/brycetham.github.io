@@ -44,7 +44,7 @@ ul {
 }
 .profile {
     border-radius: 50%;
-    filter: grayscale(100%);
+    /* filter: grayscale(100%); */
 }
 .progress {
   margin-bottom: 10px;
@@ -89,7 +89,7 @@ ul {
 .btn-twitter:hover {
     color: #1da1f2;
 }
-.btn-linkedin:hover {
+.btn-linkin:hover {
     color: #0077b5;
 }
 .btn-github:hover {
@@ -98,3 +98,13 @@ ul {
 .btn-wordpress:hover {
     color: #21759b;
 }
+
+@media print {
+    .pagebreak {
+        page-break-before: always;
+    }
+    .noprint {
+        display: none !important;
+    }
+}
+
